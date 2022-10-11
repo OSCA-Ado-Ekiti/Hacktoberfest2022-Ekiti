@@ -80,6 +80,15 @@
   "What niche do you like contributing to?":"Documentations/Code",
 }
 {
+  "Name":"Juwon Akingbade",
+  "Nickname": "Junny",
+  "Tech Stack": "Frontend Development",
+  "Experience level in OSS":"intermediate",
+  "Twitter Handle":"@juwonemmanuel6",
+  "GitHub Profile": "https://github.com/JUNNY12",
+  "What niche do you like contributing to?":"Documentations/Code",
+}
+{
   "Name": "Tuase Segun",
   "Nickname": "tuasegun",
   "Tech Stack": "Javascript",
@@ -87,5 +96,4 @@
   "Twitter Handle": "@tuasegun",
   "GitHub Profile": "https://github.com/tuasegun",
   "Which niche would you like contributing to?": "Documentation/Code",
-}
-  
+}  
