@@ -62,19 +62,13 @@
   "Which niche would you like contributing to?":"Documentation/code"
 }
 {
-
-"Name": "Jolayemi Damilare",
-
-"Nickname": "0konstant",
-
-"Tech Stack": "Data Science & Machine Learning",
-
-"Experience Level in OSS": "Intermediate",
-
-"Twitter Handle": "@Moses_Jolayemi",
-
-"GitHub Profile": "https://github.com/0KONSTANT",
+  "Name":"Jolayemi Damilare",
+  "Nickname": "Konstant",
+  "Tech Stack": "Data Science & Machine Learning",
+  "Experience level in OSS":"Intermediate",
+  "Twitter Handle":"@Moses_Jolayemi",
+  "GitHub Profile": "https://github.com/0KONSTANT",
+  "What niche do you like contributing to?":"Documentations/Code",
+  }
   
-"Which niche do you like contributing too?": "Documentation/Code"
-
-}
+  
