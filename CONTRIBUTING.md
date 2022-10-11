@@ -24,12 +24,12 @@ Input the name of your branch and then click "Create branch: branch-name" slight
 ![compare and pull request](https://user-images.githubusercontent.com/53593233/195103835-8a279c89-a0e9-4aa3-abec-df5ac30803a0.PNG)
 
 
-5. Finally, send your pull request
+5. Finally, send your pull request.
+You can also leave a comment to explain your contribution.
 
 ![pull_request](https://user-images.githubusercontent.com/53593233/195104042-4b44473e-6292-4681-9b4e-ee422982ed14.PNG)
 
-You can also leave a comment to explain your contribution.
 
 
 
-If you are having any dificulty, check this article: ![https://codesandbox.io/post/how-to-make-your-first-open-source-contribution](https://codesandbox.io/post/how-to-make-your-first-open-source-contribution)
+If you are having any dificulty, check this article: [https://codesandbox.io/post/how-to-make-your-first-open-source-contribution](https://codesandbox.io/post/how-to-make-your-first-open-source-contribution)
