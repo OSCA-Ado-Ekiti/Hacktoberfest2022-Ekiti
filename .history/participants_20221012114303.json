@@ -1,29 +1,29 @@
 {
-  "Name": "Abdulmalik Salawu",
-  "Nickname": "SaintMalik",
-  "Tech Stack": "DevSecOps, AppSec",
-  "Experience Level in OSS": "Expert",
-  "Twitter Handle": "@saintmalik_",
-  "GitHub Profile": "https://github.com/saintmalik",
-  "Which niche would you like contributing too?": "Documentation/Code"
+"Name": "Abdulmalik Salawu",
+"Nickname": "SaintMalik",
+"Tech Stack": "DevSecOps, AppSec",
+"Experience Level in OSS": "Expert",
+"Twitter Handle": "@saintmalik_",
+"GitHub Profile": "https://github.com/saintmalik",
+"Which niche would you like contributing too?": "Documentation/Code"
 }
 {
-  "Name": "Ubaka Amaka",
-  "Nickname": "Amakarivas",
-  "Tech Stack": "Data Analyst",
-  "Experience Level in OSS": "Begineer",
-  "Twitter Handle": "@amakarivas",
-  "GitHub Profile": "https://github.com/amakarivas",
-  "Which niche would you like contributing too?": "Documentation/Code/Design"
+"Name": "Ubaka Amaka",
+"Nickname": "Amakarivas",
+"Tech Stack": "Data Analyst",
+"Experience Level in OSS": "Begineer",
+"Twitter Handle": "@amakarivas",
+"GitHub Profile": "https://github.com/amakarivas",
+"Which niche would you like contributing too?": "Documentation/Code/Design"
 }
 {
-  "Name": "Ajiboye Toluwalase",
-  "Nickname": "Mmadafaka",
-  "Tech Stack": "Machine Learning ,AI",
-  "Experience Level in OSS": "Intermediate",
-  "Twitter Handle": "@Mmadafaka12",
-  "GitHub Profile": "https://github.com/metrosmash",
-  "Which niche would you like contributing too?": "Documentation/Code"
+"Name": "Ajiboye Toluwalase",
+"Nickname": "Mmadafaka",
+"Tech Stack": "Machine Learning ,AI",
+"Experience Level in OSS": "Intermediate",
+"Twitter Handle": "@Mmadafaka12",
+"GitHub Profile": "https://github.com/metrosmash",
+"Which niche would you like contributing too?": "Documentation/Code"
 }
 {
   "Name": "Ogbeide Jahswill",
@@ -35,13 +35,13 @@
   "Which niche would you like contributing too?": "Documentation/Code/Design"
 }
 {
-  "Name": "Olaoye Isaiah",
-  "Nickname": "kuhmasii",
-  "Tech Stack": "Backend",
-  "Experience Level in OSS": "Expert",
-  "Twitter Handle": "@kuhmasii",
-  "GitHub Profile": "https://github.com/kuhmasii/",
-  "Which niche do you like contributing too?": "Code"
+"Name": "Olaoye Isaiah",
+"Nickname": "kuhmasii",
+"Tech Stack": "Backend",
+"Experience Level in OSS": "Expert",
+"Twitter Handle": "@kuhmasii",
+"GitHub Profile": "https://github.com/kuhmasii/",
+"Which niche do you like contributing too?": "Code"
 }
 {
   "Name": "Edun Elijah",
@@ -59,34 +59,34 @@
   "Experience Level in OSS": "Beginner",
   "Twitter Handle": "@Moyin2_",
   "GitHub Profile": "https://github.com/Moyincodes",
-  "Which niche would you like contributing to?": "Documentation/code"
+  "Which niche would you like contributing to?":"Documentation/code"
 }
 {
-  "Name": "Jolayemi Damilare",
+  "Name":"Jolayemi Damilare",
   "Nickname": "Konstant",
   "Tech Stack": "Data Science & Machine Learning",
-  "Experience level in OSS": "Intermediate",
-  "Twitter Handle": "@Moses_Jolayemi",
+  "Experience level in OSS":"Intermediate",
+  "Twitter Handle":"@Moses_Jolayemi",
   "GitHub Profile": "https://github.com/0KONSTANT",
-  "What niche do you like contributing to?": "Documentations/Code",
+  "What niche do you like contributing to?":"Documentations/Code",
 }
 {
-  "Name": "Ogunmisi Oluwafemi ",
+  "Name":"Ogunmisi Oluwafemi ",
   "Nickname": "Hefhem",
   "Tech Stack": "Frontend Development",
-  "Experience level in OSS": "Expert",
-  "Twitter Handle": "@OgunmisiM",
+  "Experience level in OSS":"Expert",
+  "Twitter Handle":"@OgunmisiM",
   "GitHub Profile": "https://github.com/OgunmisiM",
-  "What niche do you like contributing to?": "Documentations/Code",
+  "What niche do you like contributing to?":"Documentations/Code",
 }
 {
-  "Name": "Juwon Akingbade",
+  "Name":"Juwon Akingbade",
   "Nickname": "Junny",
   "Tech Stack": "Frontend Development",
-  "Experience level in OSS": "intermediate",
-  "Twitter Handle": "@juwonemmanuel6",
+  "Experience level in OSS":"intermediate",
+  "Twitter Handle":"@juwonemmanuel6",
   "GitHub Profile": "https://github.com/JUNNY12",
-  "What niche do you like contributing to?": "Documentations/Code",
+  "What niche do you like contributing to?":"Documentations/Code",
 }
 {
   "Name": "Tuase Segun",
@@ -150,13 +150,4 @@
   "Twitter Handle": "@KingAn0inting",
   "GitHub Profile": "https://github.com/KingAnointing",
   "Which niche would you like contributing too?": "Code"
-}
-{
-  "Name": "Oluwatosin Ayeni",
-  "Nickname": "Ayenitosin",
-  "Tech Stack": "Quality Assurance",
-  "Experience Level in OSS": "Intermidiate",
-  "Twitter Handle": "@tosin_esther_",
-  "GitHub Profile": "https://github.com/ayenitosin03",
-  "Which niche would you like contributing too?": "Test case Documentation/Code"
 }
