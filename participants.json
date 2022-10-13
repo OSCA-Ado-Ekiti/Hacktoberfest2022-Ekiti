@@ -223,13 +223,21 @@
   "GitHub Profile": "https://github.com/AvatarMiiDe",
   "Which niche would you like contributing too?": "Design/UI UX Documentation"
 }
-
 {
   "Name": "Adefabi Muminat Oriyomi",
   "Nickname" : "Mheenarh",
   "Tech Stack": "Web Development"
   "Experience Level in OSS": "Beginner",
+  "Twitter Handle": "NIL",
   "GitHub Profile": "https://github.com/Mhee-narh2328",
   "Which niche would you like contributing too?": "Code"
 }
-
+{
+  "Name": "Tolulope Orioye",
+  "Nickname": "Toluu",
+  "Tech Stack": "Frontend developer",
+  "Experience Level in OSS": "Beginner",
+  "Twitter Handle": "@TolulopeOrioye",
+  "GitHub Profile": "https://github.com/Toluorioye",
+  "Which niche would you like contributing too?": "Documentation/Code"
+}
