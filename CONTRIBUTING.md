@@ -1,4 +1,4 @@
-## Send PR directly on Github
+# Send PR directly on Github
 
 1. Fork the repository: forking a repository creates a copy of the repository on your accoount. This allows you to freely experiment changes without affecting the main repository.
 
@@ -32,14 +32,14 @@ You can also leave a comment to explain your contribution.
 ![pull_request](https://user-images.githubusercontent.com/53593233/195104042-4b44473e-6292-4681-9b4e-ee422982ed14.PNG)
 
 
-## Send PR with git
+# Send PR with git
 
 1. Fork the repository as in the first step above
 
 2. Clone the forked repository to your local machine 
 
 ```markdown
-git clone [https://github.com/OSCA-Ado-Ekiti/Hacktoberfest2022-Ekiti.git](https://github.com/OSCA-Ado-Ekiti/Hacktoberfest2022-Ekiti.git)
+git clone https://github.com/OSCA-Ado-Ekiti/Hacktoberfest2022-Ekiti.git
 ```
 
 3. Navigate to the cloned directory
