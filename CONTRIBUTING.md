@@ -1,3 +1,5 @@
+## Send PR directly on Github
+
 1. Fork the repository: forking a repository creates a copy of the repository on your accoount. This allows you to freely experiment changes without affecting the main repository.
 
 ![fork](https://user-images.githubusercontent.com/53593233/195101076-015c4c34-fbdf-4836-9f00-2ec67a580962.PNG)
@@ -30,6 +32,37 @@ You can also leave a comment to explain your contribution.
 ![pull_request](https://user-images.githubusercontent.com/53593233/195104042-4b44473e-6292-4681-9b4e-ee422982ed14.PNG)
 
 
+## Send PR with git
+
+1. Fork the repository as in the first step above
+
+2. Clone the forked repository to your local machine 
+
+```markdown
+git clone [https://github.com/OSCA-Ado-Ekiti/Hacktoberfest2022-Ekiti.git](https://github.com/OSCA-Ado-Ekiti/Hacktoberfest2022-Ekiti.git)
+```
+
+3. Navigate to the cloned directory
+
+```markdown
+cd Hacktoberfest2022-Ekiti
+```
+
+4. Create a branch 
+
+```markdown
+git checkout -b branch_name (Creates and switches to the new branch created)
+```
+
+5. Make your contributions 
+
+6. Add, commit and push changes
+
+```markdown
+git add file_name (use . to add every files and folders in the directory)
+git commit -m 'commit message' 
+git push origin branch_name
+```
 
 
 If you are having any dificulty, check this article: [https://codesandbox.io/post/how-to-make-your-first-open-source-contribution](https://codesandbox.io/post/how-to-make-your-first-open-source-contribution)
