@@ -1,0 +1,1633 @@
+[
+    {
+        "issues": "https://github.com/acantoscurria/ispc-fullstack/issues/24",
+        "title": "Backend",
+        "body": "- Script de la BD en MySQL\r\n- Consultas : Insert - Select - Update - JOIN\r\n- Modelo de Caso de Uso de cada modularizaci\u00f3n.(m\u00ednimo 1 CRUD (Python) y listado de movimientos/historial, por ejemplo)",
+        "labels": [],
+        "assignees": 3,
+        "comments": 2,
+        "created_at": "2022-10-22T18:40:56Z"
+    },
+    {
+        "issues": "https://github.com/melonny/Health/issues/1",
+        "title": "backend",
+        "body": null,
+        "labels": [
+            {
+                "id": 4576202395,
+                "node_id": "LA_kwDOIERht88AAAABEMNOmw",
+                "url": "https://api.github.com/repos/melonny/Health/labels/good%20first%20issue",
+                "name": "good first issue",
+                "color": "7057ff",
+                "default": true,
+                "description": "Good for newcomers"
+            }
+        ],
+        "assignees": 1,
+        "comments": 1,
+        "created_at": "2022-10-24T03:25:56Z"
+    },
+    {
+        "issues": "https://github.com/arielleparis/Tech-hocus-pocus/issues/8",
+        "title": "Backend ",
+        "body": null,
+        "labels": [
+            {
+                "id": 4705294128,
+                "node_id": "LA_kwDOIR4KCc8AAAABGHUXMA",
+                "url": "https://api.github.com/repos/arielleparis/Tech-hocus-pocus/labels/help%20wanted",
+                "name": "help wanted",
+                "color": "008672",
+                "default": true,
+                "description": "Extra attention is needed"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-22T00:47:11Z"
+    },
+    {
+        "issues": "https://github.com/htl-grieskirchen-core/core/issues/88",
+        "title": "Split Backend and Backend.Secure",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-18T06:32:08Z"
+    },
+    {
+        "issues": "https://github.com/Marckfx/Internet-seite/issues/2",
+        "title": "Backend",
+        "body": "Erstelllen eines Backends",
+        "labels": [
+            {
+                "id": 4702850219,
+                "node_id": "LA_kwDOIRlt_s8AAAABGE_Mqw",
+                "url": "https://api.github.com/repos/Marckfx/Internet-seite/labels/Epics",
+                "name": "Epics",
+                "color": "05842D",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-21T10:42:20Z"
+    },
+    {
+        "issues": "https://github.com/openfun/ralph/issues/223",
+        "title": "\ud83c\udfd7\ufe0f(backends) Unify data backends",
+        "body": "## Purpose\r\n\r\nStorage and Database backends have similar interfaces and usage. \r\n\r\n## Proposal\r\n\r\nUnify the interfaces of database and storage backends into a single DataBackend interface.\r\n\r\n- [X] add Data and LRS Backend interfaces\r\n- [X] add FileSystemDataBackend\r\n- [ ] add LDPDataBackend\r\n- [ ] add SwiftDataBackend\r\n- [ ] add ESDataBackend\r\n- [ ] add MongoDataBackend\r\n- [ ] replace database and storage backends with data backends",
+        "labels": [
+            {
+                "id": 1833739231,
+                "node_id": "MDU6TGFiZWwxODMzNzM5MjMx",
+                "url": "https://api.github.com/repos/openfun/ralph/labels/feature",
+                "name": "feature",
+                "color": "0052cc",
+                "default": false,
+                "description": null
+            },
+            {
+                "id": 1833739237,
+                "node_id": "MDU6TGFiZWwxODMzNzM5MjM3",
+                "url": "https://api.github.com/repos/openfun/ralph/labels/WIP",
+                "name": "WIP",
+                "color": "ed7f10",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-21T12:32:29Z"
+    },
+    {
+        "issues": "https://github.com/susmaycan/adoptdontbuy-client/issues/13",
+        "title": "backend",
+        "body": "need explanation about backend how to connect\r\nwhat to include\r\n",
+        "labels": [],
+        "assignees": 1,
+        "comments": 2,
+        "created_at": "2022-10-18T11:46:33Z"
+    },
+    {
+        "issues": "https://github.com/AngelesMary/Proyecto-Full-stack/issues/34",
+        "title": "Backend",
+        "body": "Realizar script de la BD en MySQL\r\n",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-24T16:24:55Z"
+    },
+    {
+        "issues": "https://github.com/AngelesMary/Proyecto-Full-stack/issues/33",
+        "title": "Backend",
+        "body": "Realizar consultas : Insert - Select - Update - JOIN\r\n",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-24T16:23:39Z"
+    },
+    {
+        "issues": "https://github.com/AngelesMary/Proyecto-Full-stack/issues/32",
+        "title": "Backend",
+        "body": "Realizar:\r\nModelo de Caso de Uso de cada modularizaci\u00f3n.(m\u00ednimo 1 CRUD (Python) y listado de movimientos/historial, por ejemplo)\r\n",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-24T16:22:14Z"
+    },
+    {
+        "issues": "https://github.com/chebok/PokemonCardGame/issues/22",
+        "title": "Backend",
+        "body": "\u041f\u043e\u0444\u0438\u043a\u0441\u0438\u043b tsconfig.json\r\n\u0414\u043e\u0431\u0430\u0432\u0438\u043b ConfigService \u0441 \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u043c\u0438 \u043e\u043a\u0440\u0443\u0436\u0435\u043d\u0438\u044f \u043d\u0430 \u0431\u0430\u0437\u0435 dotenv",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-24T10:03:34Z"
+    },
+    {
+        "issues": "https://github.com/Zephyr0402/PetPal/issues/33",
+        "title": "backend",
+        "body": "how to know want is inside the mongodb\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T13:27:28Z"
+    },
+    {
+        "issues": "https://github.com/Jpatel1103/CS4485-Virtual-TA-/issues/21",
+        "title": "Backend",
+        "body": "### Title\r\n*Backend programming\r\n### Feature\r\n*pycharm and libraries\r\n### Description\r\n*building the code which uses the basic Q&A libraries and help to answer. \r\n###  Acceptance Criteria\r\n*\r\n### Definition of Ready\r\n*\r\n### Definition of Done\r\n*\r\n### Technical Requirements\r\n*\r\n",
+        "labels": [
+            {
+                "id": 4545325445,
+                "node_id": "LA_kwDOH-6bYc8AAAABDuwphQ",
+                "url": "https://api.github.com/repos/Jpatel1103/CS4485-Virtual-TA-/labels/Story",
+                "name": "Story",
+                "color": "0052CC",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-13T22:25:14Z"
+    },
+    {
+        "issues": "https://github.com/codestates-seb/seb39_main_015/issues/254",
+        "title": "Backend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-20T14:23:53Z"
+    },
+    {
+        "issues": "https://github.com/ng-xcv/Gestion-BDD/issues/1",
+        "title": "Backend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-19T11:28:19Z"
+    },
+    {
+        "issues": "https://github.com/FissoreAylen/Proyecto-Integrador---MODULO-FULL-STACK/issues/23",
+        "title": "BACKEND",
+        "body": "Modelado de DB. DER, Modelo Relacional. \nAbstracci\u00f3n y Modularizaci\u00f3n en MVC (consultar los videos del M\u00f3dulo Programador Full Stack - Backend: Libro de Introducci\u00f3n a la programaci\u00f3n en python)",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-14T22:00:06Z"
+    },
+    {
+        "issues": "https://github.com/Andkov440/movies-explorer-api/issues/1",
+        "title": "Backend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-20T14:00:29Z"
+    },
+    {
+        "issues": "https://github.com/Prerit007/Daikoku/issues/1",
+        "title": "Backend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T09:57:31Z"
+    },
+    {
+        "issues": "https://github.com/Anei90/SDLC-ASSIG1-BSCS3-/issues/6",
+        "title": " Backend ",
+        "body": "I programed my application using php programing language to whereby I used custom APIs and Google APIs for the maps and locations.   \r\nAPIs refer to Application Programming Interface, which is a software intermediary that allows two applications to talk to each other. \r\n",
+        "labels": [
+            {
+                "id": 4579707535,
+                "node_id": "LA_kwDOIEpKS88AAAABEPjKjw",
+                "url": "https://api.github.com/repos/Anei90/SDLC-ASSIG1-BSCS3-/labels/documentation",
+                "name": "documentation",
+                "color": "0075ca",
+                "default": true,
+                "description": "Improvements or additions to documentation"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-13T17:57:29Z"
+    },
+    {
+        "issues": "https://github.com/iamsuyashpatel07/suyashpatel/issues/46",
+        "title": "Backend",
+        "body": "How about creating a backend for the webapp and rendering all the data dynamically?",
+        "labels": [],
+        "assignees": 1,
+        "comments": 5,
+        "created_at": "2022-10-13T14:44:36Z"
+    },
+    {
+        "issues": "https://github.com/ntijoh-te4/P2-Ninja-Criminals/issues/10",
+        "title": "backend",
+        "body": null,
+        "labels": [
+            {
+                "id": 4649855621,
+                "node_id": "LA_kwDOIMBh4s8AAAABFScqhQ",
+                "url": "https://api.github.com/repos/ntijoh-te4/P2-Ninja-Criminals/labels/testing",
+                "name": "testing",
+                "color": "674947",
+                "default": false,
+                "description": "currently being tested"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-12T07:18:50Z"
+    },
+    {
+        "issues": "https://github.com/JoTec2002/TINF21C_AAS_Management/issues/11",
+        "title": "Backend",
+        "body": "@JoTec2002 @paulbrenner2 @LukaDPavic ",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-11T14:30:47Z"
+    },
+    {
+        "issues": "https://github.com/team-dev-bouillon/backend/issues/1",
+        "title": "backend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-11T11:49:12Z"
+    },
+    {
+        "issues": "https://github.com/hs05june/hco/issues/12",
+        "title": "Backend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-16T05:30:56Z"
+    },
+    {
+        "issues": "https://github.com/capacitybay/capahelp/issues/26",
+        "title": "Backend",
+        "body": "updated some files",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-15T12:55:58Z"
+    },
+    {
+        "issues": "https://github.com/ITwhitecliffe/IT6041-Software-Project---Oct2022/issues/8",
+        "title": "Backend",
+        "body": "### The role\nServer architecture\nDatabase administration\nBackend programming language\nAPI\n\n### Skill\nProgramming and scripting such as \nNodeJs, Python, C# \nRuby, Go, Swift, Perl, PHP, Java\n\n\n\n![Image](https://user-images.githubusercontent.com/68981715/194783331-6e85ccef-0e93-4545-b930-715ca838cc07.png)\n\n",
+        "labels": [
+            {
+                "id": 4628123313,
+                "node_id": "LA_kwDOIJvS9c8AAAABE9uOsQ",
+                "url": "https://api.github.com/repos/ITwhitecliffe/IT6041-Software-Project---Oct2022/labels/good%20first%20issue",
+                "name": "good first issue",
+                "color": "7057ff",
+                "default": true,
+                "description": "Good for newcomers"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-07T06:50:56Z"
+    },
+    {
+        "issues": "https://github.com/g3-reiten/scalable-backtesting-pipeline/issues/7",
+        "title": "Backend",
+        "body": null,
+        "labels": [],
+        "assignees": 3,
+        "comments": 0,
+        "created_at": "2022-10-11T08:15:09Z"
+    },
+    {
+        "issues": "https://github.com/PaddlePaddle/FastDeploy/issues/368",
+        "title": "[Backend] Add RKNPU2 backend support",
+        "body": "<!-- Demo: https://github.com/PaddlePaddle/Paddle/pull/24810 -->\r\n### PR types\r\nNew features\r\n\r\n### PR changes\r\nOthers\r\n\r\n### Describe\r\n\u65b0\u589erknn backend\r\n\u76ee\u524d\u5df2\u7ecf\u652f\u6301\u7684\u6a21\u578b\uff1a\r\n\r\n* Picodet-s-npu\r\n* PP-LiteSeg\r\n* PP-HumanSegV2Lite-portrait\r\n* PP-HumanSegV2Lite-human\r\n* SCRFD\r\n* ArcFace\r\n* cosFace\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 5,
+        "created_at": "2022-10-14T06:44:21Z"
+    },
+    {
+        "issues": "https://github.com/rclone/rclone/issues/6486",
+        "title": "backend: Add NeoFS backend",
+        "body": "### What is the purpose of this change?\r\n\r\nAdding support for NeoFS as a backend.\r\n\r\n[NeoFS](https://fs.neo.org/) is a distributed, decentralized object storage network developed by [Neo SPCC](https://nspcc.ru/en). Built with Neo blockchain integration in mind, NeoFS aims to support the shift away from third-party storage providers, providing users with complete control over their data.\r\n\r\nNeoFS is backet/container based backend that support the following operations:\r\n\r\n* Create/get/delete/getEACL/setEACL container - see appropriate [grpc service](https://github.com/nspcc-dev/neofs-api/blob/d95228c40283cf6e188073a87a802af7e5dc0a7d/container/service.proto#L17) (EACL is a table with right access rules)\r\n* Put/get/delete/head/range object - see appropriate [grpc service](https://github.com/nspcc-dev/neofs-api/blob/d95228c40283cf6e188073a87a802af7e5dc0a7d/object/service.proto#L14)\r\n\r\nMore detail you can find in [spec](https://nspcc.ru/upload/neofs-spec-latest.pdf).\r\n\r\n### How to test this new backend\r\n\r\nRun NeoFS using devenv (see README in [repo](https://github.com/nspcc-dev)). You can also use [testnet, mainnet](https://docs.neo.org/docs/en-us/develop/network/testnet.html) \r\n\r\nPrepare rclone config. The following config for devenv: \r\n```\r\n[TestNeoFS]\r\ntype = neofs\r\nneofs_endpoint = s01.neofs.devenv:8080\r\nwallet = ./github/nspcc/neofs-dev-env/wallets/wallet.json\r\nbasic_acl = public-read-write\r\nplacement_policy = REP 3\r\nrpc_address = http://morph-chain.neofs.devenv:30333\r\n```\r\n\r\n Now you can test new neofs backend.\r\n\r\n### Additional links\r\n* https://github.com/nspcc-dev/ \r\n* https://neo.org/ \r\n* https://neospcc.medium.com/neofs-and-storj-comparison-efa426504cbb \r\n\r\n\r\n#### Checklist\r\n\r\n- [x] I have read the [contribution guidelines](https://github.com/rclone/rclone/blob/master/CONTRIBUTING.md#submitting-a-new-feature-or-bug-fix).\r\n- [x] I have added tests for all changes in this PR if appropriate.\r\n- [x] I have added documentation for the changes if appropriate.\r\n- [x] All commit messages are in [house style](https://github.com/rclone/rclone/blob/master/CONTRIBUTING.md#commit-messages).\r\n- [x] I'm done, this Pull Request is ready for review :-)\r\n\r\n#### How to use GitHub\r\n\r\nPlease use the \ud83d\udc4d [reaction](https://blog.github.com/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/) to show that you are affected by the same issue.\r\n\r\nPlease don't comment if you have no relevant information to add. It's just extra noise for everyone subscribed to this issue.\r\n\r\nSubscribe to receive notifications on status change and new comments.\r\n",
+        "labels": [
+            {
+                "id": 396172076,
+                "node_id": "MDU6TGFiZWwzOTYxNzIwNzY=",
+                "url": "https://api.github.com/repos/rclone/rclone/labels/new%20backend",
+                "name": "new backend",
+                "color": "c0e0f0",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-11T10:15:29Z"
+    },
+    {
+        "issues": "https://github.com/goldmark00000/Parolame/issues/3",
+        "title": "Backend",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-04T18:59:02Z"
+    },
+    {
+        "issues": "https://github.com/SyedMuhammedBilal/Retail-Bull-Backend/issues/1",
+        "title": "Backend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-13T17:53:19Z"
+    },
+    {
+        "issues": "https://github.com/HungryBroke/HungryBroke/issues/1",
+        "title": "i18n: backend",
+        "body": "Recipe description (django-modeltranslation?)\r\nFood units",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-19T18:21:12Z"
+    },
+    {
+        "issues": "https://github.com/Alexandregv1080p/Prot-tipo-A2W-Angular/issues/2",
+        "title": "Backend",
+        "body": "Fiz um la\u00e7o do backend com o front-end, inseri o valor booleano no status atrav\u00e9s de um checkbox",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-10T16:14:22Z"
+    },
+    {
+        "issues": "https://github.com/AnkitaMalik22/hsfd-system/issues/1",
+        "title": "Backend issue ",
+        "body": "\r\n# Updated Data Not Saving In MongoDB\r\n\r\n\r\n\r\n\r\n\r\n\r\n####  GET Food Details \r\n\r\n- router.route(\"/food/:id\").get(getfoodDetails)\r\n- here the request status is false by default.\r\n- \"status\": false,\r\n**PostMan Response**\r\n\r\n```bash\r\n{\r\n    \"success\": true,\r\n    \"food\": {\r\n        \"_id\": \"6310c11a25659a73a9323135\",\r\n        \"name\": \"chowmin\",\r\n        \"description\": \"this is desc..\",\r\n        \"ratings\": 0,\r\n        \"category\": \"chineese\",\r\n        \"Quantity\": 1,\r\n        \"owner\": \"hotel belmuri\",\r\n        \"image\": [],\r\n        \"requests\": [\r\n            {\r\n                \"user\": \"63105a8dfca318c1972bcc29\",\r\n                \"name\": \"Vollunteer\",\r\n                \"comment\": \"want this for poor people\",\r\n                \"status\": false,\r\n                \"_id\": \"6310c527bed4bba6a608b29f\"\r\n            },\r\n            {\r\n                \"user\": \"632884611816c85c14edcd2f\",\r\n                \"name\": \"Ankita\",\r\n                \"comment\": \"want this for poor people\",\r\n                \"status\": false,\r\n                \"_id\": \"6329cec0b2b6e6c02927d3e6\"\r\n            }\r\n        ],\r\n        \"createdAt\": \"2022-09-01T14:26:34.396Z\",\r\n        \"__v\": 2,\r\n        \"numOfRequests\": 2\r\n    }\r\n}\r\n\r\n```\r\n\r\n####  PUT  | Accept Food request\r\n\r\n- router.route(\"/request/accept/:id\").put(isAuthenticatedUser,authorizeRoles(\"hotel\"),acceptFoodRequest)\r\n\r\n- https://github.com/AnkitaMalik22/hsfd-system/blob/main/backend/controllers/foodControllers.js#L135\r\n\r\n- here i am trying to change the request status from false to true.\r\n\r\n- \"status\": true,\r\n\r\n**PostMan Response**\r\n\r\n```bash\r\n{\r\n    \"success\": true,\r\n    \"food\": {\r\n        \"_id\": \"6310c11a25659a73a9323135\",\r\n        \"name\": \"chowmin\",\r\n        \"description\": \"this is desc..\",\r\n        \"ratings\": 0,\r\n        \"category\": \"chineese\",\r\n        \"Quantity\": 1,\r\n        \"owner\": \"hotel belmuri\",\r\n        \"image\": [],\r\n        \"requests\": [\r\n            {\r\n                \"user\": \"63105a8dfca318c1972bcc29\",\r\n                \"name\": \"Vollunteer\",\r\n                \"comment\": \"want this for poor people\",\r\n                \"status\": true,\r\n                \"_id\": \"6310c527bed4bba6a608b29f\"\r\n            },\r\n            {\r\n                \"user\": \"632884611816c85c14edcd2f\",\r\n                \"name\": \"Ankita\",\r\n                \"comment\": \"want this for poor people\",\r\n                \"status\": false,\r\n                \"_id\": \"6329cec0b2b6e6c02927d3e6\"\r\n            }\r\n        ],\r\n        \"createdAt\": \"2022-09-01T14:26:34.396Z\",\r\n        \"__v\": 2,\r\n        \"numOfRequests\": 2\r\n    }\r\n}\r\n```\r\n### It's Changed to  **\"status\": true** ! But the problem is it's not saving in MongoDb .\r\n### When i'm requesting  get food details again it's showing **\"status\": false**",
+        "labels": [],
+        "assignees": 0,
+        "comments": 4,
+        "created_at": "2022-10-18T16:54:40Z"
+    },
+    {
+        "issues": "https://github.com/codestates-seb/seb39_main_015/issues/202",
+        "title": "Backend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-06T12:02:53Z"
+    },
+    {
+        "issues": "https://github.com/Neshura87/Stellaris-Note-Manager/issues/1",
+        "title": "Backend",
+        "body": "Backend needs to be able to get Data for the conent Pages",
+        "labels": [
+            {
+                "id": 4609809525,
+                "node_id": "LA_kwDOIHz9Uc8AAAABEsQcdQ",
+                "url": "https://api.github.com/repos/Neshura87/Stellaris-Note-Manager/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-06T08:35:46Z"
+    },
+    {
+        "issues": "https://github.com/Avin008/ecommerce-app/issues/3",
+        "title": "Backend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-04T05:27:05Z"
+    },
+    {
+        "issues": "https://github.com/elm-in-elm/compiler/issues/146",
+        "title": "Jakt backend",
+        "body": "Jakt is an imperative language (from the SerenityOS project) that compiles to C++ (and thus to native binaries), with a few charaacteristics that make it nice to use from Elm backend perspective:\r\n* managed memory (no `malloc` and `free` needed)\r\n* has ADTs\r\n\r\nHere's a translation example of an ADT:\r\n\r\n```elm\r\ntype Foo a\r\n  = Bar\r\n  | Baz a\r\n  | Quux\r\n      { x : String\r\n      , y : Int\r\n      }\r\n  | Quz Int a\r\n```\r\n\u2b07\ufe0f \r\n```jakt\r\nenum Foo<A> {\r\n  Bar\r\n  Baz(A)\r\n  Quux (\r\n    x: String\r\n    y: i64\r\n  )\r\n  Quz(a1: i64, a2: A)\r\n}\r\n```",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T11:12:10Z"
+    },
+    {
+        "issues": "https://github.com/TienDucHo/goodwalk/issues/12",
+        "title": "Backend",
+        "body": "Making Backend Routes:\n1) Login\n2) Register\n3) get step counter\n4) update step counter",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-02T05:25:55Z"
+    },
+    {
+        "issues": "https://github.com/CA-G12/car-trade/issues/82",
+        "title": "[backend] login ",
+        "body": null,
+        "labels": [
+            {
+                "id": 4645176629,
+                "node_id": "LA_kwDOILhfss8AAAABFN_FNQ",
+                "url": "https://api.github.com/repos/CA-G12/car-trade/labels/in-progress",
+                "name": "in-progress",
+                "color": "FBCA04",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-24T08:22:44Z"
+    },
+    {
+        "issues": "https://github.com/SP0Fs/k3s-manifests/issues/27",
+        "title": "charm backend",
+        "body": "https://github.com/charmbracelet/charm#self-hosting",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-24T10:56:16Z"
+    },
+    {
+        "issues": "https://github.com/FrankBonilla/ProyectoDAW/issues/1",
+        "title": "backend empleados",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-23T19:45:17Z"
+    },
+    {
+        "issues": "https://github.com/artabr/diveshop-aws-project-api/issues/1",
+        "title": "Backend",
+        "body": "Two Lambda deployed at:\r\n- https://5dxw106upf.execute-api.eu-central-1.amazonaws.com/dev/products\r\n- https://5dxw106upf.execute-api.eu-central-1.amazonaws.com/dev/products/1",
+        "labels": [],
+        "assignees": 0,
+        "comments": 2,
+        "created_at": "2022-10-10T22:29:41Z"
+    },
+    {
+        "issues": "https://github.com/OrlykM/BanderaCar/issues/3",
+        "title": "Backend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-07T21:55:36Z"
+    },
+    {
+        "issues": "https://github.com/osamhack2022/Web_WILIM_TeamWILIM/issues/227",
+        "title": "backend - \ube44\ubc00\ubc88\ud638\ucc3e\uae30\uae30\ub2a5",
+        "body": "\uc720\uc800 \ub85c\uceec\ub85c\uadf8\uc778\uc2dc Forgot password? \ud398\uc774\uc9c0\uc5d0\uc11c \ube44\ubc00\ubc88\ud638 \ucd08\uae30\ud654 \ud6c4 \uc784\uc2dc \ube44\ubc00\ubc88\ud638 \uba54\uc77c\ub85c \ubcf4\ub0b4\uc90c.\r\nNodeMailer \uc0ac\uc6a9\r\n",
+        "labels": [
+            {
+                "id": 4715925516,
+                "node_id": "LA_kwDOIAKfIs8AAAABGRdQDA",
+                "url": "https://api.github.com/repos/osamhack2022/Web_WILIM_TeamWILIM/labels/%EB%B0%B1%EC%97%94%EB%93%9C",
+                "name": "\ubc31\uc5d4\ub4dc",
+                "color": "375BEF",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 3,
+        "created_at": "2022-10-20T15:00:31Z"
+    },
+    {
+        "issues": "https://github.com/Rinshin-Jalal/Chatters/issues/5",
+        "title": "\u270f\ufe0f Backend Discussions",
+        "body": "we have to set up our backend as fast as possible...\r\n\r\nLet's go for `Go`.\r\n\r\n- Basic Rest API \r\n- Basic User auth\r\n- Basic WebSockets server\r\n- Algorithm [ not for the MVP ] ",
+        "labels": [
+            {
+                "id": 4706462194,
+                "node_id": "LA_kwDOIQpaoM8AAAABGIbp8g",
+                "url": "https://api.github.com/repos/Rinshin-Jalal/Chatters/labels/Backend",
+                "name": "Backend",
+                "color": "315D3F",
+                "default": false,
+                "description": "Backend stuff"
+            }
+        ],
+        "assignees": 0,
+        "comments": 2,
+        "created_at": "2022-10-22T17:42:28Z"
+    },
+    {
+        "issues": "https://github.com/SciencePotato/bu-infoshare-next/issues/16",
+        "title": "Backend | leaderboard",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-16T20:57:28Z"
+    },
+    {
+        "issues": "https://github.com/Estigma9/Practica/issues/2",
+        "title": "Backend",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-04T01:13:44Z"
+    },
+    {
+        "issues": "https://github.com/Rinshin-Jalal/Chatters/issues/4",
+        "title": "\ud83d\udcbb Go Backend",
+        "body": null,
+        "labels": [
+            {
+                "id": 4706462194,
+                "node_id": "LA_kwDOIQpaoM8AAAABGIbp8g",
+                "url": "https://api.github.com/repos/Rinshin-Jalal/Chatters/labels/Backend",
+                "name": "Backend",
+                "color": "315D3F",
+                "default": false,
+                "description": "Backend stuff"
+            },
+            {
+                "id": 4706479306,
+                "node_id": "LA_kwDOIQpaoM8AAAABGIcsyg",
+                "url": "https://api.github.com/repos/Rinshin-Jalal/Chatters/labels/discuss",
+                "name": "discuss",
+                "color": "FDB3D7",
+                "default": false,
+                "description": "Discussion needed"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-22T11:25:02Z"
+    },
+    {
+        "issues": "https://github.com/Rohitpratap311/book-rating-system/issues/4",
+        "title": "Backend Design",
+        "body": "Suggestions :\r\n\r\n- List down the features (functions) you need in your web app.\r\n- Think of optimal ways of interaction with your DB.\r\n- Design control flow for the backend then only proceed for implementation.",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-24T05:05:31Z"
+    },
+    {
+        "issues": "https://github.com/Eggplanck/SingleMachineWebAppTemplate/issues/1",
+        "title": "backend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-07T06:00:15Z"
+    },
+    {
+        "issues": "https://github.com/EleaFederio/InfraLog/issues/4",
+        "title": "BackEnd Authentication",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-20T13:51:33Z"
+    },
+    {
+        "issues": "https://github.com/impacta-grupo-e/vida-autista-backend/issues/2",
+        "title": "Calendario - backend",
+        "body": "Jackson vai fazer",
+        "labels": [],
+        "assignees": 1,
+        "comments": 1,
+        "created_at": "2022-10-21T23:53:04Z"
+    },
+    {
+        "issues": "https://github.com/DjDeveloperr/skia_canvas/issues/7",
+        "title": "GPU Backend",
+        "body": "Ideally, this module should support GPU backend along with a windowing solution to draw directly into a canvas window.\r\nSince Skia supports GPU natively, it shouldn't be too hard.",
+        "labels": [
+            {
+                "id": 4549259403,
+                "node_id": "LA_kwDOIBcGFc8AAAABDygwiw",
+                "url": "https://api.github.com/repos/DjDeveloperr/skia_canvas/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            },
+            {
+                "id": 4549259404,
+                "node_id": "LA_kwDOIBcGFc8AAAABDygwjA",
+                "url": "https://api.github.com/repos/DjDeveloperr/skia_canvas/labels/help%20wanted",
+                "name": "help wanted",
+                "color": "008672",
+                "default": true,
+                "description": "Extra attention is needed"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-21T17:38:09Z"
+    },
+    {
+        "issues": "https://github.com/CsizmadiaLaszlo/gentlemens-club/issues/126",
+        "title": "Membership backend",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-21T09:10:04Z"
+    },
+    {
+        "issues": "https://github.com/MiguelJoke/Library-ISPC/issues/21",
+        "title": "Backend",
+        "body": "**hacer funcionar con base de datos**",
+        "labels": [
+            {
+                "id": 4598285640,
+                "node_id": "LA_kwDOICuU8c8AAAABEhRFSA",
+                "url": "https://api.github.com/repos/MiguelJoke/Library-ISPC/labels/code",
+                "name": "code",
+                "color": "8259A4",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-09-30T20:55:42Z"
+    },
+    {
+        "issues": "https://github.com/automators-com/datamaker/issues/29",
+        "title": "Template - Backend",
+        "body": "Create the Backend for Template - Functionality\r\n\r\nIssues:\r\n- [ ] ",
+        "labels": [
+            {
+                "id": 4692828651,
+                "node_id": "LA_kwDOIPXVo88AAAABF7bh6w",
+                "url": "https://api.github.com/repos/automators-com/datamaker/labels/epic",
+                "name": "epic",
+                "color": "5319E7",
+                "default": false,
+                "description": "This is an epic work item"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-19T14:03:40Z"
+    },
+    {
+        "issues": "https://github.com/automators-com/datamaker/issues/14",
+        "title": "Types: Backend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-19T13:47:45Z"
+    },
+    {
+        "issues": "https://github.com/eba472/mango-mobile/issues/33",
+        "title": "Dockerize backend",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-19T02:43:05Z"
+    },
+    {
+        "issues": "https://github.com/DaisukeIto-ynu/KosakaQ/issues/4",
+        "title": "backend run",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-20T08:26:05Z"
+    },
+    {
+        "issues": "https://github.com/research-software-directory/RSD-as-a-service/issues/588",
+        "title": "Backend updates",
+        "body": "There have been some major updates of the backend software/dependencies we use: \r\n\r\n- PostgreSQL 15 ([announcement](https://www.postgresql.org/about/news/postgresql-15-released-2526/), [release notes](https://www.postgresql.org/docs/15/release-15.html), [Docker](https://hub.docker.com/layers/library/postgres/15.0/images/sha256-b1e2423776b4acc769a18e6a166e6103b22575be1d2ff2ae1b55500a5298b2d4))\r\n- PostgREST 10.0.0 ([release notes](https://postgrest.org/en/stable/releases/v10.0.0.html), [Docker](https://hub.docker.com/layers/postgrest/postgrest/v10.0.0/images/sha256-080b61c2e9d78ea473353419f07788114835e46ae5ae93c0e2b532a011d3ad49), [Docker](https://hub.docker.com/layers/postgrest/postgrest/v10.0.0.20221011/images/sha256-3697575a56cc09460b4d212c78c799304f97640eb6bb3edbc16959b2546b16fa)) (done in #590)\r\n- Javalin 5.0 and 5.1.0 ([announcement 5.0](https://javalin.io/news/javalin-5.0.0-stable.html), [announcement 5.1.0](https://javalin.io/news/2022/10/16/javalin-5.1.0-released.html), [migration guide](https://javalin.io/migration-guide-javalin-4-to-5))\r\n- Java JWT 4.0.0, 4.1.0 and 4.2.0 ([migration guide](https://github.com/auth0/java-jwt/blob/master/MIGRATION_GUIDE.md), [releases](https://github.com/auth0/java-jwt/releases))\r\n\r\nWe should look into if and how to upgrade.",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-17T17:32:03Z"
+    },
+    {
+        "issues": "https://github.com/vineets10/letslearngit/issues/2",
+        "title": "backend issue",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-19T05:55:16Z"
+    },
+    {
+        "issues": "https://github.com/rono516/software_engineering_lab/issues/9",
+        "title": "Authentication | Backend",
+        "body": null,
+        "labels": [
+            {
+                "id": 4687726261,
+                "node_id": "LA_kwDOIB0SIs8AAAABF2kGtQ",
+                "url": "https://api.github.com/repos/rono516/software_engineering_lab/labels/task",
+                "name": "task",
+                "color": "B60205",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 1,
+        "created_at": "2022-10-18T15:39:37Z"
+    },
+    {
+        "issues": "https://github.com/SachinKumar0381/smooth-flavor-1645/issues/8",
+        "title": "Backend ",
+        "body": "- [ ] Authentication\r\n- [ ] validator middleware\r\n- [ ] user schema\r\n- [ ] login schema\r\n- [ ] ",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-09-29T11:04:30Z"
+    },
+    {
+        "issues": "https://github.com/chrispiragauta/Mision_TIC_ciclo-3_grupo4/issues/2",
+        "title": "Backend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-04T16:22:44Z"
+    },
+    {
+        "issues": "https://github.com/rono516/software_engineering_lab/issues/5",
+        "title": "courses backend",
+        "body": null,
+        "labels": [
+            {
+                "id": 4552843424,
+                "node_id": "LA_kwDOIB0SIs8AAAABD17goA",
+                "url": "https://api.github.com/repos/rono516/software_engineering_lab/labels/documentation",
+                "name": "documentation",
+                "color": "0075ca",
+                "default": true,
+                "description": "Improvements or additions to documentation"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-18T14:43:44Z"
+    },
+    {
+        "issues": "https://github.com/MetaCell/PsyNeuLinkViewSource/issues/49",
+        "title": "Backend tasks",
+        "body": null,
+        "labels": [
+            {
+                "id": 4231406339,
+                "node_id": "LA_kwDOG-BVXM78NiMD",
+                "url": "https://api.github.com/repos/MetaCell/PsyNeuLinkViewSource/labels/Epic",
+                "name": "Epic",
+                "color": "4660F9",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-17T15:13:23Z"
+    },
+    {
+        "issues": "https://github.com/Krishiv111/liverpoolkm/issues/9",
+        "title": "Backend Tasks",
+        "body": "1. Code the bmi calculator\r\n2. water log \r\n3. weight \r\n4. make a page with video recourses from other pages \r\n5. fitness quiz \r\n6. calorie counter\r\n7. make a goals page where a user can store the goals \r\n\r\nTHESE SHOULD BE ELEMENTS IN OUR APP",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T21:54:40Z"
+    },
+    {
+        "issues": "https://github.com/AnkitaMalik22/devmate/issues/58",
+        "title": "Backend Devs \ud83d\udc4b",
+        "body": "If anyone want to work on the backend part feel free to share in the Discussion!\n[]()https://github.com/AnkitaMalik22/devmate/discussions/40",
+        "labels": [],
+        "assignees": 0,
+        "comments": 2,
+        "created_at": "2022-10-16T14:34:07Z"
+    },
+    {
+        "issues": "https://github.com/SamuelPires1999/Web-Duelist-Backend/issues/3",
+        "title": "Enhancement(backend)",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-19T01:48:53Z"
+    },
+    {
+        "issues": "https://github.com/GDSC-BPIT/GDSC-BPIT-Hacktober-Fest-2022/issues/11",
+        "title": "backend",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-02T19:29:57Z"
+    },
+    {
+        "issues": "https://github.com/Open-Science-Community-Saudi-Arabia/MOOCs/issues/3",
+        "title": "backend API",
+        "body": "-  user log In and log out\r\n- create, update and delete video API\r\n- user access to videos",
+        "labels": [
+            {
+                "id": 4644855604,
+                "node_id": "LA_kwDOILgaCc8AAAABFNrfNA",
+                "url": "https://api.github.com/repos/Open-Science-Community-Saudi-Arabia/MOOCs/labels/duplicate",
+                "name": "duplicate",
+                "color": "cfd3d7",
+                "default": true,
+                "description": "This issue or pull request already exists"
+            },
+            {
+                "id": 4650809705,
+                "node_id": "LA_kwDOILgaCc8AAAABFTW5aQ",
+                "url": "https://api.github.com/repos/Open-Science-Community-Saudi-Arabia/MOOCs/labels/outreachy",
+                "name": "outreachy",
+                "color": "0103E4",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4656617102,
+                "node_id": "LA_kwDOILgaCc8AAAABFY5Wjg",
+                "url": "https://api.github.com/repos/Open-Science-Community-Saudi-Arabia/MOOCs/labels/MOOCs",
+                "name": "MOOCs",
+                "color": "6E62E6",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4656618537,
+                "node_id": "LA_kwDOILgaCc8AAAABFY5cKQ",
+                "url": "https://api.github.com/repos/Open-Science-Community-Saudi-Arabia/MOOCs/labels/API",
+                "name": "API",
+                "color": "D9D0F4",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 0,
+        "comments": 5,
+        "created_at": "2022-10-12T03:51:06Z"
+    },
+    {
+        "issues": "https://github.com/CarlosGLOZ/Gestio-Notes/issues/6",
+        "title": "Correos - BackEnd",
+        "body": "Para enviar correos a grupos, hay que hacer inserts de todo",
+        "labels": [
+            {
+                "id": 4681787879,
+                "node_id": "LA_kwDOIPYjgM8AAAABFw5p5w",
+                "url": "https://api.github.com/repos/CarlosGLOZ/Gestio-Notes/labels/Backend",
+                "name": "Backend",
+                "color": "5319E7",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-17T15:43:47Z"
+    },
+    {
+        "issues": "https://github.com/profcomff/design-school/issues/2",
+        "title": "Backend init",
+        "body": null,
+        "labels": [
+            {
+                "id": 4713710437,
+                "node_id": "LA_kwDOISxF288AAAABGPWDZQ",
+                "url": "https://api.github.com/repos/profcomff/design-school/labels/new%20feature",
+                "name": "new feature",
+                "color": "0E8A16",
+                "default": false,
+                "description": "\u041d\u043e\u0432\u0430\u044f \u0444\u0438\u0447\u0430 \u0438\u043b\u0438 \u0437\u0430\u043f\u0440\u043e\u0441 \u043d\u0430 \u043d\u0435\u0435"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-24T04:41:32Z"
+    },
+    {
+        "issues": "https://github.com/bregenz-bewegt/bregenz-bewegt/issues/92",
+        "title": "Activity Backend",
+        "body": null,
+        "labels": [
+            {
+                "id": 4427728726,
+                "node_id": "LA_kwDOH0pb1M8AAAABB-nHVg",
+                "url": "https://api.github.com/repos/bregenz-bewegt/bregenz-bewegt/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            },
+            {
+                "id": 4431506141,
+                "node_id": "LA_kwDOH0pb1M8AAAABCCNq3Q",
+                "url": "https://api.github.com/repos/bregenz-bewegt/bregenz-bewegt/labels/frontend",
+                "name": "frontend",
+                "color": "15E103",
+                "default": false,
+                "description": "Affects the frontend"
+            },
+            {
+                "id": 4431509643,
+                "node_id": "LA_kwDOH0pb1M8AAAABCCN4iw",
+                "url": "https://api.github.com/repos/bregenz-bewegt/bregenz-bewegt/labels/backend",
+                "name": "backend",
+                "color": "C4490E",
+                "default": false,
+                "description": "Affects the backend"
+            },
+            {
+                "id": 4661836658,
+                "node_id": "LA_kwDOH0pb1M8AAAABFd37cg",
+                "url": "https://api.github.com/repos/bregenz-bewegt/bregenz-bewegt/labels/database",
+                "name": "database",
+                "color": "fef2c0",
+                "default": false,
+                "description": "Affects the database"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-17T14:57:23Z"
+    },
+    {
+        "issues": "https://github.com/deimie/t10-spring/issues/23",
+        "title": "Backend Developer",
+        "body": "Backend Developer\nDescribe backend coding and requirements.\n\n- Develop data, data types, databases, and APIs.\n    - Identify authoring tools (IDE\u2019s, Postman) used.\n    - Describe and/or illustrate key data types, data structures (Lists, Dictionaries), objects, files, or databases that will be used (Flow Chart/UML).\n    - Describe use of Lists or Dictionaries, database, tables, attributes, records, and systems of access (JSON, Lists, Dictionaries).\n- Comments. Be sure developers use comments in code to facilitate current and future understanding of the key portions of system.",
+        "labels": [],
+        "assignees": 1,
+        "comments": 1,
+        "created_at": "2022-10-14T17:27:35Z"
+    },
+    {
+        "issues": "https://github.com/WePays/WePay/issues/34",
+        "title": "create bills backend",
+        "body": null,
+        "labels": [
+            {
+                "id": 4668284686,
+                "node_id": "LA_kwDOIJKdrc8AAAABFkBfDg",
+                "url": "https://api.github.com/repos/WePays/WePay/labels/backend",
+                "name": "backend",
+                "color": "1111C8",
+                "default": false,
+                "description": "backend dev"
+            }
+        ],
+        "assignees": 3,
+        "comments": 0,
+        "created_at": "2022-10-24T07:43:31Z"
+    },
+    {
+        "issues": "https://github.com/Seearo/GamesCoachMVP/issues/1",
+        "title": "backend",
+        "body": "need a backend",
+        "labels": [
+            {
+                "id": 4581023039,
+                "node_id": "LA_kwDOGKP2Is8AAAABEQzdPw",
+                "url": "https://api.github.com/repos/Seearo/GamesCoachMVP/labels/backend",
+                "name": "backend",
+                "color": "1d76db",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-27T03:20:44Z"
+    },
+    {
+        "issues": "https://github.com/gfx-rs/naga/issues/2084",
+        "title": "Rust backend",
+        "body": "With rust backend it would be possible to port compute tasks to no_std environments without rewriting shaders to regular source code, just use naga at build-time.",
+        "labels": [
+            {
+                "id": 1055058659,
+                "node_id": "MDU6TGFiZWwxMDU1MDU4NjU5",
+                "url": "https://api.github.com/repos/gfx-rs/naga/labels/kind:%20feature",
+                "name": "kind: feature",
+                "color": "14cc3f",
+                "default": false,
+                "description": "New feature or request"
+            },
+            {
+                "id": 1055058660,
+                "node_id": "MDU6TGFiZWwxMDU1MDU4NjYw",
+                "url": "https://api.github.com/repos/gfx-rs/naga/labels/help%20wanted",
+                "name": "help wanted",
+                "color": "008672",
+                "default": true,
+                "description": "Extra attention is needed"
+            },
+            {
+                "id": 1892467412,
+                "node_id": "MDU6TGFiZWwxODkyNDY3NDEy",
+                "url": "https://api.github.com/repos/gfx-rs/naga/labels/area:%20back-end",
+                "name": "area: back-end",
+                "color": "ed9e28",
+                "default": false,
+                "description": "Outputs of shader conversion"
+            }
+        ],
+        "assignees": 0,
+        "comments": 2,
+        "created_at": "2022-10-13T07:41:09Z"
+    },
+    {
+        "issues": "https://github.com/Pectorial/E-commerce/issues/3",
+        "title": "Backend",
+        "body": "want to pull changes",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-05T06:58:21Z"
+    },
+    {
+        "issues": "https://github.com/grupoA7ISPC/ProyectoISPCGrupo55/issues/34",
+        "title": "Backend",
+        "body": "Tareas a realizar a trav\u00e9s del Sprint 1 y Sprint 2:: \r\n- Modelado de BD en DER, Modelo Relacional.\r\n- Script de la BD en MySQL.\r\n- Abstracci\u00f3n y modularizaci\u00f3n en MVC.\r\n- Modelo de Caso de Uso de cada modularizaci\u00f3n.",
+        "labels": [],
+        "assignees": 10,
+        "comments": 1,
+        "created_at": "2022-10-06T17:12:03Z"
+    },
+    {
+        "issues": "https://github.com/hmcts/cmc-citizen-frontend/issues/3452",
+        "title": "test backend",
+        "body": "### JIRA link\r\n\r\n\r\n\r\n### Change description\r\n\r\n\r\n\r\n### Work checklist\r\n\r\n- [ ] Unit tests added where applicable\r\n- [ ] Route tests added for new pages\r\n- [ ] New pages included in a11y tests\r\n- [ ] Task list and task completeness checks updated\r\n- [ ] Check and send page updated\r\n- [ ] Routes, page content and page flows of new features are toggled \r\n- [ ] UI changes look good on mobile\r\n- [ ] Required Google Analytics events are being sent \r\n\r\n### Developer self-QA run statement\r\n\r\n- [ ] I have clicked through the running application to see if all changes I made actually work.\r\n\r\n### Does this PR introduce a breaking change?\r\n\r\n- [ ] Yes\r\n- [ ] No\r\n",
+        "labels": [
+            {
+                "id": 1785565458,
+                "node_id": "MDU6TGFiZWwxNzg1NTY1NDU4",
+                "url": "https://api.github.com/repos/hmcts/cmc-citizen-frontend/labels/ns:money-claims",
+                "name": "ns:money-claims",
+                "color": "ededed",
+                "default": false,
+                "description": null
+            },
+            {
+                "id": 2133510098,
+                "node_id": "MDU6TGFiZWwyMTMzNTEwMDk4",
+                "url": "https://api.github.com/repos/hmcts/cmc-citizen-frontend/labels/prd:cmc",
+                "name": "prd:cmc",
+                "color": "ededed",
+                "default": false,
+                "description": null
+            },
+            {
+                "id": 4715399044,
+                "node_id": "LA_kwDOBfvg888AAAABGQ9HhA",
+                "url": "https://api.github.com/repos/hmcts/cmc-citizen-frontend/labels/rel:cmc-citizen-frontend-pr-3452",
+                "name": "rel:cmc-citizen-frontend-pr-3452",
+                "color": "ededed",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-24T12:07:06Z"
+    },
+    {
+        "issues": "https://github.com/PiyushPagar/SapProject/issues/16",
+        "title": "Backend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-24T14:35:08Z"
+    },
+    {
+        "issues": "https://github.com/14KEK-A/backend/issues/7",
+        "title": "backend",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-09-24T14:03:17Z"
+    },
+    {
+        "issues": "https://github.com/pydata/xarray/issues/7200",
+        "title": "Backends descriptions",
+        "body": "<!-- Feel free to remove check-list items aren't relevant to your change -->\r\n\r\n- [x] Closes #7049\r\n- [ ] Tests added\r\n- [ ] User visible changes (including notable bug fixes) are documented in `whats-new.rst`\r\n- [x] New functions/methods are listed in `api.rst`\r\n",
+        "labels": [
+            {
+                "id": 114009210,
+                "node_id": "MDU6TGFiZWwxMTQwMDkyMTA=",
+                "url": "https://api.github.com/repos/pydata/xarray/labels/topic-backends",
+                "name": "topic-backends",
+                "color": "B556E8",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 1168169704,
+                "node_id": "MDU6TGFiZWwxMTY4MTY5NzA0",
+                "url": "https://api.github.com/repos/pydata/xarray/labels/topic-zarr",
+                "name": "topic-zarr",
+                "color": "c2e0c6",
+                "default": false,
+                "description": "Related to zarr storage library"
+            },
+            {
+                "id": 4429774983,
+                "node_id": "LA_kwDOAMm_X88AAAABCAkAhw",
+                "url": "https://api.github.com/repos/pydata/xarray/labels/io",
+                "name": "io",
+                "color": "ededed",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 0,
+        "comments": 2,
+        "created_at": "2022-10-23T18:23:32Z"
+    },
+    {
+        "issues": "https://github.com/SPadrao/Mobi-SJC/issues/4",
+        "title": "Backend cadastro",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-22T17:31:38Z"
+    },
+    {
+        "issues": "https://github.com/ibagroup-eu/Visual-Flow/issues/4",
+        "title": "Backend enhancements",
+        "body": "VF team is working to provide an enhanced functionality. Our upcoming plan is the following:\r\n- provide additional sources (such as ClickHouse)\r\n- implement Spark string and date/time functions for an appropriate stages\r\n- offer new stages (such as Wait, Pivot and more)\r\n- improve functionality for storing logs and history\r\n- fix issues\r\n- make VF more easier and user friendly\r\n\r\nLooking forward to hear anything back from interested parties. Let us know the features you are missing.\r\nThank you and stay tuned!",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-17T15:12:37Z"
+    },
+    {
+        "issues": "https://github.com/SOCI/soci/issues/1004",
+        "title": "MariaDB backend?",
+        "body": "Is it possible to use soci with a MariaDB database via the existing `mysql` backend?",
+        "labels": [
+            {
+                "id": 17800095,
+                "node_id": "MDU6TGFiZWwxNzgwMDA5NQ==",
+                "url": "https://api.github.com/repos/SOCI/soci/labels/MySQL",
+                "name": "MySQL",
+                "color": "BFFF00",
+                "default": false,
+                "description": null
+            },
+            {
+                "id": 229219560,
+                "node_id": "MDU6TGFiZWwyMjkyMTk1NjA=",
+                "url": "https://api.github.com/repos/SOCI/soci/labels/Category/Question",
+                "name": "Category/Question",
+                "color": "bfe5bf",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-17T00:59:39Z"
+    },
+    {
+        "issues": "https://github.com/cartacodicesasso/ruotapazza/issues/1",
+        "title": "Backend",
+        "body": "Implementare un progetto ASP.NET Core (W C#) con `LanguageExt.Core`.\n\n- [x] dotnet new\n- [x] package add `LanguageExt.Core`\n- [x] dotnet new xunit\n\n## Obiettivo\n\nAvere un backend con un endpoint funzionante e delle prove di utilizzo sensate di _LanguageExt_.\n\nProve di uso:\n\n- gestione valori null/Option\n- prove con liste/sequenze/altri tipi di liste\n- esempio: lista di numeri nullable, se c'\u00e8 un nullo errore altrimenti mappo a stringa",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-22T20:29:31Z"
+    },
+    {
+        "issues": "https://github.com/GuiJR777/django_react_ecommerce_project/issues/2",
+        "title": "Start backend",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-21T12:29:51Z"
+    },
+    {
+        "issues": "https://github.com/ZionMiller/biobreak2/issues/2",
+        "title": "backend: create routes",
+        "body": "we need to create some routes specifically for login, logout and session.",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-21T23:19:53Z"
+    },
+    {
+        "issues": "https://github.com/ITrust-solutions/hack4law-assistant-service/issues/1",
+        "title": "backend API",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-15T16:21:50Z"
+    },
+    {
+        "issues": "https://github.com/VictorTamayoBriones/piedra-panel/issues/1",
+        "title": "deploy backend mongo",
+        "body": "debe estar listo el deploy para poder continuar con las issues posteriores",
+        "labels": [
+            {
+                "id": 4659954915,
+                "node_id": "LA_kwDOINGThM8AAAABFcFE4w",
+                "url": "https://api.github.com/repos/VictorTamayoBriones/piedra-panel/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-21T19:26:47Z"
+    },
+    {
+        "issues": "https://github.com/zackumar/swe-project/issues/4",
+        "title": "Admin Backend",
+        "body": "This one will need to be split up into more tickets\r\n\r\nAC:\r\n- Allow to modify all items\r\n- Allow for the creation of discount codes\r\n- Allow for create of sales items\r\n- Allow to modify users\r\n- Show currently placed orders\r\n- Show order history\r\n  - Filter by order date\r\n  - Filter by customer\r\n  - Filter by order size in USD",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-11T14:43:48Z"
+    },
+    {
+        "issues": "https://github.com/brian-walvoord/project-greenfield/issues/1",
+        "title": "Setup basic backend",
+        "body": "Lay out backend file structure to get the project deployable. This does NOT mean filling in everything, but getting the bare minimum setup for the simplest type of deployment product. Goals:\nConnect to frontend to receive simple get request\nSend something to the frontend to ensure connection with server/api\nInstall necessary dependencies (nodemon, knex, pg, express, dotenv, etc...)",
+        "labels": [],
+        "assignees": 2,
+        "comments": 0,
+        "created_at": "2022-10-21T02:46:46Z"
+    },
+    {
+        "issues": "https://github.com/HungryBroke/HungryBroke/issues/13",
+        "title": "Backend: Investigate Poetry",
+        "body": "When I last used it I was pretty negative about it, but it's been a long time",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-21T08:44:36Z"
+    },
+    {
+        "issues": "https://github.com/llvm/llvm-project/issues/58218",
+        "title": "[DirectX backend] Move generateGlobalCtorDtorCalls to backend",
+        "body": "\r\nPR is in https://reviews.llvm.org/D135190",
+        "labels": [
+            {
+                "id": 4069596836,
+                "node_id": "LA_kwDOBITxeM7ykR6k",
+                "url": "https://api.github.com/repos/llvm/llvm-project/labels/HLSL",
+                "name": "HLSL",
+                "color": "d93f0b",
+                "default": false,
+                "description": "HLSL Language Support"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-07T07:55:00Z"
+    },
+    {
+        "issues": "https://github.com/Mahich123/Image_Search/issues/22",
+        "title": "Backend needed",
+        "body": null,
+        "labels": [
+            {
+                "id": 3502504670,
+                "node_id": "LA_kwDOGTTQt87Qw_re",
+                "url": "https://api.github.com/repos/Mahich123/Image_Search/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            },
+            {
+                "id": 3502504672,
+                "node_id": "LA_kwDOGTTQt87Qw_rg",
+                "url": "https://api.github.com/repos/Mahich123/Image_Search/labels/help%20wanted",
+                "name": "help wanted",
+                "color": "008672",
+                "default": true,
+                "description": "Extra attention is needed"
+            }
+        ],
+        "assignees": 1,
+        "comments": 2,
+        "created_at": "2022-10-10T18:01:14Z"
+    },
+    {
+        "issues": "https://github.com/thakkarparth007/fauxpilot/issues/1",
+        "title": "Python backend",
+        "body": "Hi @thakkarparth007 \ud83d\udc4b \r\n\r\nI like your PR a lot, yesterday I introduced quite a few changes so I helped you resolve the conflicts. I also ran into a few issues with the setup script which I fixed, can you do some testing? In https://github.com/moyix/fauxpilot/pull/86 I've left additional comments.",
+        "labels": [],
+        "assignees": 0,
+        "comments": 4,
+        "created_at": "2022-10-20T14:11:54Z"
+    },
+    {
+        "issues": "https://github.com/aditivishal2001/CS-4485-Virtual-TA/issues/2",
+        "title": "Aditi backend",
+        "body": null,
+        "labels": [],
+        "assignees": 3,
+        "comments": 0,
+        "created_at": "2022-10-21T15:25:11Z"
+    },
+    {
+        "issues": "https://github.com/Hiesenbugs/CLUE/issues/1",
+        "title": "Backend skeletal",
+        "body": "backend system for the skeletal system",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-20T14:15:49Z"
+    },
+    {
+        "issues": "https://github.com/byudevelopers/RateEverything/issues/29",
+        "title": "[Backend] Models",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-19T02:32:03Z"
+    },
+    {
+        "issues": "https://github.com/manchint/GVSU-CIS641-sunrisers_base/issues/2",
+        "title": "Login Backend",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-19T01:17:32Z"
+    },
+    {
+        "issues": "https://github.com/brendanaka29/SASEhacksFlashcards/issues/1",
+        "title": "Backend",
+        "body": "Yuuma backend code\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-30T21:32:55Z"
+    },
+    {
+        "issues": "https://github.com/Takashicc/Noveling/issues/1",
+        "title": "chore: Backend environment setup",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-20T01:45:57Z"
+    },
+    {
+        "issues": "https://github.com/EMMC-ASBL/tripper/issues/10",
+        "title": "SPARQLWrapper backend",
+        "body": "Add SPARQLWrapper as backend for connecting to supported triple-store backends.",
+        "labels": [
+            {
+                "id": 4628845254,
+                "node_id": "LA_kwDOIJ0K0s8AAAABE-aSxg",
+                "url": "https://api.github.com/repos/EMMC-ASBL/tripper/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            },
+            {
+                "id": 4643873026,
+                "node_id": "LA_kwDOIJ0K0s8AAAABFMvhAg",
+                "url": "https://api.github.com/repos/EMMC-ASBL/tripper/labels/Priority:%20Medium",
+                "name": "Priority: Medium",
+                "color": "FBCA04",
+                "default": false,
+                "description": "Medium priority issue/PR"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-09T08:34:40Z"
+    },
+    {
+        "issues": "https://github.com/easy-deep-learning/personal-learn-path/issues/17",
+        "title": "Add backend",
+        "body": "https://www.fastify.io + auth0 + mongo atlas",
+        "labels": [
+            {
+                "id": 4624154562,
+                "node_id": "LA_kwDOIJUhfM8AAAABE57_wg",
+                "url": "https://api.github.com/repos/easy-deep-learning/personal-learn-path/labels/help%20wanted%20/%20middle+%20dev%20required",
+                "name": "help wanted / middle+ dev required",
+                "color": "008672",
+                "default": false,
+                "description": "Extra attention is needed"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-11T13:47:24Z"
+    },
+    {
+        "issues": "https://github.com/GabrielCT/Lawhive-Backend-Challenge/issues/1",
+        "title": "Backend challenge",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-19T18:19:41Z"
+    },
+    {
+        "issues": "https://github.com/Jozz77/Screened-Movie-Blog/issues/8",
+        "title": "Backend Lead - worked on all the Backend logics ",
+        "body": "Writing post function\r\nRetrieving posts\r\nData models for posts and user\r\nTag system\r\nEmail reset\r\nLogin/Logout\r\nUser Profile",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-13T15:26:16Z"
+    },
+    {
+        "issues": "https://github.com/HungryBroke/HungryBroke/issues/2",
+        "title": "Backend: flaky test finder?",
+        "body": "pytest-flakefinder\r\npytest-random-order",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-19T18:21:42Z"
+    },
+    {
+        "issues": "https://github.com/anmarinur/weather-app-v2.0/issues/1",
+        "title": "Backend",
+        "body": "Backend code for the weather-app 2.0",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-25T16:05:40Z"
+    },
+    {
+        "issues": "https://github.com/AceCentre/upptime/issues/196",
+        "title": "\ud83d\uded1 Backend is down",
+        "body": "In [`b7c4d0b`](https://github.com/AceCentre/upptime/commit/b7c4d0b80bc534108aba52f91439b8c5db5215d1\n), Backend (https://backend.acecentre.org.uk/) was **down**:\n- HTTP code: 0\n- Response time: 0 ms\n",
+        "labels": [
+            {
+                "id": 4079223937,
+                "node_id": "LA_kwDOHO5Lrs7zJASB",
+                "url": "https://api.github.com/repos/AceCentre/upptime/labels/status",
+                "name": "status",
+                "color": "ededed",
+                "default": false,
+                "description": null
+            },
+            {
+                "id": 4079223939,
+                "node_id": "LA_kwDOHO5Lrs7zJASD",
+                "url": "https://api.github.com/repos/AceCentre/upptime/labels/backend",
+                "name": "backend",
+                "color": "ededed",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-24T17:25:08Z"
+    },
+    {
+        "issues": "https://github.com/T18F-SEG491x-QkShare/QuickShareWiki/issues/13",
+        "title": "User Schema Backend",
+        "body": "- user schema should exist\n- user should have a list of file ids\n- only users should be able to upload files",
+        "labels": [],
+        "assignees": 1,
+        "comments": 1,
+        "created_at": "2022-10-16T22:18:36Z"
+    },
+    {
+        "issues": "https://github.com/LenaSchmidt/Bestellungen/issues/3",
+        "title": "Backend-Datenbank",
+        "body": "Daten in Datenbank \u00fcbertragen",
+        "labels": [
+            {
+                "id": 4655120312,
+                "node_id": "LA_kwDOIFYXXs8AAAABFXd_uA",
+                "url": "https://api.github.com/repos/LenaSchmidt/Bestellungen/labels/Task",
+                "name": "Task",
+                "color": "0E8A16",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-12T06:46:08Z"
+    },
+    {
+        "issues": "https://github.com/o1key/facebook-clone/issues/8",
+        "title": "Frontend+backend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-22T11:43:01Z"
+    },
+    {
+        "issues": "https://github.com/CA-G12/BMS/issues/4",
+        "title": "Backend Routes",
+        "body": "# Routes\r\n\r\n## Flats Routes\r\n\r\n| Route | Method | Description | Status |\r\n| -------- | -------- | -------- | -------- |\r\n| `/api/v1/flats` | GET | *** | \ud83d\udc4d |\r\n| `/api/v1/users` | POST| *** | --- |\r\n| `/api/v1/users/:userId` | GET | *** | --- |\r\n\r\n## Users' Routes\r\n\r\n| Route | Method | Description | Status |\r\n| -------- | -------- | -------- | -------- |\r\n| `/api/v1/account/login` | POST| *** | --- |\r\n| `/api/v1/account/logout` | POST| *** | --- |\r\n\r\n\r\n## Contacts Routes\r\n\r\n| Route | Method | Description | Status |\r\n| -------- | -------- | -------- | -------- |\r\n| `/api/v1/contacts` | GET | *** | --- |\r\n| `/api/v1/contacts` | POST | *** | --- |\r\n| `/api/v1/contacts/:contactId` | GET | *** | --- |\r\n\r\n## Complaints Routes\r\n\r\n| Route | Method | Description | Status |\r\n| -------- | -------- | -------- | -------- |\r\n| `/api/v1/complaints` | GET  | *** | --- |\r\n| `/api/v1/complaints/:complainId` | GET | *** | --- |\r\n| `/api/v1/complaints` | POST| *** | --- |\r\n\r\n## Services Routes\r\n\r\n| Route | Method | Description | Status |\r\n| -------- | -------- | -------- | -------- |\r\n| `/api/v1/services` | GET  | *** | --- |\r\n| `/api/v1/services` | POST | *** | --- |\r\n| `/api/v1/services/:serviceId` | PUT| *** | --- |\r\n\r\n## Bills Routes\r\n\r\n| Route | Method | Description | Status |\r\n| -------- | -------- | -------- | -------- |\r\n| `/api/v1/bills` | GET | *** | --- |\r\n| `/api/v1/bills/billId` | GET | *** | --- |\r\n| `/api/v1/bills/add` | POST | *** | --- |\r\n| `/api/v1/bills/billId` | PUT | *** | --- |\r\n| `/api/v1/bills/:userId` | GET | *** | --- |\r\n\r\n## Announcements Routes\r\n\r\n| Route | Method | Description | Status |\r\n| -------- | -------- | -------- | -------- |\r\n| `/api/v1/advertisements` | GET | *** | --- |\r\n| `/api/v1/announcements` | GET | *** | --- |\r\n| `/api/v1/announcements` | POST | *** | --- |\r\n| `/api/v1/announcements/:announcementsId` | GET | *** | --- |\r\n| `/api/v1/announcements/:announcementsId` | PUT | *** | --- |\r\n| `/api/v1/announcements/:announcementsId` | DELETE | *** | --- |\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-10T12:22:43Z"
+    },
+    {
+        "issues": "https://github.com/sshankariitg/Smart-Classifier/issues/2",
+        "title": "Backend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-30T15:10:39Z"
+    },
+    {
+        "issues": "https://github.com/BohdanBodakva/web-labs/issues/11",
+        "title": "Lab9 backend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T08:48:43Z"
+    },
+    {
+        "issues": "https://github.com/TavaresDylan/Madina_Ouattara_CV/issues/1",
+        "title": "Mailing backend",
+        "body": "Website need a working contact form",
+        "labels": [
+            {
+                "id": 4210445574,
+                "node_id": "LA_kwDOHdzcjc769k0G",
+                "url": "https://api.github.com/repos/TavaresDylan/Madina_Ouattara_CV/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-11T01:30:34Z"
+    },
+    {
+        "issues": "https://github.com/RayaanJIrani/OURLSH/issues/47",
+        "title": "Backend creation",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-20T00:50:55Z"
+    }
+]
