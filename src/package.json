@@ -19,7 +19,7 @@
     "web-vitals": "^3.0.4"
   },
   "lint-staged": {
-    "./src/**/*.{js,jsx,css}": [
+    "./web/**/*.{js,jsx,css}": [
       "npm run lint",
       "prettier --write"
     ]

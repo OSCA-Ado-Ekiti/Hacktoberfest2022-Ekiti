@@ -1,0 +1,1537 @@
+[
+    {
+        "issues": "https://github.com/melonny/health_fe/issues/1",
+        "title": "frontend",
+        "body": null,
+        "labels": [
+            {
+                "id": 4586498441,
+                "node_id": "LA_kwDOIFWz6c8AAAABEWBpiQ",
+                "url": "https://api.github.com/repos/melonny/health_fe/labels/good%20first%20issue",
+                "name": "good first issue",
+                "color": "7057ff",
+                "default": true,
+                "description": "Good for newcomers"
+            }
+        ],
+        "assignees": 1,
+        "comments": 1,
+        "created_at": "2022-10-24T03:26:42Z"
+    },
+    {
+        "issues": "https://github.com/AngelesMary/Proyecto-Full-stack/issues/31",
+        "title": "Frontend ",
+        "body": "Realizar un sitio funcional en hosting remoto de Sitio Institucional en WordPress (Este punto es para presentar al Empresa Ficticia que el grupo conforma, por lo que es parte indirecta del Proyecto. Pueden crear una secci\u00f3n en la Wiki con los registros de este sitio).\r\n",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-24T16:20:36Z"
+    },
+    {
+        "issues": "https://github.com/AngelesMary/Proyecto-Full-stack/issues/30",
+        "title": "Frontend ",
+        "body": "Generar:\r\nFuncionalidad con JavaScript en formularios\r\nEn subcarpeta o subdominio o linkeado al repositorio de GitHub/ GitHub Actions. (La idea es que el sitio est\u00e9 disponible en l\u00ednea. La opci\u00f3n 1 ser\u00eda que est\u00e9 como subdominio dentro del hosting donde tienen el wordpress o la otra opci\u00f3n es que est\u00e9 como p\u00e1gina en su repositorio de Git)\r\n",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-24T16:18:55Z"
+    },
+    {
+        "issues": "https://github.com/AngelesMary/Proyecto-Full-stack/issues/29",
+        "title": "Frontend ",
+        "body": "Generar:\r\nFuncionalidad con JavaScript en formularios\r\nEn subcarpeta o subdominio o linkeado al repositorio de GitHub/ GitHub Actions. (La idea es que el sitio est\u00e9 disponible en l\u00ednea. La opci\u00f3n 1 ser\u00eda que est\u00e9 como subdominio dentro del hosting donde tienen el wordpress o la otra opci\u00f3n es que est\u00e9 como p\u00e1gina en su repositorio de Git)\r\n\r\n",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-24T16:17:50Z"
+    },
+    {
+        "issues": "https://github.com/AngelesMary/Proyecto-Full-stack/issues/28",
+        "title": "Frontend ",
+        "body": "Generar :\r\nFuncionalidad con JavaScript en formularios.\r\nEn subcarpeta o subdominio o linkeado al repositorio de GitHub/ GitHub Actions. (La idea es que el sitio est\u00e9 disponible en l\u00ednea. La opci\u00f3n 1 ser\u00eda que est\u00e9 como subdominio dentro del hosting donde tienen el wordpress o la otra opci\u00f3n es que est\u00e9 como p\u00e1gina en su repositorio de Git)",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-24T16:16:40Z"
+    },
+    {
+        "issues": "https://github.com/acantoscurria/ispc-fullstack/issues/23",
+        "title": "Frontend",
+        "body": "- Funcionalidad con JavaScript en formularios\r\n- En subcarpeta o subdominio o linkeado al repositorio de GitHub/ GitHub Actions. (La idea es que el sitio est\u00e9 disponible en l\u00ednea. La opci\u00f3n 1 ser\u00eda que est\u00e9 como subdominio dentro del hosting donde tienen el wordpress o la otra opci\u00f3n es que est\u00e9 como p\u00e1gina en su repositorio de Git)",
+        "labels": [],
+        "assignees": 1,
+        "comments": 2,
+        "created_at": "2022-10-22T18:40:18Z"
+    },
+    {
+        "issues": "https://github.com/OkuhleNdlebe/donation/issues/18",
+        "title": "Frontend ",
+        "body": "touching the front end ",
+        "labels": [
+            {
+                "id": 4643522576,
+                "node_id": "LA_kwDOILXbOc8AAAABFMaIEA",
+                "url": "https://api.github.com/repos/OkuhleNdlebe/donation/labels/help%20wanted",
+                "name": "help wanted",
+                "color": "008672",
+                "default": true,
+                "description": "Extra attention is needed"
+            }
+        ],
+        "assignees": 5,
+        "comments": 0,
+        "created_at": "2022-10-24T07:46:50Z"
+    },
+    {
+        "issues": "https://github.com/Marckfx/Internet-seite/issues/1",
+        "title": "Frontend",
+        "body": "Erstellen eines Frontends",
+        "labels": [
+            {
+                "id": 4702850219,
+                "node_id": "LA_kwDOIRlt_s8AAAABGE_Mqw",
+                "url": "https://api.github.com/repos/Marckfx/Internet-seite/labels/Epics",
+                "name": "Epics",
+                "color": "05842D",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-21T10:41:30Z"
+    },
+    {
+        "issues": "https://github.com/jlsando17/Proyecto-ciclo4/issues/11",
+        "title": "Frontend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-22T01:03:38Z"
+    },
+    {
+        "issues": "https://github.com/Telentovj/tpp/issues/8",
+        "title": "Frontend",
+        "body": "- [ ] Add in number input box for user to add in number of topics he want \r\n- [ ] Add in a button for the user to run after the user put in the number of topics",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-20T11:43:23Z"
+    },
+    {
+        "issues": "https://github.com/AFCMS/zoom-link-server/issues/7",
+        "title": "Frontend",
+        "body": "- [ ] Create React App setup served by the go backend\r\n- [ ] List of entries\r\n- [ ] Entry creation\r\n- [ ] Entry deletion\r\n- [ ] Links\r\n- [ ] Mobile friendly\r\n- [ ] Custom icon",
+        "labels": [
+            {
+                "id": 4679229606,
+                "node_id": "LA_kwDOIPIfuc8AAAABFudgpg",
+                "url": "https://api.github.com/repos/AFCMS/zoom-link-server/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-18T06:23:19Z"
+    },
+    {
+        "issues": "https://github.com/CS4800-1/c2c/issues/2",
+        "title": "FrontEnd",
+        "body": "-Will be working on the frontend (specifically the time section) will be using JavaScript for this portion  \r\n",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-19T05:00:36Z"
+    },
+    {
+        "issues": "https://github.com/Cytawa/Split/issues/6",
+        "title": "Frontend",
+        "body": "Do frontend",
+        "labels": [
+            {
+                "id": 4625632426,
+                "node_id": "LA_kwDOIJefXc8AAAABE7WMqg",
+                "url": "https://api.github.com/repos/Cytawa/Split/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-16T22:04:06Z"
+    },
+    {
+        "issues": "https://github.com/BenitoOl/Projecto/issues/62",
+        "title": "Frontend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-21T15:47:34Z"
+    },
+    {
+        "issues": "https://github.com/FissoreAylen/Proyecto-Integrador---MODULO-FULL-STACK/issues/22",
+        "title": "FRONTEND",
+        "body": "Estructura HTML, sem\u00e1ntica y estilos CSS\nNavegabilidad - Links funcionales. Responsive\nBOOTSTRAP\n\nDeben subir todo el front al repositorio grupal, con merge en la rama main",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-14T21:59:28Z"
+    },
+    {
+        "issues": "https://github.com/happy-travel/agent-app-project/issues/1900",
+        "title": "frontend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-14T10:23:31Z"
+    },
+    {
+        "issues": "https://github.com/CS3219-AY2223S1/cs3219-project-ay2223s1-g34/issues/39",
+        "title": "[Enhancement - Frontend] Frontend validation",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-29T12:01:10Z"
+    },
+    {
+        "issues": "https://github.com/making-cloud/Web/issues/1",
+        "title": "[frontend]",
+        "body": "\ub124\ube44\uac8c\uc774\uc158 \ub9cc\ub4e4\uae30",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-12T22:26:14Z"
+    },
+    {
+        "issues": "https://github.com/volakjakub/DAT250Project/issues/1",
+        "title": "Frontend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-10T11:20:22Z"
+    },
+    {
+        "issues": "https://github.com/grupoA7ISPC/ProyectoISPCGrupo55/issues/33",
+        "title": "Frontend",
+        "body": "Tareas a realizar a trav\u00e9s del Sprint 1 y Sprint 2: \r\n- Estructura HTML.\r\n- Estilos CSS y aplicaci\u00f3n en Bootstrap. \r\n- Dise\u00f1o web responsive. \r\n- Navegabilidad funcional. \r\n- Funcionalidad con JavaScript. \r\n- Deploy en GitHub Pages. \r\n",
+        "labels": [],
+        "assignees": 10,
+        "comments": 0,
+        "created_at": "2022-10-06T17:09:24Z"
+    },
+    {
+        "issues": "https://github.com/clarikagroup/recycling_web/issues/11",
+        "title": "Frontend - ",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-15T23:22:04Z"
+    },
+    {
+        "issues": "https://github.com/g3-reiten/scalable-backtesting-pipeline/issues/4",
+        "title": "Frontend",
+        "body": null,
+        "labels": [],
+        "assignees": 3,
+        "comments": 0,
+        "created_at": "2022-10-11T08:14:46Z"
+    },
+    {
+        "issues": "https://github.com/melihcanoner/LearningPlatform/issues/6",
+        "title": "Frontend",
+        "body": "After creating the platform, construction front end using HTML.\r\n\r\n- [x] A basic template is used \r\n- [ ] Develop the blog's preview.",
+        "labels": [
+            {
+                "id": 4639963195,
+                "node_id": "LA_kwDOIK9HKs8AAAABFJA4Ow",
+                "url": "https://api.github.com/repos/melihcanoner/LearningPlatform/labels/Design",
+                "name": "Design",
+                "color": "300C45",
+                "default": false,
+                "description": "Design related issues"
+            },
+            {
+                "id": 4639964971,
+                "node_id": "LA_kwDOIK9HKs8AAAABFJA_Kw",
+                "url": "https://api.github.com/repos/melihcanoner/LearningPlatform/labels/HTML",
+                "name": "HTML",
+                "color": "FC8D6F",
+                "default": false,
+                "description": "HTML"
+            },
+            {
+                "id": 4639968316,
+                "node_id": "LA_kwDOIK9HKs8AAAABFJBMPA",
+                "url": "https://api.github.com/repos/melihcanoner/LearningPlatform/labels/Configuration",
+                "name": "Configuration",
+                "color": "7FB138",
+                "default": false,
+                "description": "New configurations"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-09T13:55:46Z"
+    },
+    {
+        "issues": "https://github.com/RC-Car-Project/Serveur_web/issues/1",
+        "title": "Frontend",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-09T00:55:59Z"
+    },
+    {
+        "issues": "https://github.com/Nble92/javaVuePostgresPlaylistPlanner/issues/2",
+        "title": "Frontend",
+        "body": "- Need to rework frontend with a better UI",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-08T17:35:04Z"
+    },
+    {
+        "issues": "https://github.com/denislichenko/GameStore/issues/1",
+        "title": "[Frontend] Setup frontend project",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-09-30T16:09:11Z"
+    },
+    {
+        "issues": "https://github.com/melihcanoner/bounswe573/issues/5",
+        "title": "Frontend ",
+        "body": "After creating the platform, construction front end using HTML.\r\n\r\n- [x] A basic template is used \r\n- [ ] Develop the blog's preview.",
+        "labels": [
+            {
+                "id": 4620693018,
+                "node_id": "LA_kwDOIHV-ds8AAAABE2ouGg",
+                "url": "https://api.github.com/repos/melihcanoner/bounswe573/labels/Configuration",
+                "name": "Configuration",
+                "color": "f9d0c4",
+                "default": false,
+                "description": "New configurations"
+            },
+            {
+                "id": 4623432555,
+                "node_id": "LA_kwDOIHV-ds8AAAABE5P7aw",
+                "url": "https://api.github.com/repos/melihcanoner/bounswe573/labels/Design",
+                "name": "Design",
+                "color": "CE86C1",
+                "default": false,
+                "description": "Design related issues"
+            },
+            {
+                "id": 4623435648,
+                "node_id": "LA_kwDOIHV-ds8AAAABE5QHgA",
+                "url": "https://api.github.com/repos/melihcanoner/bounswe573/labels/HTML",
+                "name": "HTML",
+                "color": "118C99",
+                "default": false,
+                "description": "HTML"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-06T09:32:26Z"
+    },
+    {
+        "issues": "https://github.com/JoTec2002/TINF21C_AAS_Management/issues/10",
+        "title": "Frontend",
+        "body": "@selvanadwiayunda @Mohitibashi \r\n\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-11T14:30:10Z"
+    },
+    {
+        "issues": "https://github.com/sylvainjule/kirby-embed/issues/13",
+        "title": "Frontend use",
+        "body": "I am trying to use the field from the frontend, but I have the feeling this will not work? it appears that even if i set the `input` varibale somehow (right now i am doing it by hand before i update my forms) the plugin wont work unless `media: [ ]` is also populated? which would mean to code the plugin again for the frontend, if i understand correctly?\r\n\r\nis there a way aorund this? could I save the URL via frontend form and then with some hook make the plugin retrieve all the info that it needs?",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-20T08:21:17Z"
+    },
+    {
+        "issues": "https://github.com/MADE-TEAM-PROJECT-1/citation_network_service/issues/13",
+        "title": "Frontend",
+        "body": null,
+        "labels": [
+            {
+                "id": 4605793254,
+                "node_id": "LA_kwDOIHY34s8AAAABEobT5g",
+                "url": "https://api.github.com/repos/MADE-TEAM-PROJECT-1/citation_network_service/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-06T18:06:49Z"
+    },
+    {
+        "issues": "https://github.com/lun-4/awtfdb/issues/42",
+        "title": "fuse frontend",
+        "body": "it would be interesting to use the path as a search tool, so `/a/b/c` means `afind \"a b c\"` and it just returns the files themselves. think of it as a better version of `afind --link`",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-23T19:15:04Z"
+    },
+    {
+        "issues": "https://github.com/777ahesh/Sangeet/issues/17",
+        "title": "Frontend Design",
+        "body": "**Is your feature request related to a problem? Please describe.**\r\nA clear and concise description of what the problem is. Ex. I would like to work on this  [...]\r\n\r\n**Describe the solution you'd like**\r\nA clear and concise description of what you want to happen.\r\n\r\n**Additional context**\r\nAdd any other context or screenshots about the feature request here.\r\n",
+        "labels": [
+            {
+                "id": 4645020439,
+                "node_id": "LA_kwDOIIvKps8AAAABFN1jFw",
+                "url": "https://api.github.com/repos/777ahesh/Sangeet/labels/HACKTOBERFEST",
+                "name": "HACKTOBERFEST",
+                "color": "B6D5A9",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4645021854,
+                "node_id": "LA_kwDOIIvKps8AAAABFN1ong",
+                "url": "https://api.github.com/repos/777ahesh/Sangeet/labels/HACKTOBERFEST-ACCEPTED",
+                "name": "HACKTOBERFEST-ACCEPTED",
+                "color": "92EF2F",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 3,
+        "created_at": "2022-10-22T14:57:00Z"
+    },
+    {
+        "issues": "https://github.com/white3d/Rails-React-Doctor-Appointment-App/issues/9",
+        "title": "- [ ] Frontend setup",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-24T17:10:53Z"
+    },
+    {
+        "issues": "https://github.com/shaunbenny24/flipkart-/issues/3",
+        "title": "[frontend]userprofile",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-24T09:49:49Z"
+    },
+    {
+        "issues": "https://github.com/VipinChaudhary31/Blogging_Website/issues/4",
+        "title": "Frontend Improvement",
+        "body": "Improve frontend of the website",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-23T05:41:28Z"
+    },
+    {
+        "issues": "https://github.com/ITwhitecliffe/IT6041-Software-Project---Oct2022/issues/7",
+        "title": "Frontend",
+        "body": "### The role\n- Client-side development (user interface)\n- Test website for usability\n- Ensure browser compatibility\n\n### Skills\n- HTML, CSS, JavaScript\n- Framework: such as React, Django\n- Image editing & style\n- Asynchornous request, Api call",
+        "labels": [
+            {
+                "id": 4628123313,
+                "node_id": "LA_kwDOIJvS9c8AAAABE9uOsQ",
+                "url": "https://api.github.com/repos/ITwhitecliffe/IT6041-Software-Project---Oct2022/labels/good%20first%20issue",
+                "name": "good first issue",
+                "color": "7057ff",
+                "default": true,
+                "description": "Good for newcomers"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-07T06:49:55Z"
+    },
+    {
+        "issues": "https://github.com/retrontology/sdrtrunk-scripts/issues/2",
+        "title": "make frontend",
+        "body": null,
+        "labels": [
+            {
+                "id": 4710452975,
+                "node_id": "LA_kwDOISbDbc8AAAABGMPO7w",
+                "url": "https://api.github.com/repos/retrontology/sdrtrunk-scripts/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-23T09:12:30Z"
+    },
+    {
+        "issues": "https://github.com/sproul-club/client/issues/311",
+        "title": "[Frontend] Navbar",
+        "body": "\n\n![Image](https://user-images.githubusercontent.com/45322708/197107888-645ea139-7733-47f4-be9e-12bc81480cfc.png)\n\n",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-21T03:52:39Z"
+    },
+    {
+        "issues": "https://github.com/Team04-Solidity-Bootcamp-2022/project05-solidity-bootcamp/issues/6",
+        "title": "Frontend - Login",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-20T14:01:53Z"
+    },
+    {
+        "issues": "https://github.com/my-grapevine/my-grapevine/issues/1",
+        "title": "Frontend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-24T16:17:52Z"
+    },
+    {
+        "issues": "https://github.com/LauRamirezPal/MascotaFeliz/issues/12",
+        "title": "Mockup FrontEnd",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 1,
+        "created_at": "2022-10-21T16:53:05Z"
+    },
+    {
+        "issues": "https://github.com/Rinshin-Jalal/Chatters/issues/2",
+        "title": "\ud83d\udcdd  frontend  Discussion",
+        "body": "#  frontend Discussion\r\n\r\nFirst, discuss and find what are the things we need on the home page\r\n\r\n- like the discord, we will have a simple home page \r\n- chat section like discord is the main dashboard...\r\n- We will have a chat option by pressing it the user will be redirected to a chat page there will be on stranger there as well \r\n- There will be an option to be anonymous in chat or not\r\n- Will have a `friends` page we can add the strangers you found online as friends and chat with them\r\n\r\nwhat's more\r\n",
+        "labels": [
+            {
+                "id": 4706460695,
+                "node_id": "LA_kwDOIQpaoM8AAAABGIbkFw",
+                "url": "https://api.github.com/repos/Rinshin-Jalal/Chatters/labels/Design",
+                "name": "Design",
+                "color": "18286B",
+                "default": false,
+                "description": "Related to Design"
+            },
+            {
+                "id": 4706461387,
+                "node_id": "LA_kwDOIQpaoM8AAAABGIbmyw",
+                "url": "https://api.github.com/repos/Rinshin-Jalal/Chatters/labels/Frontend",
+                "name": "Frontend",
+                "color": "159867",
+                "default": false,
+                "description": "Frontend Stuff..."
+            },
+            {
+                "id": 4706479306,
+                "node_id": "LA_kwDOIQpaoM8AAAABGIcsyg",
+                "url": "https://api.github.com/repos/Rinshin-Jalal/Chatters/labels/discuss",
+                "name": "discuss",
+                "color": "FDB3D7",
+                "default": false,
+                "description": "Discussion needed"
+            }
+        ],
+        "assignees": 0,
+        "comments": 8,
+        "created_at": "2022-10-22T06:42:14Z"
+    },
+    {
+        "issues": "https://github.com/Cinaraa/Software_20_Privadoxx/issues/46",
+        "title": "Frontend intuitivo",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-21T23:22:09Z"
+    },
+    {
+        "issues": "https://github.com/mpicazocp/BoxOffice/issues/8",
+        "title": "Initialize Frontend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-19T20:42:24Z"
+    },
+    {
+        "issues": "https://github.com/COLTEC-DAW/Seminarios-Topicos-Desenvolvimento/issues/4",
+        "title": "VueJS - FrontEnd",
+        "body": "Alunos: Gabriel Rodrigues, Bernardo Tavares, ...\r\n\r\nTecnologias de Desenvolvimento Frontend:\r\n- VueJS (https://vuejs.org/)",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-24T16:45:31Z"
+    },
+    {
+        "issues": "https://github.com/COLTEC-DAW/Seminarios-Topicos-Desenvolvimento/issues/2",
+        "title": "Frontend - Angular",
+        "body": "Leticia, Hannah, Guilherme e Lorrayne",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-24T15:49:43Z"
+    },
+    {
+        "issues": "https://github.com/airbus-cyber/graylog-plugin-logging-alert/issues/39",
+        "title": "Frontend issue",
+        "body": "I've found a frontend issue with the latest version:\r\n\r\n![bug](https://tiny-img.com/images/custom-uploads/optimized/bug.png)",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-21T12:34:37Z"
+    },
+    {
+        "issues": "https://github.com/aws-samples/aws-serverless-airline-booking/issues/215",
+        "title": "Frontend: Create TypeScript app for new frontend",
+        "body": null,
+        "labels": [
+            {
+                "id": 1320712098,
+                "node_id": "MDU6TGFiZWwxMzIwNzEyMDk4",
+                "url": "https://api.github.com/repos/aws-samples/aws-serverless-airline-booking/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            },
+            {
+                "id": 1329216830,
+                "node_id": "MDU6TGFiZWwxMzI5MjE2ODMw",
+                "url": "https://api.github.com/repos/aws-samples/aws-serverless-airline-booking/labels/frontend",
+                "name": "frontend",
+                "color": "076caf",
+                "default": false,
+                "description": "frontend implementation"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-14T16:34:39Z"
+    },
+    {
+        "issues": "https://github.com/noverney/passmate/issues/1",
+        "title": "Frontend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-22T19:40:53Z"
+    },
+    {
+        "issues": "https://github.com/Mewtwo35/reinforcement/issues/2",
+        "title": "Frontend team",
+        "body": "-setting up the code editor and dashboard via framework +html +css\r\n\r\n-prepare user input routes to the backend\r\n\r\n-tsx file for typescript ",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T14:16:36Z"
+    },
+    {
+        "issues": "https://github.com/The-Greatest-Most-Bestest/queue-service/issues/1",
+        "title": "Design frontend",
+        "body": null,
+        "labels": [],
+        "assignees": 2,
+        "comments": 0,
+        "created_at": "2022-10-19T02:26:09Z"
+    },
+    {
+        "issues": "https://github.com/AUBGTheHUB/hub-conf-signup/issues/2",
+        "title": "Frontend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-22T16:36:56Z"
+    },
+    {
+        "issues": "https://github.com/Heights-Innovations-Technology-Ltd/DominoesProperties/issues/35",
+        "title": "Frontend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-22T21:50:26Z"
+    },
+    {
+        "issues": "https://github.com/MetaCell/PsyNeuLinkViewSource/issues/47",
+        "title": "Frontend skeleton",
+        "body": null,
+        "labels": [
+            {
+                "id": 4231406339,
+                "node_id": "LA_kwDOG-BVXM78NiMD",
+                "url": "https://api.github.com/repos/MetaCell/PsyNeuLinkViewSource/labels/Epic",
+                "name": "Epic",
+                "color": "4660F9",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-17T15:12:48Z"
+    },
+    {
+        "issues": "https://github.com/denislichenko/GameStore/issues/2",
+        "title": "[Frontend] Implement basic frontend layout",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-30T17:12:55Z"
+    },
+    {
+        "issues": "https://github.com/AvivShopen/Gitin/issues/2",
+        "title": "Frontend Development",
+        "body": "We need to finish the following tasks for a stable frontend\r\n\r\n- [ ] Navigation Bar\r\n- [ ] Landing Page\r\n- [ ] Login and Register Pages\r\n- [ ] Feed Page\r\n- [ ] Following Page\r\n- [ ] Components\r\n- [ ] Canvas, Animations, Smooth Transitions\r\n- [ ] SSR (Optional)",
+        "labels": [
+            {
+                "id": 4669832665,
+                "node_id": "LA_kwDOIOI7ic8AAAABFlf92Q",
+                "url": "https://api.github.com/repos/AvivShopen/Gitin/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            }
+        ],
+        "assignees": 2,
+        "comments": 0,
+        "created_at": "2022-10-16T00:55:33Z"
+    },
+    {
+        "issues": "https://github.com/rono516/software_engineering_lab/issues/15",
+        "title": "Courses Frontend",
+        "body": null,
+        "labels": [
+            {
+                "id": 4688970322,
+                "node_id": "LA_kwDOIB0SIs8AAAABF3wCUg",
+                "url": "https://api.github.com/repos/rono516/software_engineering_lab/labels/frontend",
+                "name": "frontend",
+                "color": "CC5AFD",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 1,
+        "created_at": "2022-10-19T09:48:31Z"
+    },
+    {
+        "issues": "https://github.com/Krishiv111/liverpoolkm/issues/10",
+        "title": "Frontend Tasks",
+        "body": "1. Cleanup the frontpage\r\n2. code personal front homepage '\r\n3. create logos and make website visually appealing \r\n4. make sure all elements receive their own tab and they all are organized ",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T21:59:09Z"
+    },
+    {
+        "issues": "https://github.com/Luchodlf/Proyecto-Integrador-Full-Stack/issues/19",
+        "title": "Frontend - General",
+        "body": "Realizar la estructura de la p\u00e1gina general del software",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-17T04:08:43Z"
+    },
+    {
+        "issues": "https://github.com/Luchodlf/Proyecto-Integrador-Full-Stack/issues/17",
+        "title": "Frontend - Abastecimiento",
+        "body": "Realizar la estructura del acceso al control de abastecimiento",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-17T04:07:13Z"
+    },
+    {
+        "issues": "https://github.com/Luchodlf/Proyecto-Integrador-Full-Stack/issues/16",
+        "title": "Frontend - Stock",
+        "body": "Realizar la estructura del control de stock",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-17T04:06:32Z"
+    },
+    {
+        "issues": "https://github.com/Luchodlf/Proyecto-Integrador-Full-Stack/issues/15",
+        "title": "Frontend- General",
+        "body": "Realizar la estructura del acceso general del software",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-17T04:05:20Z"
+    },
+    {
+        "issues": "https://github.com/qazwsxal/sol-gate/issues/5",
+        "title": "Frontend",
+        "body": "Lol, need someone who can actually do webdev to write a frontend (or learn it).\nReact? Vue? Svelte? Angular? \nThese are all words from a strange and distant land.\n\nThere's a basic React frontend at the moment, but I don't know how to retain state or use react hooks properly, so this will likely be a big undertaking.\n\n- #6 API design is a blocking issue for this, needs to be sorted frontend work can go ahead.",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-29T10:43:39Z"
+    },
+    {
+        "issues": "https://github.com/JManders07/Portfolio-s3/issues/8",
+        "title": "Vue Frontend",
+        "body": null,
+        "labels": [
+            {
+                "id": 4549646808,
+                "node_id": "LA_kwDOIBetb88AAAABDy4Z2A",
+                "url": "https://api.github.com/repos/JManders07/Portfolio-s3/labels/Web%20Application",
+                "name": "Web Application",
+                "color": "d73a4a",
+                "default": false,
+                "description": "https://fhict.instructure.com/courses/12517/outcomes"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-17T12:18:34Z"
+    },
+    {
+        "issues": "https://github.com/ReemMDA99/Email-sender-system/issues/3",
+        "title": "Create frontend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T02:09:31Z"
+    },
+    {
+        "issues": "https://github.com/rono516/software_engineering_lab/issues/8",
+        "title": "Authentication  | Frontend",
+        "body": null,
+        "labels": [
+            {
+                "id": 4687726261,
+                "node_id": "LA_kwDOIB0SIs8AAAABF2kGtQ",
+                "url": "https://api.github.com/repos/rono516/software_engineering_lab/labels/task",
+                "name": "task",
+                "color": "B60205",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 1,
+        "created_at": "2022-10-18T15:38:47Z"
+    },
+    {
+        "issues": "https://github.com/ZhainagulAltynbekkyzy/Zhen/issues/2",
+        "title": "Frontend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-20T12:36:25Z"
+    },
+    {
+        "issues": "https://github.com/rahilshah07/Todo-App/issues/6",
+        "title": "Frontend: Design Login page",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-24T17:18:38Z"
+    },
+    {
+        "issues": "https://github.com/youbbin/DB_Project_OwnPli/issues/2",
+        "title": "FrontEnd",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-28T06:30:00Z"
+    },
+    {
+        "issues": "https://github.com/javiergira/GreenBeats-Ciclo4/issues/2",
+        "title": "Realizar boceto de frontend",
+        "body": null,
+        "labels": [],
+        "assignees": 5,
+        "comments": 1,
+        "created_at": "2022-10-24T12:25:09Z"
+    },
+    {
+        "issues": "https://github.com/WePays/WePay/issues/36",
+        "title": "create bills frontend",
+        "body": null,
+        "labels": [
+            {
+                "id": 4622661371,
+                "node_id": "LA_kwDOIJKdrc8AAAABE4g2-w",
+                "url": "https://api.github.com/repos/WePays/WePay/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            },
+            {
+                "id": 4668287518,
+                "node_id": "LA_kwDOIJKdrc8AAAABFkBqHg",
+                "url": "https://api.github.com/repos/WePays/WePay/labels/frontend",
+                "name": "frontend",
+                "color": "C812EE",
+                "default": false,
+                "description": "frontend dev"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-24T07:43:49Z"
+    },
+    {
+        "issues": "https://github.com/htl-grieskirchen-core/core/issues/95",
+        "title": "frontend - update mockup",
+        "body": null,
+        "labels": [
+            {
+                "id": 4577091747,
+                "node_id": "LA_kwDOIBbs588AAAABENDgow",
+                "url": "https://api.github.com/repos/htl-grieskirchen-core/core/labels/mockup",
+                "name": "mockup",
+                "color": "006b75",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-24T07:24:39Z"
+    },
+    {
+        "issues": "https://github.com/kodokoto/decentralized-job-board/issues/1",
+        "title": "Frontend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-23T02:13:34Z"
+    },
+    {
+        "issues": "https://github.com/hamiljoen/educom-verrukkulluk/issues/13",
+        "title": "13. Frontend",
+        "body": "<ul>\n<li>Vervaardig de homepage</li>\n<li>Vervaardig de detailpagina</li>\n</ul>\n<p>Gebruik voor de front-end de boilerplate code in <code>fase-2/index.php</code> Het main-entry point voor je applicatie is en blijft <code>index.php</code>. Dus ook voor de Ajax/JSON calls blijf je via <code>index.php</code> werken.<br /><br />De diverse \"<strong>actions</strong>\" in de switch zul je moeten uitbreiden met de transacties zoals ze in het transactie ontwerp opgenomen zijn.</p>\n<p>&nbsp;</p>\n<h4>Planning</h4>\n<p>Maak een planning (via de issues) om je werkzaamheden voor de front-end in kaart te brengen. Hou de einddatum in de gaten!!!<br />Gebruik de \"<strong>week-n</strong>\" notatie en werk het bij in je planning.</p>",
+        "labels": [
+            {
+                "id": 4680758505,
+                "node_id": "LA_kwDOIPSzbs8AAAABFv606Q",
+                "url": "https://api.github.com/repos/hamiljoen/educom-verrukkulluk/labels/week-44",
+                "name": "week-44",
+                "color": "ededed",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-17T12:16:23Z"
+    },
+    {
+        "issues": "https://github.com/FelixNgFender/Depresso/issues/8",
+        "title": "Improve frontend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-15T23:59:24Z"
+    },
+    {
+        "issues": "https://github.com/utxo-one/bitcoiners-network/issues/40",
+        "title": "Frontend: Endorsements",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-15T21:19:40Z"
+    },
+    {
+        "issues": "https://github.com/rvophoven/educom-verrukkulluk/issues/13",
+        "title": "13. Frontend",
+        "body": "<ul>\n<li>Vervaardig de homepage</li>\n<li>Vervaardig de detailpagina</li>\n</ul>\n<p>Gebruik voor de front-end de boilerplate code in <code>fase-2/index.php</code> Het main-entry point voor je applicatie is en blijft <code>index.php</code>. Dus ook voor de Ajax/JSON calls blijf je via <code>index.php</code> werken.<br /><br />De diverse \"<strong>actions</strong>\" in de switch zul je moeten uitbreiden met de transacties zoals ze in het transactie ontwerp opgenomen zijn.</p>\n<p>&nbsp;</p>\n<h4>Planning</h4>\n<p>Maak een planning (via de issues) om je werkzaamheden voor de front-end in kaart te brengen. Hou de einddatum in de gaten!!!<br />Gebruik de \"<strong>week-n</strong>\" notatie en werk het bij in je planning.</p>",
+        "labels": [
+            {
+                "id": 4680741462,
+                "node_id": "LA_kwDOIPSsOs8AAAABFv5yVg",
+                "url": "https://api.github.com/repos/rvophoven/educom-verrukkulluk/labels/week-44",
+                "name": "week-44",
+                "color": "ededed",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-17T12:12:54Z"
+    },
+    {
+        "issues": "https://github.com/CS222-UIUC/course-project-group-56/issues/9",
+        "title": "Frontend",
+        "body": "Reading the Schedule in React",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-19T06:21:04Z"
+    },
+    {
+        "issues": "https://github.com/Team04-Solidity-Bootcamp-2022/project04-solidity-bootcamp/issues/5",
+        "title": "Frontend - Delegate",
+        "body": "Desired features:\r\n - Form to collect delegatee's address\r\n - Use ethers to call delegate on MyToken contract",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-14T11:28:34Z"
+    },
+    {
+        "issues": "https://github.com/Hanson-Nguyen/TeamUp/issues/2",
+        "title": "Frontend",
+        "body": "### Summary of Changes\r\n- Created initial code for front-end application\r\n- Used Hanson's Mockups to Build out the Register and Login Page\r\n- Added an API store to keep all API calls in one file\r\n- Authentication is done by adding a token from the API into local storage\r\n- Added alert messages\r\n\r\n### Testing Strategy\r\n\ud83d\udc40 lol\r\n\r\n### Issues Resolved\r\nWe have a working api and web app \ud83d\udc4d ",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T06:05:37Z"
+    },
+    {
+        "issues": "https://github.com/MiguelJoke/Library-ISPC/issues/25",
+        "title": "FrontEnd ",
+        "body": "**convertir en app Web**",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-30T21:20:21Z"
+    },
+    {
+        "issues": "https://github.com/Ger678/E-Commerce-Practicas-AP/issues/10",
+        "title": "Frontend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-19T01:30:20Z"
+    },
+    {
+        "issues": "https://github.com/automators-com/datamaker/issues/15",
+        "title": "Types: Frontend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-19T13:47:58Z"
+    },
+    {
+        "issues": "https://github.com/Zaid-Iqbal/IITStudentMarketPlaceIPRO/issues/40",
+        "title": "Frontend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-19T00:48:38Z"
+    },
+    {
+        "issues": "https://github.com/Deveneven/TasTier/issues/9",
+        "title": "[FRONTEND] Navbar",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-15T18:33:30Z"
+    },
+    {
+        "issues": "https://github.com/adrianabreu/titsa-gtfs-api/issues/9",
+        "title": "Frontend Demo",
+        "body": "Publish frontend in vue js showing the accumulated deviation.\r\nTry to make some cool css animation",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-15T10:06:07Z"
+    },
+    {
+        "issues": "https://github.com/zenbitETH/eneagon/issues/7",
+        "title": "Frontend",
+        "body": "- [x] #8 \r\n- [ ] Header with logo and wallet (fix wallet bg)\r\n- [x] #9 \r\n- [x] #10 \r\n- [x] #11 \r\n- [x] #12 \r\n- [x] #13 \r\n- [x] Mint soulbounded badge button\r\n- [x] #20 \r\n- [x] Network on the project detail\r\n- [x] No downloads of the project detail\r\n- [x] No stake buttons on the project detail\r\n- [ ] wiring #15 to project detail\r\n- [ ] wiring #16 to project detail and donate/vote buttons\r\n- [x] #21 \r\n- [x] #22 \r\n- [ ] buttons and progress bar states for SB badge, donated funds and disabled \r\n- [x] Locked screen (home)\r\n- [ ] Display start/foundation date for projects\r\n\r\n",
+        "labels": [],
+        "assignees": 3,
+        "comments": 0,
+        "created_at": "2022-09-19T16:53:29Z"
+    },
+    {
+        "issues": "https://github.com/domna/SpectroscopicMapping/issues/3",
+        "title": "Frontend tests",
+        "body": "I don't know yet how to test it properly, there are different frontend tests available. ipywidgets uses karma to test their widgets, which is just a test runner so an actual testing suite is needed. There is also https://github.com/robots-from-jupyter/robotframework-jupyterlibrary available, which seems to be an easy regression based approach.\r\n\r\n- [ ] Get test data\r\n- [ ] Decide on a test suite (frontend tests?? + for functional tests pytest)",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-13T17:37:00Z"
+    },
+    {
+        "issues": "https://github.com/AlghazHernanda/human-resource-website/issues/6",
+        "title": "Frontend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-17T11:27:51Z"
+    },
+    {
+        "issues": "https://github.com/Miiaroma/project-frontend/issues/6",
+        "title": "Testing frontend.",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-18T10:36:59Z"
+    },
+    {
+        "issues": "https://github.com/Miiaroma/project-frontend/issues/6",
+        "title": "Testing frontend.",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-18T10:36:59Z"
+    },
+    {
+        "issues": "https://github.com/ZionMiller/biobreak2/issues/4",
+        "title": "frontend: navbar + react-router",
+        "body": "we need a nav and routing set up especially for login/logout",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-21T23:21:32Z"
+    },
+    {
+        "issues": "https://github.com/chainjet/frontend/issues/2",
+        "title": "Frontend issues",
+        "body": "Hi There, I try to compile the frontend, however, this cause an error like this \r\n\r\n![image](https://user-images.githubusercontent.com/1263409/194828615-9d1a582f-1b6c-4954-840d-dbd07018689b.png)\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-10T08:44:35Z"
+    },
+    {
+        "issues": "https://github.com/camiinthisthang/learnsway-web3rsvp/issues/4",
+        "title": "Frontend",
+        "body": "Adding Tailwind CSS\r\nInput and button style",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-19T23:25:05Z"
+    },
+    {
+        "issues": "https://github.com/brian-walvoord/project-greenfield/issues/2",
+        "title": "Setup basic react frontend",
+        "body": "Lay out frontend file structure to get the project deployable. This does NOT mean filling in everything, but getting the bare minimum setup for the simplest type of deployment product. Goals:\nDisplay React components\nDisplay some type of content from backend on frontend",
+        "labels": [],
+        "assignees": 2,
+        "comments": 0,
+        "created_at": "2022-10-21T02:46:52Z"
+    },
+    {
+        "issues": "https://github.com/equinor/flotilla/issues/440",
+        "title": "Start page for frontend now has '/robotics-frontend' route",
+        "body": "**Describe the bug**\r\nStart page is not landing page\r\n\r\n**To Reproduce**\r\nStart front end\r\n**Expected behavior**\r\nStart page should be landing page\r\n\r\n**Screenshots**\r\nIf applicable, add screenshots to help explain your problem.\r\n",
+        "labels": [
+            {
+                "id": 3575953186,
+                "node_id": "LA_kwDOGbDM4c7VJLci",
+                "url": "https://api.github.com/repos/equinor/flotilla/labels/bug",
+                "name": "bug",
+                "color": "d73a4a",
+                "default": true,
+                "description": "Something isn't working"
+            },
+            {
+                "id": 4116820734,
+                "node_id": "LA_kwDOGbDM4c71YbL-",
+                "url": "https://api.github.com/repos/equinor/flotilla/labels/frontend",
+                "name": "frontend",
+                "color": "d93f0b",
+                "default": false,
+                "description": "Frontend related functionality"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-24T11:00:36Z"
+    },
+    {
+        "issues": "https://github.com/mjeziorkowski/acuto-game-frontend/issues/7",
+        "title": "CI/CD game-frontend",
+        "body": null,
+        "labels": [
+            {
+                "id": 4694847544,
+                "node_id": "LA_kwDOINHSv88AAAABF9WwOA",
+                "url": "https://api.github.com/repos/mjeziorkowski/acuto-game-frontend/labels/feature",
+                "name": "feature",
+                "color": "0E8A16",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-21T01:56:58Z"
+    },
+    {
+        "issues": "https://github.com/datalab-mi/Basegun/issues/96",
+        "title": "Tests frontend",
+        "body": "Rajouter un job \"build-frontend-and-test\" similaire \u00e0 \"build-backend-and-test\" dans https://github.com/datalab-mi/Basegun/blob/main/.github/workflows/pr.yml (peut \u00eatre lanc\u00e9 en parall\u00e8le)\r\n\r\n- [x] Tester si le frontend build bien (@leihuayi  )\r\n- [ ] Lancer des tests cypress (@Carolinedanslesnuages )",
+        "labels": [],
+        "assignees": 2,
+        "comments": 0,
+        "created_at": "2022-10-13T15:42:48Z"
+    },
+    {
+        "issues": "https://github.com/Hazernit/bookAplication/issues/1",
+        "title": "Create Frontend",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-13T14:59:55Z"
+    },
+    {
+        "issues": "https://github.com/Ghosty-deep/ecommerce-site-interface/issues/5",
+        "title": "frontend prototype",
+        "body": null,
+        "labels": [
+            {
+                "id": 4625086839,
+                "node_id": "LA_kwDOII3ZbM8AAAABE605dw",
+                "url": "https://api.github.com/repos/Ghosty-deep/ecommerce-site-interface/labels/hacktoberfest-accepted",
+                "name": "hacktoberfest-accepted",
+                "color": "fbca04",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4631773209,
+                "node_id": "LA_kwDOII3ZbM8AAAABFBNAGQ",
+                "url": "https://api.github.com/repos/Ghosty-deep/ecommerce-site-interface/labels/hacktoberfest",
+                "name": "hacktoberfest",
+                "color": "c2e0c6",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 0,
+        "comments": 2,
+        "created_at": "2022-10-07T16:04:06Z"
+    },
+    {
+        "issues": "https://github.com/KaskMIL/hello-react-front-end/issues/1",
+        "title": "Frontend",
+        "body": "# In this new Pull Request I'm adding the following features:\r\n- Create App and Greeting component.\r\n- Create a route in App for Greeting component.\r\n- Create Store, Action and Reducer that is connected with the rails API endpoint to generate a random greeting.\r\n\r\nShould use port: 3001",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-19T12:26:18Z"
+    },
+    {
+        "issues": "https://github.com/jd-apprentice/waifuland-fe/issues/10",
+        "title": "ToDo: Frontend",
+        "body": "- [x] Migrate from MUI to Chakra UI\r\n- [x] Refactor HTML-CSS\r\n- [x] Build login page\r\n- [ ] Finish styles\r\n- [ ] New design\r\n- [x] Responsive design\r\n- [x] Add `images` page",
+        "labels": [
+            {
+                "id": 3946437798,
+                "node_id": "LA_kwDOHCBais7rOdym",
+                "url": "https://api.github.com/repos/jd-apprentice/waifuland-fe/labels/documentation",
+                "name": "documentation",
+                "color": "0075ca",
+                "default": true,
+                "description": "Improvements or additions to documentation"
+            },
+            {
+                "id": 3946437800,
+                "node_id": "LA_kwDOHCBais7rOdyo",
+                "url": "https://api.github.com/repos/jd-apprentice/waifuland-fe/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            }
+        ],
+        "assignees": 1,
+        "comments": 3,
+        "created_at": "2022-10-06T00:51:42Z"
+    },
+    {
+        "issues": "https://github.com/professorjrod/Pinify/issues/2",
+        "title": "Make frontend",
+        "body": "Right now we have some MVC set up but we don't have a frontend development environment.\r\n\r\nWe need to set up the front end directory and connect a form component our user auth.",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-13T22:46:01Z"
+    },
+    {
+        "issues": "https://github.com/jigmam/primera_pagina/issues/1",
+        "title": "Jigman Frontend",
+        "body": "<3",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-11T00:27:24Z"
+    },
+    {
+        "issues": "https://github.com/Takashicc/Noveling/issues/2",
+        "title": "chore: Frontend environment setup",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-20T01:46:07Z"
+    },
+    {
+        "issues": "https://github.com/clearpathrobotics/colcon-distro/issues/6",
+        "title": "HTML frontend",
+        "body": "It would be great if `colcon_distro_server` had a browsable web interface, perhaps at a bare minimum providing some summary-type information like about the number of snapshots stored and the space used, perhaps also links to the most recently-created snapshots. If those had subpages, it would be great to be able to be able to do some simple querying stuff, like \"find this package\", \"list all run/build-depends of this package\", etc. Potentially could leverage a tool like `jq` for an agnostic querying interface.\r\n\r\nMore complex, it would be neat to be able to do cross-snapshot queries, like \"show me when this repo/package last changed\", or \"show me the deltas between these two snapshots.\"\r\n\r\nHopefully all or most of this could be implemented entirely in static assets, just fetching the JSON from the API endpoints and rendering it into templates client-side.",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-12T14:16:39Z"
+    },
+    {
+        "issues": "https://github.com/popcorndao/sweet-caramel/issues/1295",
+        "title": "Refactor Frontend",
+        "body": "In order to make work on the frontend easier we need to refactor the app.\nThere are few goal for this refactor:\n1. Generalize and reuse components as much as possible without passing too much data around. (Delete unused components)\n2. Make the code more readable and allow for easier extensibility and/or changes.\n3. Allow for an easy upgrade to wagmi and multi chain calls.\n\nTo achieve this we need to \n1. Create a global context for general page informations containing the used contract address and an enum for the current page.\n2. Create smaller data hooks to fetch only specific data. (These can also be bundled in other hooks for easier use). This hook can make use of the global page context to fetch specific data.\n3. Make functions pure so that they dont rely on page state and move them into their own useCallback hooks.\n4. Clearly differentiate \"smart\" and \"dumb\" components. (smart = has data/ function hooks, dumb = gets all data/functions passed in)\n5. Use hooks targeted to fetch only the data/functions needed in low level \"smart\"-components.\n6. Generalize components and hooks to reuse them across multiple pages. This might mean that we will remove certain purpose build components in favor of a more generalized one.\n7. Simplify design in certain areas to allow for better reusability.\n\nIn order to do this in a safe and efficient manner we will start with small low level components and step by step replace bigger and bigger components. A component that should first receive a new hook that only fetches specific data needed for display. If it needs to send transactions to chain it should also receive a specific hook for that function. We should not use big monolithic data fetching hooks like `useButterBatchData`. \nFor Example:  The `BatchClaimCard` for example only needs to know about the deposited and claimable balance of a specific batch and needs functions to claim or cancel the batch. Therefore it should have only specific hooks for that data/functions. No other params besides the `BatchId` should be passed into the component.\n\nhttps://miro.com/app/board/uXjVPXlgkTg=/",
+        "labels": [
+            {
+                "id": 3562221238,
+                "node_id": "LA_kwDOGQrYJc7UUy62",
+                "url": "https://api.github.com/repos/popcorndao/sweet-caramel/labels/frontend",
+                "name": "frontend",
+                "color": "33fc32",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 3665255618,
+                "node_id": "LA_kwDOGQrYJc7ad1zC",
+                "url": "https://api.github.com/repos/popcorndao/sweet-caramel/labels/Epic",
+                "name": "Epic",
+                "color": "ededed",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-10T15:02:34Z"
+    },
+    {
+        "issues": "https://github.com/htl-grieskirchen-core/core/issues/83",
+        "title": "frontend - create onboarding page",
+        "body": null,
+        "labels": [
+            {
+                "id": 4577092003,
+                "node_id": "LA_kwDOIBbs588AAAABENDhow",
+                "url": "https://api.github.com/repos/htl-grieskirchen-core/core/labels/frontend",
+                "name": "frontend",
+                "color": "ADBDEC",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-17T08:32:41Z"
+    },
+    {
+        "issues": "https://github.com/T18F-SEG491x-QkShare/QuickShareWiki/issues/12",
+        "title": "Frontend CRUD files",
+        "body": "- frontend should be able to CRD files from backend\n- Backend URL should be configurable",
+        "labels": [],
+        "assignees": 1,
+        "comments": 3,
+        "created_at": "2022-10-16T22:16:49Z"
+    },
+    {
+        "issues": "https://github.com/Koodikorppi/Portfolio-pro/issues/2",
+        "title": "Frontend",
+        "body": "- [ ] React\n- [ ] Redux \n- [ ] TypeScript\n- [ ] Axios?\n",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-09-20T14:13:51Z"
+    },
+    {
+        "issues": "https://github.com/Mariacalma/Proyecto-Ciclo-3/issues/14",
+        "title": "Frontend",
+        "body": "Creaci\u00f3n de la carpeta frontend en CMD\n\n\n\n![Image](https://user-images.githubusercontent.com/112293780/190883628-7f3a6044-e653-4af5-914b-206fbc7d533a.jpeg)\n\n\n\n",
+        "labels": [],
+        "assignees": 4,
+        "comments": 2,
+        "created_at": "2022-09-18T02:57:53Z"
+    },
+    {
+        "issues": "https://github.com/Logiqx/wsw-tech/issues/45",
+        "title": "Create server frontend",
+        "body": "Considering HTML pages that refresh every few seconds, served by nginx.",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-24T09:49:24Z"
+    },
+    {
+        "issues": "https://github.com/Team-ANANA/pet-stats/issues/17",
+        "title": "Frontend README",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-09T01:46:46Z"
+    },
+    {
+        "issues": "https://github.com/ceydaduzgec/SWE573/issues/9",
+        "title": "Implement frontend",
+        "body": "- Research which framework to use for frontend (Reach.js mayvbe?)\r\n- Implement the frontend framework\r\n- Update Docker settings\r\n- Document how to install frontend to Readme",
+        "labels": [
+            {
+                "id": 4623738487,
+                "node_id": "LA_kwDOIJQ_-88AAAABE5imdw",
+                "url": "https://api.github.com/repos/ceydaduzgec/SWE573/labels/Component:%20Frontend",
+                "name": "Component: Frontend",
+                "color": "6F47BB",
+                "default": false,
+                "description": "Feature is about coding frontend"
+            },
+            {
+                "id": 4641516425,
+                "node_id": "LA_kwDOIJQ_-88AAAABFKfriQ",
+                "url": "https://api.github.com/repos/ceydaduzgec/SWE573/labels/Status:%20Needs%20Info",
+                "name": "Status: Needs Info",
+                "color": "0052CC",
+                "default": false,
+                "description": "Needs further information before implementation"
+            },
+            {
+                "id": 4641536618,
+                "node_id": "LA_kwDOIJQ_-88AAAABFKg6ag",
+                "url": "https://api.github.com/repos/ceydaduzgec/SWE573/labels/Type:%20Research",
+                "name": "Type: Research",
+                "color": "FBCA04",
+                "default": false,
+                "description": "Research the topic for further information"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-10T19:17:24Z"
+    },
+    {
+        "issues": "https://github.com/utxo-one/bitcoiners-network/issues/23",
+        "title": "Frontend: Homepage",
+        "body": "Coding the home page based on the figma designs using vanilla JS/html/css",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-09T15:39:44Z"
+    },
+    {
+        "issues": "https://github.com/ReemMDA99/customer-info/issues/4",
+        "title": "Refractor frontend",
+        "body": "-Add styling using react bootstrap\r\n- refractor the code\r\n- have frontend ready",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-09T16:47:19Z"
+    },
+    {
+        "issues": "https://github.com/muccg/rdrf/issues/2240",
+        "title": "frontend updates",
+        "body": "ran ncu\r\nUpgrading /app/rdrf/rdrf/frontend/package.json\r\n[====================] 38/38 100%\r\n\r\n @testing-library/react    ^11.2.5  \u2192    ^13.4.0\r\n @types/jest                25.1.4  \u2192     29.1.1\r\n @types/lodash           ^4.14.149  \u2192  ^4.14.186\r\n @types/node                13.9.0  \u2192    18.7.23\r\n @types/rc-slider           ^8.6.5  \u2192     ^9.3.0\r\n @types/rc-tooltip          ^3.7.2  \u2192     ^3.7.7\r\n @types/react              16.9.23  \u2192    18.0.21\r\n @types/react-dom           16.9.5  \u2192     18.0.6\r\n @types/react-redux         ^7.1.7  \u2192    ^7.1.24\r\n @types/reactstrap          ^8.4.2  \u2192     ^8.7.1\r\n @types/redux-actions       ^2.6.1  \u2192     ^2.6.2\r\n axios                     ^0.21.2  \u2192    ^0.27.2\r\n bootstrap                  ^4.4.1  \u2192     ^5.2.1\r\n lodash                   ^4.17.19  \u2192   ^4.17.21\r\n npm-watch                  ^0.9.0  \u2192    ^0.11.0\r\n prettier                   ^2.2.1  \u2192     ^2.7.1\r\n rc-slider                  ^9.2.2  \u2192    ^10.0.1\r\n rc-tooltip                 ^4.0.1  \u2192     ^5.2.2\r\n react                    ^16.13.0  \u2192    ^18.2.0\r\n react-device-detect      ^1.11.14  \u2192     ^2.2.2\r\n react-dom                ^16.13.0  \u2192    ^18.2.0\r\n react-icons                ^3.9.0  \u2192     ^4.4.0\r\n react-redux                ^7.2.0  \u2192     ^8.0.4\r\n react-scripts               4.0.3  \u2192      5.0.1\r\n reactstrap                 ^8.4.1  \u2192     ^9.1.4\r\n redux                      ^4.0.5  \u2192     ^4.2.0\r\n redux-thunk                ^2.3.0  \u2192     ^2.4.1\r\n renamer                    ^1.1.4  \u2192     ^4.0.0\r\n typescript                  3.8.3  \u2192      4.8.4\r\n yarn                      ^1.22.4  \u2192   ^1.22.19\r\n\r\nRun yarn install to install new versions.",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-09-30T07:58:30Z"
+    },
+    {
+        "issues": "https://github.com/Register-app/register-app-frontend/issues/2",
+        "title": "[FRONTEND] Funkcjonalno\u015bci do zaimplementowania",
+        "body": "**Wsp\u00f3lne:**\r\n- [ ] Podsumowanie\r\n- [ ] Odczyt wiadomo\u015bci\r\n- [ ] Wysy\u0142ka wiadomo\u015bci\r\n- [ ] Podgl\u0105d planu\r\n- [ ] Logowanie do istniej\u0105cego konta\r\n- [ ] Wylogowywanie\r\n- [ ] R\u00f3\u017cnicowanie podsumowania w zale\u017cno\u015bci od roli\r\n- [ ] Wy\u015bwietlanie roli pod imieniem i nazwiskiem\r\n\r\n**Rodzic/ucze\u0144:**\r\n\r\n- [ ] Wy\u015bwietlanie ocen\r\n- [ ] Wy\u015bwietlanie frekwencji\r\n\r\n\r\n**Nauczyciel:**\r\n\r\n- [ ] Dodawanie ocen\r\n- [ ] Edycja ocen\r\n- [ ] Dodawanie frekwencji\r\n- [ ] Edycja frekwencji\r\n\r\n**Administrator:**\r\n@B1AL1 \r\n",
+        "labels": [
+            {
+                "id": 4712842686,
+                "node_id": "LA_kwDOISNgmM8AAAABGOhFvg",
+                "url": "https://api.github.com/repos/Register-app/register-app-frontend/labels/TODO",
+                "name": "TODO",
+                "color": "2B4B14",
+                "default": false,
+                "description": "to be implemented"
+            }
+        ],
+        "assignees": 2,
+        "comments": 0,
+        "created_at": "2022-10-23T22:19:37Z"
+    },
+    {
+        "issues": "https://github.com/Register-app/register-app-frontend/issues/1",
+        "title": "[FRONTEND] Widoki do zaimplementowania",
+        "body": "Lista widok\u00f3w do implementacji:\r\n\r\n**Og\u00f3lne**\r\n- [x] Logowanie\r\n- [ ] Wyloguj\r\n- [ ] Wiadomo\u015bci\r\n- [x] Menu nawigacyjne\r\n- [x] Stopka\r\n\r\n**Perspektywa ucznia/rodzica**\r\n- [x] Podsumowanie ucze\u0144/rodzic\r\n- [ ] Plan zaj\u0119\u0107\r\n- [ ] Frekwencja\r\n- [ ] Oceny\r\n- [ ] Wiadomo\u015bci\r\n\r\n**Perspektywa nauczyciela**\r\n- [x] Podsumowanie nauczyciela\r\n- [ ] Plan zaj\u0119\u0107 nauczyciela\r\n- [ ] Dodawanie frekwencji przez nauczyciela\r\n- [ ] Dodawanie oceny przez nauczyciela\r\n",
+        "labels": [
+            {
+                "id": 4712842686,
+                "node_id": "LA_kwDOISNgmM8AAAABGOhFvg",
+                "url": "https://api.github.com/repos/Register-app/register-app-frontend/labels/TODO",
+                "name": "TODO",
+                "color": "2B4B14",
+                "default": false,
+                "description": "to be implemented"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-23T22:11:18Z"
+    },
+    {
+        "issues": "https://github.com/Shaco74/SWE-MehrMarkt/issues/9",
+        "title": "Frontend Wiki schreiben",
+        "body": null,
+        "labels": [
+            {
+                "id": 4657578005,
+                "node_id": "LA_kwDOIM2RGs8AAAABFZ0AFQ",
+                "url": "https://api.github.com/repos/Shaco74/SWE-MehrMarkt/labels/documentation",
+                "name": "documentation",
+                "color": "0075ca",
+                "default": true,
+                "description": "Improvements or additions to documentation"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-24T14:30:11Z"
+    }
+]
