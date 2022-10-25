@@ -1,0 +1,1535 @@
+[
+    {
+        "issues": "https://github.com/crowdbotics-apps/shrill-star-37274/issues/10",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-10T23:55:59Z"
+    },
+    {
+        "issues": "https://github.com/crowdbotics-apps/shrill-star-37274/issues/3",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-10T23:55:56Z"
+    },
+    {
+        "issues": "https://github.com/olejorgenbakken/hjemmeside/issues/5",
+        "title": "Design",
+        "body": "?",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-12T19:32:09Z"
+    },
+    {
+        "issues": "https://github.com/Kwangyun/fa22-cse110-lab3/issues/1",
+        "title": "Design",
+        "body": "This is for desings",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-16T01:26:25Z"
+    },
+    {
+        "issues": "https://github.com/thomas-de-kegel/SpeakEasyIM/issues/5",
+        "title": "Design: CSS",
+        "body": "Use CSS to decorate site in line with chosen palette and style.",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-23T19:33:37Z"
+    },
+    {
+        "issues": "https://github.com/beelingue/Beelingue/issues/3",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-21T00:16:36Z"
+    },
+    {
+        "issues": "https://github.com/nclsndr/specify-public-test/issues/1",
+        "title": "style(design-tokens): Update design tokens",
+        "body": "Source: [@specifyapp/my-super-dope](http://localhost:8080/@specifyapp/my-super-dope)",
+        "labels": [
+            {
+                "id": 4629795646,
+                "node_id": "LA_kwDOIF3H6M8AAAABE_UTPg",
+                "url": "https://api.github.com/repos/nclsndr/specify-public-test/labels/Design%20tokens",
+                "name": "Design tokens",
+                "color": "ededed",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-07T12:03:07Z"
+    },
+    {
+        "issues": "https://github.com/varisha-025/BizRank/issues/30",
+        "title": "[DESIGN]Design the Brand Register form",
+        "body": "This will be a multi step form with the following steps:\n\n- Personal info\n- Brand info\n- Confirm details\n\nUnder personal info form, the fields will be as follows:\n\n- State (dropdown) (required)\n- City (dropdown) (required)\n- Pincode (required)\n\nContains a `NEXT` button at the bottom\n\nUnder brand info form, the fields will be as follows:\n\n- Logo (image upload) (required)\n- Description (required)\n- Website\n- Expected Delivery Time (required)\n- Payment Options available (required)\n- Product Categories (required)\n- Brand contact number (required)\n- Brand Contact email (required)\n- Instagram handle\n- Facebook handle\n- Youtube channel\n\nContains `PREV` and  `NEXT` button at the bottom\n\nUnder Confirm details, all the details entered will be displayed for the user to confirm and contains `PREV` button at the bottom so that user can update the details if needed and a `SUBMIT` button which will register the brand and data will be saved in the database.",
+        "labels": [
+            {
+                "id": 4622915825,
+                "node_id": "LA_kwDOH30rt88AAAABE4wY8Q",
+                "url": "https://api.github.com/repos/varisha-025/BizRank/labels/hacktoberfest",
+                "name": "hacktoberfest",
+                "color": "476A24",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4622975005,
+                "node_id": "LA_kwDOH30rt88AAAABE40AHQ",
+                "url": "https://api.github.com/repos/varisha-025/BizRank/labels/design",
+                "name": "design",
+                "color": "18DCC1",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 13,
+        "created_at": "2022-10-22T08:04:45Z"
+    },
+    {
+        "issues": "https://github.com/Mario-659/FormulaOneApi/issues/4",
+        "title": "Design endpoints",
+        "body": "*Can be broken down to child tasks*\n\n\n\nEvery endpoint should have defined:\n\n- path\n- response code\n- response body\n- parameters\n- who should have access to that endpoint\n\nAlso:\n\n- remember about REST \n- every endpoint should begin with `api/v1`",
+        "labels": [
+            {
+                "id": 4706744059,
+                "node_id": "LA_kwDOISB9g88AAAABGIs2-w",
+                "url": "https://api.github.com/repos/Mario-659/FormulaOneApi/labels/documentation",
+                "name": "documentation",
+                "color": "0075ca",
+                "default": true,
+                "description": "Improvements or additions to documentation"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-23T07:55:02Z"
+    },
+    {
+        "issues": "https://github.com/srdrakcay/Budges/issues/3",
+        "title": "Design\n",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-16T09:24:47Z"
+    },
+    {
+        "issues": "https://github.com/arya12pooja/hellow--world/issues/1",
+        "title": "design added",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-09T11:10:03Z"
+    },
+    {
+        "issues": "https://github.com/crowdbotics-apps/dark-star-37263/issues/59",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-09T04:04:40Z"
+    },
+    {
+        "issues": "https://github.com/crowdbotics-apps/dark-star-37263/issues/52",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-09T04:04:36Z"
+    },
+    {
+        "issues": "https://github.com/crowdbotics-apps/dark-star-37263/issues/45",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-09T04:04:33Z"
+    },
+    {
+        "issues": "https://github.com/crowdbotics-apps/dark-star-37263/issues/38",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-09T04:04:29Z"
+    },
+    {
+        "issues": "https://github.com/crowdbotics-apps/dark-star-37263/issues/31",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-09T04:04:26Z"
+    },
+    {
+        "issues": "https://github.com/crowdbotics-apps/dark-star-37263/issues/25",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-09T04:04:23Z"
+    },
+    {
+        "issues": "https://github.com/crowdbotics-apps/dark-star-37263/issues/17",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-09T04:04:19Z"
+    },
+    {
+        "issues": "https://github.com/crowdbotics-apps/dark-star-37263/issues/10",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-09T04:04:15Z"
+    },
+    {
+        "issues": "https://github.com/crowdbotics-apps/dark-star-37263/issues/3",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-09T04:04:12Z"
+    },
+    {
+        "issues": "https://github.com/Adalab/project-promo-r-module-2-team-5/issues/35",
+        "title": "Create form design section (card design)",
+        "body": null,
+        "labels": [
+            {
+                "id": 4686235464,
+                "node_id": "LA_kwDOIP3UIM8AAAABF1JHSA",
+                "url": "https://api.github.com/repos/Adalab/project-promo-r-module-2-team-5/labels/Landing%20&%20UI",
+                "name": "Landing & UI",
+                "color": "0E8A16",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-21T11:27:26Z"
+    },
+    {
+        "issues": "https://github.com/ryantheap/wcs-my-website-training/issues/1",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-16T06:18:29Z"
+    },
+    {
+        "issues": "https://github.com/super30admin/Design-1/issues/1483",
+        "title": "Design-1 ",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-06T16:18:59Z"
+    },
+    {
+        "issues": "https://github.com/bcProFoundation/lixilotus/issues/240",
+        "title": "[ Design ] Need new design for notification page",
+        "body": "![image](https://user-images.githubusercontent.com/74177525/197318311-155d0d57-580f-45cd-be64-42870470a880.png)\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-22T04:06:03Z"
+    },
+    {
+        "issues": "https://github.com/sandboxnu/ScoutDesign/issues/2",
+        "title": "[Design] Rework date/time input design",
+        "body": "**Problem:**  Inputting time and date fields for an event is a bit ambiguous / not really user friendly\r\n**Solution:** make more user friendly design \r\n**More Description:** From Jaron: \"Events have 3 fields for inputting an event interval: Date, Time, and End Time. However, this is ambiguous and the 3 separate fields are not really functionally separate. The current input format is not conducive to multi-day events or events that start on one day and end the next. Input validation by way of preventing an end time set before the start time is also impossible to perform because of these cases\"\r\n\r\nSee current design vs the beautiful proposed design images below\r\n\r\n**Specs:**\r\n- [ ] Make time and date fields more related to each other / less ambiguous (see proposed design image)\r\n- [ ] Make sure overall design (rest of the event form) still makes sense / looks decent enough\r\n\r\n![image](https://user-images.githubusercontent.com/72981805/197416036-7976aa9d-dd22-4fbf-bc4f-e4405234ee0d.png)\r\n![image](https://user-images.githubusercontent.com/72981805/197416060-7de38cd6-40d3-4a68-8265-d221889ba848.png)\r\n",
+        "labels": [
+            {
+                "id": 4616721096,
+                "node_id": "LA_kwDOIBDE588AAAABEy2SyA",
+                "url": "https://api.github.com/repos/sandboxnu/ScoutDesign/labels/design",
+                "name": "design",
+                "color": "FB6AB0",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-23T20:18:06Z"
+    },
+    {
+        "issues": "https://github.com/objectionary/eo/issues/1352",
+        "title": "Home object design. Save method design.",
+        "body": "The `org.eolang.maven.Home` object contains several methods which have not so clear design. \u2028Let\u2019s take a look on `save` methods. They are static methods de facto. They don\u2019t use inner state of the object and if we add static modifier - nothing changes. \u2028If we assume to use exactly `Home` object, I think, the best way would be to save or to load files using relative path of the Home object itself (not an absolute path as we do it for now).\u2028 Or if we need to use the methods with absolute paths, we can introduce a new separate object for it.",
+        "labels": [
+            {
+                "id": 476698945,
+                "node_id": "MDU6TGFiZWw0NzY2OTg5NDU=",
+                "url": "https://api.github.com/repos/objectionary/eo/labels/bug",
+                "name": "bug",
+                "color": "ee0701",
+                "default": true,
+                "description": null
+            }
+        ],
+        "assignees": 1,
+        "comments": 4,
+        "created_at": "2022-10-19T16:46:39Z"
+    },
+    {
+        "issues": "https://github.com/karimansary97/PostTask/issues/1",
+        "title": "Final design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-07T13:55:34Z"
+    },
+    {
+        "issues": "https://github.com/DeveloperAcademy-POSTECH/MacC-TEAM-ZESTY/issues/49",
+        "title": "[Design] review card UI",
+        "body": "## \uc791\uc5c5\ub0b4\uc6a9\r\n<!-- \uc791\uc5c5 \ub0b4\uc6a9\uacfc \uc774\ubbf8\uc9c0\ub97c \ucca8\ubd80\ud574\uc8fc\uc138\uc694. -->\r\n- [x] review card view UI\r\n- [x] navigation bar button custom\r\n- [x] viewController \uac04 \uc804\ud658\r\n- [x] \uba54\ub274 \uc0ac\uc9c4 \uc5ec\ubd80\uc5d0 \ub530\ub978 UI \ubcc0\ud654\r\n\r\n<!-- (+\uc2a4\ud06c\ub9b0\uc0f7)\uc774 \uc788\ub2e4\uba74 \uc801\uc5b4\uc8fc\uc138\uc694. \uc5c6\uc73c\uba74 \uc9c0\uc6cc\uc8fc\uc138\uc694-->\r\n|iPhone SE 3rd|iPhone 13|iPhone 13 Pro Max|\r\n|:---:|:---:|:---:|\r\n|<img width=\"250\" src=\"https://user-images.githubusercontent.com/73650994/197514860-6732f163-49cd-400e-ac38-9ab2a68220e2.png\">|<img width=\"250\" src=\"https://user-images.githubusercontent.com/73650994/197514916-fbdab3bf-e6c9-492b-ace8-b6d66f7f4f32.png\">|<img width=\"250\" src=\"https://user-images.githubusercontent.com/73650994/197514947-2fea6a80-68a4-4e1b-ae0a-f7bdcb3fc565.png\">|\r\n\r\n\r\n\r\n## \ub9ac\ubdf0\ud3ec\uc778\ud2b8\r\n<!-- \ub9ac\ubdf0\uac00 \ud544\uc694\ud55c \ud3ec\uc778\ud2b8\uc640 \ud574\ub2f9 \ub418\ub294 \ucee4\ubc0b\uc744 \ub9c1\ud06c\ub85c \uac78\uc5b4\uc8fc\uc138\uc694. -->\r\n\r\n## Reference\r\n<!-- \ucc38\uace0\ud55c \uc790\ub8cc\ub97c \uc791\uc131\ud574\uc8fc\uc138\uc694 -->\r\n- [view\uc5d0 padding \uc8fc\uae30](https://ios-development.tistory.com/698)\r\n- [\ubdf0 \uc804\ud658 \ub85c\uc9c1 - \uc5ec\ub7ec \uac1c\uc758 \ubdf0\ucee8\ud2b8\ub864\ub7ec Pop\ud558\uae30](https://www.darrengillman.com/index.php/2019/10/22/pop-multiple-view-controllers-from-the-navigation-stack/)\r\n- [\ub124\ube44\uac8c\uc774\uc158 \ubc14 back button custom](https://sarunw.com/posts/how-to-change-back-button-image/)\r\n- [bold / italic font \ubc14\ub85c \uba39\uc774\uae30](https://spin.atomicobject.com/2018/02/02/swift-scaled-font-bold-italic/)\r\n\r\n\r\n## Checklist\r\n- [x] \ube0c\ub79c\uce58\ub97c \uac00\uc838\uc640 \uc791\uc5c5\ud55c \uacbd\uc6b0 \uc774\uc804 \ube0c\ub79c\uce58\uc5d0 PR\uc744 \ubcf4\ub0c8\ub294\uc9c0 \ud655\uc778\r\n- [x] \ube4c\ub4dc\ub97c \uc704\ud574 SceneDelegate \uc218\uc815\ud55c \uac83 PR\ub85c \uc62c\ub9ac\uc9c0 \uc54a\uc558\ub294\uc9c0 \ud655\uc778\r\n- [x] \ud544\uc694\uc5c6\ub294 \uc8fc\uc11d, \ud504\ub9b0\ud2b8\ubb38 \uc81c\uac70\ud588\ub294\uc9c0 \ud655\uc778\r\n- [x] \ucee8\ubca4\uc158 \uc9c0\ucf30\ub294\uc9c0 \ud655\uc778\r\n- [x] final, private \uc81c\ub300\ub85c \ub123\uc5c8\ub294\uc9c0 \ud655\uc778\r\n- [x] \ub2e4\uc591\ud55c \ub514\ubc14\uc774\uc2a4\uc5d0 \ub808\uc774\uc544\uc6c3\uc774 \ub300\uc751\ub418\ub294\uc9c0 \ud655\uc778\r\n  - [x] iPhone SE\r\n  - [x] iPhone 13\r\n  - [x] iPhone 13 Pro Max\r\n\r\n",
+        "labels": [
+            {
+                "id": 4665567603,
+                "node_id": "LA_kwDOIB1cfs8AAAABFhbpcw",
+                "url": "https://api.github.com/repos/DeveloperAcademy-POSTECH/MacC-TEAM-ZESTY/labels/UI",
+                "name": "UI",
+                "color": "4219F2",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 1,
+        "created_at": "2022-10-24T11:30:00Z"
+    },
+    {
+        "issues": "https://github.com/Clueless-Community/flutter-ui-components/issues/58",
+        "title": "Added Individual Design Screen",
+        "body": "# Description\r\n\r\nIndividual Design Screen where you just have to pass your github username, repo name, widget path in paths List and that widget.\r\n\r\nFixes #33 \r\n\r\n## Type of change\r\n\r\n- [ ] Bug fix (non-breaking change which fixes an issue)\r\n- [x] New feature (non-breaking change which adds functionality)\r\n- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)\r\n- [ ] This change requires a documentation update\r\n\r\n## How Has This Been Tested?\r\n\r\n- [x] Manual testing\r\n- [x] Widget testing\r\n- [x] Unit testing\r\n\r\n## Checklist\r\n\r\n- [x] My code follows the style guidelines of this project\r\n- [x] I have performed a self-review of my own code\r\n- [x] I have commented my code, particularly in hard-to-understand areas\r\n- [x] I have made corresponding changes to the documentation\r\n- [x] My changes generate no new warnings\r\n- [ ] I have added tests that prove my fix is effective or that my feature works\r\n- [ ] New and existing unit tests pass locally with my changes\r\n- [x] Any dependent changes have been merged and published in downstream modules\r\n\r\n\r\nhttps://user-images.githubusercontent.com/92708917/197497402-244588b3-5614-4803-9768-6a2a4c5a491a.mp4\r\n\r\n\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-24T09:41:04Z"
+    },
+    {
+        "issues": "https://github.com/ferdousr3/school-managment-server/issues/2",
+        "title": "shema design ",
+        "body": null,
+        "labels": [
+            {
+                "id": 4693808313,
+                "node_id": "LA_kwDOIQqw4M8AAAABF8XUuQ",
+                "url": "https://api.github.com/repos/ferdousr3/school-managment-server/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-19T18:24:01Z"
+    },
+    {
+        "issues": "https://github.com/codemistic/Non-Code/issues/302",
+        "title": "Design Resources",
+        "body": "A carousel post consisting of all the design resources for UX/UI designers",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-17T18:41:56Z"
+    },
+    {
+        "issues": "https://github.com/FrancesMary145/HIRE-ME-APP/issues/3",
+        "title": "design",
+        "body": "**User interface design**\n1. How will users interact with the system?\n2. What forms and reports will be used by the system?\n\n**Data Design**\n1. What data is to be stored?\n2. What format of data will be in\n3. Where will the data be stored?\n\n**Program design**\n1. What programs need to be written?\n2. What will each of these programs do?",
+        "labels": [
+            {
+                "id": 4661143007,
+                "node_id": "LA_kwDOINOUZs8AAAABFdNl3w",
+                "url": "https://api.github.com/repos/FrancesMary145/HIRE-ME-APP/labels/documentation",
+                "name": "documentation",
+                "color": "0075ca",
+                "default": true,
+                "description": "Improvements or additions to documentation"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-13T09:39:51Z"
+    },
+    {
+        "issues": "https://github.com/eegiimgl/eegiimgl.github.io/issues/2",
+        "title": "design changes",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-16T03:36:39Z"
+    },
+    {
+        "issues": "https://github.com/eqlabs/starknet-multisig-ui/issues/8",
+        "title": "New design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-13T08:35:52Z"
+    },
+    {
+        "issues": "https://github.com/IIED-org/REDAA/issues/3",
+        "title": "Design",
+        "body": "Creation of fully featured, full colour interactive page prototypes ",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-12T02:05:42Z"
+    },
+    {
+        "issues": "https://github.com/xxiangaa/TodoApp/issues/1",
+        "title": "Design",
+        "body": null,
+        "labels": [
+            {
+                "id": 4257072700,
+                "node_id": "LA_kwDOHitgrM79vcY8",
+                "url": "https://api.github.com/repos/xxiangaa/TodoApp/labels/bug",
+                "name": "bug",
+                "color": "d73a4a",
+                "default": true,
+                "description": "Something isn't working"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-19T09:32:17Z"
+    },
+    {
+        "issues": "https://github.com/KasongoNathan/SDLC/issues/4",
+        "title": "Design",
+        "body": null,
+        "labels": [
+            {
+                "id": 4657066445,
+                "node_id": "LA_kwDOIEokPs8AAAABFZUxzQ",
+                "url": "https://api.github.com/repos/KasongoNathan/SDLC/labels/Assignment",
+                "name": "Assignment",
+                "color": "0E8A16",
+                "default": false,
+                "description": "Lecture Assignments"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-13T08:54:01Z"
+    },
+    {
+        "issues": "https://github.com/mintbomb27/almost-whatsapp/issues/2",
+        "title": "Design!",
+        "body": "Design a new WhatsApp interface for our almost WhatsApp. We shall not go with anything similar to the existing design, can rethink it entirely. ",
+        "labels": [
+            {
+                "id": 4677068197,
+                "node_id": "LA_kwDOIO54WM8AAAABFsZlpQ",
+                "url": "https://api.github.com/repos/mintbomb27/almost-whatsapp/labels/help%20wanted",
+                "name": "help wanted",
+                "color": "008672",
+                "default": true,
+                "description": "Extra attention is needed"
+            },
+            {
+                "id": 4677134529,
+                "node_id": "LA_kwDOIO54WM8AAAABFsdowQ",
+                "url": "https://api.github.com/repos/mintbomb27/almost-whatsapp/labels/hacktoberfest",
+                "name": "hacktoberfest",
+                "color": "462B51",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4677134857,
+                "node_id": "LA_kwDOIO54WM8AAAABFsdqCQ",
+                "url": "https://api.github.com/repos/mintbomb27/almost-whatsapp/labels/design",
+                "name": "design",
+                "color": "F18745",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4677135184,
+                "node_id": "LA_kwDOIO54WM8AAAABFsdrUA",
+                "url": "https://api.github.com/repos/mintbomb27/almost-whatsapp/labels/ui/ux",
+                "name": "ui/ux",
+                "color": "F8EF3E",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 2,
+        "comments": 7,
+        "created_at": "2022-10-16T18:43:44Z"
+    },
+    {
+        "issues": "https://github.com/joyd/ipn/issues/2",
+        "title": "style(design-tokens): Update design tokens",
+        "body": "Source: [@ipnc/combinezone](https://specifyapp.com/@ipnc/combinezone)",
+        "labels": [
+            {
+                "id": 4651356799,
+                "node_id": "LA_kwDOAATLSc8AAAABFT4Sfw",
+                "url": "https://api.github.com/repos/joyd/ipn/labels/Design%20tokens",
+                "name": "Design tokens",
+                "color": "ededed",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-11T14:25:08Z"
+    },
+    {
+        "issues": "https://github.com/AhmedGitt/OKP1/issues/2",
+        "title": "Design",
+        "body": null,
+        "labels": [
+            {
+                "id": 4666882570,
+                "node_id": "LA_kwDOINyRv88AAAABFir6Cg",
+                "url": "https://api.github.com/repos/AhmedGitt/OKP1/labels/important",
+                "name": "important",
+                "color": "F77D23",
+                "default": false,
+                "description": "Important feature"
+            }
+        ],
+        "assignees": 3,
+        "comments": 0,
+        "created_at": "2022-10-14T09:19:43Z"
+    },
+    {
+        "issues": "https://github.com/super30admin/Design-4/issues/420",
+        "title": "Design-4",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-13T06:06:41Z"
+    },
+    {
+        "issues": "https://github.com/Adalab/project-promo-r-module-2-team-7/issues/2",
+        "title": "Design",
+        "body": "[Zeplin Proyect](https://app.zeplin.io/project/5c94ca7ad58aef056fdd6a67)",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T12:53:46Z"
+    },
+    {
+        "issues": "https://github.com/finnius25/ReactCryptoApp/issues/2",
+        "title": "design",
+        "body": "- [ ] design crypto app in figma",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T16:17:03Z"
+    },
+    {
+        "issues": "https://github.com/mtuanweek/Demo/issues/1",
+        "title": "Design",
+        "body": "aaaaaaaaaaa",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-15T05:29:33Z"
+    },
+    {
+        "issues": "https://github.com/INSAgenda/web-app/issues/128",
+        "title": "Design v3",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-13T17:51:02Z"
+    },
+    {
+        "issues": "https://github.com/Adalab/project-promo-r-module-2-team-3/issues/3",
+        "title": "Design",
+        "body": "https://app.zeplin.io/project/5c94ca7ad58aef056fdd6a67\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T10:13:59Z"
+    },
+    {
+        "issues": "https://github.com/Adalab/project-promo-r-module-2-team-1/issues/2",
+        "title": "Design",
+        "body": "[Zeplin-Proyecto 2: Awesome profile-cards](https://app.zeplin.io/project/5c94ca7ad58aef056fdd6a67/dashboard?sid=5c94cafad12e87057b3ab4e9)",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T10:40:56Z"
+    },
+    {
+        "issues": "https://github.com/Adalab/project-promo-r-module-2-team-4/issues/2",
+        "title": "Design",
+        "body": "Zeplin project",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T10:24:48Z"
+    },
+    {
+        "issues": "https://github.com/JpnShop/Front/issues/138",
+        "title": "[DESIGN] global design",
+        "body": "# ISSUS: \u2705DESIGN\r\n\uc804\uccb4\uc801\uc778 css \uc791\uc5c5\r\n\r\n---\r\n\r\n## Description\r\n---\r\ncss \uc5b4\uc0c9\ud55c \ubd80\ubd84, \ud1b5\uc77c\uc131\uc774 \uc5c6\ub294 \ubd80\ubd84, \uc560\ub2c8\uba54\uc774\uc158\uc774 \ud544\uc694\ud55c \ubd80\ubd84 \ub4f1\r\n\r\n## Todo\r\n---\r\n- [x] re-sizing & re-position Icon in Header by page\r\n- [x] add animation in category, search etc.. with keyframe\r\n- [x] refactoring Main-TabList\r\n- [x] edit css Latest Magazine\r\n\r\n\r\n\r\n## ETC\r\n---\r\n\uae30\ud0c0\uc0ac\ud56d\r\n",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-07T04:26:51Z"
+    },
+    {
+        "issues": "https://github.com/super30admin/Design-3/issues/554",
+        "title": "Design-3",
+        "body": "Please review",
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-13T06:05:28Z"
+    },
+    {
+        "issues": "https://github.com/David-Verde/Blogapp/issues/11",
+        "title": "Api design",
+        "body": "PR Api for branch api, for activity Blog app: add API endpoints.\r\n\r\nimage\r\n\r\nThis branch includes the code to turn the app into an API that can let users to interact according o the following requirements:\r\n\r\nAPI endpoint to list all posts for a user.\r\n![image](https://user-images.githubusercontent.com/99683363/195945094-62d70ce2-524d-4937-866e-ea78250645fc.png)\r\n\r\nAPI endpoint to list all comments for a user's post.\r\n\r\n\r\nAPI endpoint to add a comment to a post. Remember that the owner of the comment is the user that makes it; it should not be set by passing a parameter.\r\n![image](https://user-images.githubusercontent.com/99683363/195945383-a99ccc2b-c26d-4996-9b6d-07cbd42036cb.png)\r\n\r\nAdd authentication to your API endpoints.\r\n\r\nYour API endpoints should receive JSON and respond JSON as well.\r\n\r\nThank you in advance for your review.\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-14T21:18:13Z"
+    },
+    {
+        "issues": "https://github.com/Apoorv-cloud/2_Hacktoberfest-22/issues/109",
+        "title": "optimize design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-14T18:11:34Z"
+    },
+    {
+        "issues": "https://github.com/AliBoraik/DotNet/issues/2",
+        "title": "react_design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-13T02:29:54Z"
+    },
+    {
+        "issues": "https://github.com/nite-ssh/Library-Management-Angular/issues/1",
+        "title": "Design",
+        "body": "- [x] Sass Implementation\r\n- [x] Generate Components\r\n- [x] Alignment of Comoponent ",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-17T11:33:38Z"
+    },
+    {
+        "issues": "https://github.com/malt-matcher/malt-matcher-FE/issues/37",
+        "title": "Responsive Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-24T15:36:34Z"
+    },
+    {
+        "issues": "https://github.com/jordanopensource/community-web/issues/72",
+        "title": "Design enhancements ",
+        "body": null,
+        "labels": [
+            {
+                "id": 3462998184,
+                "node_id": "LA_kwDOGPI-eM7OaSio",
+                "url": "https://api.github.com/repos/jordanopensource/community-web/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-13T09:49:13Z"
+    },
+    {
+        "issues": "https://github.com/CleverPuppies/YouFind/issues/3",
+        "title": "Design pattern",
+        "body": "Implement the Entities, Mapper, Gateway design pattern. (slide 9)",
+        "labels": [
+            {
+                "id": 4660679896,
+                "node_id": "LA_kwDOINLM9M8AAAABFcxU2A",
+                "url": "https://api.github.com/repos/CleverPuppies/YouFind/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            }
+        ],
+        "assignees": 2,
+        "comments": 0,
+        "created_at": "2022-10-24T02:23:52Z"
+    },
+    {
+        "issues": "https://github.com/crowdbotics-apps/shrill-star-37274/issues/31",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-10T23:56:09Z"
+    },
+    {
+        "issues": "https://github.com/crowdbotics-apps/shrill-star-37274/issues/24",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-10T23:56:06Z"
+    },
+    {
+        "issues": "https://github.com/crowdbotics-apps/shrill-star-37274/issues/17",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-10T23:56:03Z"
+    },
+    {
+        "issues": "https://github.com/aadamhuda/gameDev/issues/33",
+        "title": "Design: Battle Stage Design",
+        "body": null,
+        "labels": [
+            {
+                "id": 4663452418,
+                "node_id": "LA_kwDOIKPtXc8AAAABFfajAg",
+                "url": "https://api.github.com/repos/aadamhuda/gameDev/labels/Aesthetics",
+                "name": "Aesthetics",
+                "color": "68D8FC",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4675579165,
+                "node_id": "LA_kwDOIKPtXc8AAAABFq-tHQ",
+                "url": "https://api.github.com/repos/aadamhuda/gameDev/labels/Design",
+                "name": "Design",
+                "color": "6C990F",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4675580467,
+                "node_id": "LA_kwDOIKPtXc8AAAABFq-yMw",
+                "url": "https://api.github.com/repos/aadamhuda/gameDev/labels/Final%20Project",
+                "name": "Final Project",
+                "color": "A46CBF",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-16T11:02:28Z"
+    },
+    {
+        "issues": "https://github.com/Adalab/project-promo-r-module-2-team-5/issues/3",
+        "title": "Design",
+        "body": "https://app.zeplin.io/project/5c94ca7ad58aef056fdd6a67",
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-18T10:30:12Z"
+    },
+    {
+        "issues": "https://github.com/xKDR/Survey.jl/issues/66",
+        "title": "Design update ",
+        "body": "Added General SurveyDesign struct which currently has correct Horvitz Thompson mean. Variance calucated using Hartley Rao approximation (not correct in certain cases). Cluster sampling not implemented yet. Other improvements and placeholders for future work.",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-21T09:20:36Z"
+    },
+    {
+        "issues": "https://github.com/ACM-VIT/muscle_magic/issues/32",
+        "title": "app design",
+        "body": "App design added for hacktoberfest issue",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-22T05:17:02Z"
+    },
+    {
+        "issues": "https://github.com/Anubhav-9565/Hacktoberfest-2022/issues/4",
+        "title": "design changed",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-21T17:04:27Z"
+    },
+    {
+        "issues": "https://github.com/demeritbird/SteamXD-Evaluation-Platform/issues/9",
+        "title": "design/client: product design requirements",
+        "body": null,
+        "labels": [
+            {
+                "id": 4701048094,
+                "node_id": "LA_kwDOIGya2c8AAAABGDRNHg",
+                "url": "https://api.github.com/repos/demeritbird/SteamXD-Evaluation-Platform/labels/design",
+                "name": "design",
+                "color": "3AFAC0",
+                "default": false,
+                "description": "Done on Figma"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-21T03:41:48Z"
+    },
+    {
+        "issues": "https://github.com/DTS-FGA-Game-Creation-Kelompok-2/TheDuction/issues/35",
+        "title": "Design/story",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-21T20:44:48Z"
+    },
+    {
+        "issues": "https://github.com/ICEI-PUC-Minas-PMV-ADS/empreste-facil/issues/22",
+        "title": "Tafarel design",
+        "body": "Design Interface",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-21T18:01:07Z"
+    },
+    {
+        "issues": "https://github.com/jpmorganchase/uitk/issues/518",
+        "title": "\u2602\ufe0f Design: Website design (system)",
+        "body": "We need some _rough_ visual & interaction designs for:\r\n\r\n* The overall \"outer\" page layout - i.e. the stuff that's the same for each page (header, footer, margins, etc.)\r\n* Styles for typography (use whatever Odyssey gives us out of the box, but if there are gaps we need to define those additional styles)\r\n* \"Inner\", page-specific layouts\r\n\r\nWhile doing this we should be on the lookout for any reusable components / patterns that emerge, so that we can implement them accordingly. (Who knows, they may even become things we eventually contribute back to the core component library!)\r\n\r\nDeliverables\r\n\r\n* Just enough of a design (wireframe sketch on the back of a napkin, Figma, something inbetween or a bit of everything - whatever is quick to make and sufficient to convey the overarching _direction and intent_ of the design) for developers to begin making a draft implementation\r\n    * We can then iterate and refine the design in the browser by pairing with developers\r\n\r\nRequirements\r\n\r\n* Page layout must be responsive (let's do [mobile-first](https://bradfrost.com/blog/post/mobile-first-responsive-web-design/))\r\n\r\nJames's wish list\r\n* Support light/dark mode (via [CSS `prefers-color-scheme`](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)) - all the Odyssey components already have both themes, so we may as well. Also, [it's good for accessibility](https://mobilea11y.com/quick-wins/dark-mode/)!\r\n\r\nRelates to #483",
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-13T15:38:23Z"
+    },
+    {
+        "issues": "https://github.com/stepci/liquidless/issues/1",
+        "title": "Design",
+        "body": "We'll be building something which is similar to [Liquid](https://shopify.github.io), but less powerful. Should be perfect for templating configuration files in JSON or YAML\r\n\r\nWhich parts of Liquid we will support:\r\n\r\n- Variables\r\n- Filters\r\n\r\nBesides that, we should be able to work natively with JavaScript objects without having to convert them to strings first and parsing them again afterwards\r\n\r\nExample (strings):\r\n\r\n```js\r\nrenderTemplate(\"Hello, {{world}}\", { world: \"world!\" })\r\n```\r\n\r\nProduces following:\r\n\r\n```\r\nHello, world!\r\n```\r\n\r\nExample (object):\r\n\r\n```js\r\nrenderTemplate({ hello: \"{{world}}\" }, { world: \"world!\" })\r\n```\r\n\r\nProduces following:\r\n\r\n```js\r\n{ hello: \"world!\" }\r\n```\r\n\r\nAdditionally, we should be able to use filters (and provide custom filters!):\r\n\r\nExample:\r\n\r\n```js\r\nrenderTemplate(\"Hello, {{world | uppercase}}\", { world: \"world!\" })\r\n```\r\n\r\nProduces following\r\n\r\n```\r\nHello, WORLD!\r\n```\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 8,
+        "created_at": "2022-10-17T14:17:34Z"
+    },
+    {
+        "issues": "https://github.com/COSC481W-2022Fall/capstone-project-vibe/issues/61",
+        "title": "Design",
+        "body": "**Description**\nThis is a placeholder for any design changes we decide to make.\n\n**Tasks**\n\n- [ ] Change background to agreed upon selection\n- [ ] Change colors of action bars to better match new background\n- [ ] Set icons for each button\n- [ ] Check naming conventions for views and buttons\n\n",
+        "labels": [
+            {
+                "id": 4592961220,
+                "node_id": "LA_kwDOH7GDCs8AAAABEcMGxA",
+                "url": "https://api.github.com/repos/COSC481W-2022Fall/capstone-project-vibe/labels/Sprint%202",
+                "name": "Sprint 2",
+                "color": "D876B8",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 3,
+        "comments": 0,
+        "created_at": "2022-10-20T06:25:45Z"
+    },
+    {
+        "issues": "https://github.com/ICT2201-p7-7/ICT2201_P7-7/issues/33",
+        "title": "M2 - Decide on architectural design & design pattern",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 1,
+        "created_at": "2022-10-23T05:38:02Z"
+    },
+    {
+        "issues": "https://github.com/chart10/project1-web4370/issues/9",
+        "title": "Visual design",
+        "body": "I built all of this on top of Jamie's DATABASE-WORKING code. Mostly add visual design and some minor transform-transitions to the buttons. let me know what you guys think",
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-23T23:08:18Z"
+    },
+    {
+        "issues": "https://github.com/chrisjm/tea-curious-bingo-cards/issues/3",
+        "title": "Design",
+        "body": "Tailwind works well for the structure, so I want to keep that, but let's make it closer to Rie's design.\r\n\r\n- [x] Need individual assets\r\n- [x] Font?\r\n- [ ] Responsiveness? (mobile, tablet, desktop, should be fine)\r\n- [ ] Print? (would rather save trees, but probably should look okay when printed for good, sustainable reasons \ud83d\ude04 )",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-15T04:36:06Z"
+    },
+    {
+        "issues": "https://github.com/OSCA-Ado-Ekiti/tech-companies-in-africa/issues/51",
+        "title": "Design: Revamping the the design",
+        "body": "Revamping and redesigning the tech companies in africa, so it will include more details like active startups and dead startups, ability to filter with niche and more",
+        "labels": [
+            {
+                "id": 3509869161,
+                "node_id": "LA_kwDOGUFLAc7RNFpp",
+                "url": "https://api.github.com/repos/OSCA-Ado-Ekiti/tech-companies-in-africa/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            },
+            {
+                "id": 4692466783,
+                "node_id": "LA_kwDOGUFLAc8AAAABF7FcXw",
+                "url": "https://api.github.com/repos/OSCA-Ado-Ekiti/tech-companies-in-africa/labels/hacktoberfest",
+                "name": "hacktoberfest",
+                "color": "3FEA36",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 2,
+        "created_at": "2022-10-22T09:03:49Z"
+    },
+    {
+        "issues": "https://github.com/martineho/project-exam-2/issues/3",
+        "title": "Design",
+        "body": "- [ ] Typography\n- [ ] Colours\n- [ ] Logo\n- [ ] UI elements",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-17T21:00:53Z"
+    },
+    {
+        "issues": "https://github.com/vasynizami/fernandas-online-store/issues/8",
+        "title": "Design",
+        "body": "Added design mockups for easy ref to readme ",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-28T01:55:59Z"
+    },
+    {
+        "issues": "https://github.com/Chekkit-Technologies-Inc/supply-chain-frontend/issues/5",
+        "title": "New design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T15:21:03Z"
+    },
+    {
+        "issues": "https://github.com/PrismLauncher/prismlauncher.github.io/issues/13",
+        "title": "Design update",
+        "body": "To make Prism stand out from PolyMC, the design of the website should be updated. This PR aims to provide a design that better fits Prism.\r\n\r\n**Note:** This is a work-in-progress draft. Contributions are welcome.",
+        "labels": [],
+        "assignees": 0,
+        "comments": 4,
+        "created_at": "2022-10-18T20:35:02Z"
+    },
+    {
+        "issues": "https://github.com/JohnKHW/competition-WS-2022-module-g/issues/1",
+        "title": "Design",
+        "body": "https://www.figma.com/file/8nNXqfWBCkNgVntMqsJhWR/competition-ws-2022-module-g?node-id=0%3A1",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-16T00:13:22Z"
+    },
+    {
+        "issues": "https://github.com/ManishMadan2882/WeatherSense/issues/10",
+        "title": "design changes",
+        "body": "These are the changes I made: \r\n- I have combined the status and degree information card into one, and also the other two cards containing the weather details into one. \r\n- I have changed the design of the theme toggle button also.\r\n- Made the website responsive also.\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-19T09:12:52Z"
+    },
+    {
+        "issues": "https://github.com/crowdbotics-apps/long-dew-37332/issues/59",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T23:28:39Z"
+    },
+    {
+        "issues": "https://github.com/crowdbotics-apps/long-dew-37332/issues/52",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T23:28:35Z"
+    },
+    {
+        "issues": "https://github.com/crowdbotics-apps/long-dew-37332/issues/45",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T23:28:31Z"
+    },
+    {
+        "issues": "https://github.com/crowdbotics-apps/long-dew-37332/issues/38",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T23:28:27Z"
+    },
+    {
+        "issues": "https://github.com/crowdbotics-apps/long-dew-37332/issues/31",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T23:28:23Z"
+    },
+    {
+        "issues": "https://github.com/crowdbotics-apps/long-dew-37332/issues/24",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T23:28:19Z"
+    },
+    {
+        "issues": "https://github.com/crowdbotics-apps/long-dew-37332/issues/17",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T23:28:15Z"
+    },
+    {
+        "issues": "https://github.com/crowdbotics-apps/long-dew-37332/issues/10",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T23:28:11Z"
+    },
+    {
+        "issues": "https://github.com/crowdbotics-apps/long-dew-37332/issues/3",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T23:28:07Z"
+    },
+    {
+        "issues": "https://github.com/StarikTenger/Chipollino/issues/48",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-23T11:06:34Z"
+    },
+    {
+        "issues": "https://github.com/OCVTS/SVAW/issues/2",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-20T12:57:29Z"
+    },
+    {
+        "issues": "https://github.com/k4i5er/py-graphs/issues/2",
+        "title": "design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-15T20:50:19Z"
+    },
+    {
+        "issues": "https://github.com/MEXA-TECHUB-PVT-Ltd/park-app-frontend/issues/2",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-14T14:08:49Z"
+    },
+    {
+        "issues": "https://github.com/nassarhayat/rad.institute/issues/1",
+        "title": "\ud83d\udfe0\ud83c\udf08\ud83d\udca0 Design \ud83d\udd3b\ud83c\udfa8\ud83d\udfe9",
+        "body": "**IN PROGRESS**\r\n\r\n<img width=\"1276\" alt=\"image\" src=\"https://user-images.githubusercontent.com/4406983/195896560-25567f02-3851-4af8-8203-f762d24759f7.png\">",
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-14T16:32:25Z"
+    },
+    {
+        "issues": "https://github.com/Paradoxxs/virtuaplant/issues/1",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-15T18:38:36Z"
+    },
+    {
+        "issues": "https://github.com/ersakantibelva/booking-ticket-hackaton/issues/2",
+        "title": "design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-13T10:39:04Z"
+    },
+    {
+        "issues": "https://github.com/MEXA-TECHUB-PVT-Ltd/park-app-frontend/issues/1",
+        "title": "Design",
+        "body": "app\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-12T07:17:00Z"
+    },
+    {
+        "issues": "https://github.com/netxmace/Code-For-Day/issues/7",
+        "title": "design",
+        "body": "app UI/UX design ideas ",
+        "labels": [
+            {
+                "id": 4593320221,
+                "node_id": "LA_kwDOIF4ZmM8AAAABEciBHQ",
+                "url": "https://api.github.com/repos/netxmace/Code-For-Day/labels/hacktoberfest-accepted",
+                "name": "hacktoberfest-accepted",
+                "color": "027B38",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-08T10:11:21Z"
+    },
+    {
+        "issues": "https://github.com/eba472/mango-mobile/issues/34",
+        "title": "[Design] Flashcard design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-20T14:15:30Z"
+    },
+    {
+        "issues": "https://github.com/BryggansBryggeri/experimental_ui/issues/7",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 2,
+        "created_at": "2022-10-04T08:19:08Z"
+    },
+    {
+        "issues": "https://github.com/asti2020/project-2/issues/2",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-07T17:05:41Z"
+    },
+    {
+        "issues": "https://github.com/SLG-2022-G3/HELP/issues/54",
+        "title": "Design",
+        "body": "- [ ] User is greeted with \"Hello + \"username\" on start",
+        "labels": [
+            {
+                "id": 4496855519,
+                "node_id": "LA_kwDOH77Bvc8AAAABDAiR3w",
+                "url": "https://api.github.com/repos/SLG-2022-G3/HELP/labels/JAVA",
+                "name": "JAVA",
+                "color": "008672",
+                "default": false,
+                "description": "This is code"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-24T17:16:14Z"
+    },
+    {
+        "issues": "https://github.com/himanshuhiranandani/developer-roadmap/issues/3",
+        "title": "style(design-tokens): Update design tokens",
+        "body": "Source: [@deloitte/test-connection](https://specifyapp.com/@deloitte/test-connection)",
+        "labels": [
+            {
+                "id": 4643905957,
+                "node_id": "LA_kwDOG7R4k88AAAABFMxhpQ",
+                "url": "https://api.github.com/repos/himanshuhiranandani/developer-roadmap/labels/Design%20tokens",
+                "name": "Design tokens",
+                "color": "ededed",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-20T16:28:48Z"
+    },
+    {
+        "issues": "https://github.com/calyptia/core-docker-desktop-extension/issues/33",
+        "title": "design: revisit design guidelines",
+        "body": "Docker Desktop team provides the following design guidelines, let's make sure we are aligned:\r\n\r\nhttps://docs.docker.com/desktop/extensions-sdk/design/design-guidelines/",
+        "labels": [],
+        "assignees": 1,
+        "comments": 3,
+        "created_at": "2022-10-16T16:44:58Z"
+    },
+    {
+        "issues": "https://github.com/nastik-e/jewellery-shop/issues/1",
+        "title": "Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-05T17:26:42Z"
+    },
+    {
+        "issues": "https://github.com/tGodson/car-rental-react/issues/2",
+        "title": "Adjusted Design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-24T09:56:32Z"
+    },
+    {
+        "issues": "https://github.com/doe-jane/style-dictionary/issues/3",
+        "title": "style(design-tokens): Update design tokens",
+        "body": "Source: [@acme-inc/all-design-data](https://specifyapp.com/@acme-inc/all-design-data)",
+        "labels": [
+            {
+                "id": 4692280692,
+                "node_id": "LA_kwDOIQgUMc8AAAABF66FdA",
+                "url": "https://api.github.com/repos/doe-jane/style-dictionary/labels/Design%20tokens",
+                "name": "Design tokens",
+                "color": "ededed",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-19T11:47:02Z"
+    },
+    {
+        "issues": "https://github.com/gridaco/grida.co/issues/167",
+        "title": "\"How to design\" docs for core design components & design tokens",
+        "body": "# [wip] How to design..\r\n- Buttons\r\n- TextFields\r\n- TextFormFields\r\n- Checkbox\r\n- Progress Indicator\r\n- Slider",
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-13T23:49:28Z"
+    },
+    {
+        "issues": "https://github.com/pingcap/tidb/issues/38246",
+        "title": "docs/design: REORGANIZE PARTITION design",
+        "body": "<!--\r\n\r\nThank you for contributing to TiDB!\r\n\r\nPR Title Format:\r\n1. pkg [, pkg2, pkg3]: what's changed\r\n2. *: what's changed\r\n\r\n-->\r\n\r\n### What problem does this PR solve?\r\n<!--\r\n\r\nPlease create an issue first to describe the problem.\r\n\r\nThere MUST be one line starting with \"Issue Number:  \" and \r\nlinking the relevant issues via the \"close\" or \"ref\".\r\n\r\nFor more info, check https://pingcap.github.io/tidb-dev-guide/contribute-to-tidb/contribute-code.html#referring-to-an-issue.\r\n\r\n-->\r\n\r\nIssue Number: ref #15000, ref #15002\r\n\r\nProblem Summary:\r\n\r\n### What is changed and how it works?\r\n\r\n### Check List\r\n\r\nTests <!-- At least one of them must be included. -->\r\n\r\n- [ ] Unit test\r\n- [ ] Integration test\r\n- [ ] Manual test (add detailed scripts or steps below)\r\n- [x] No code\r\n\r\nSide effects\r\n\r\n- [ ] Performance regression: Consumes more CPU\r\n- [ ] Performance regression: Consumes more Memory\r\n- [ ] Breaking backward compatibility\r\n\r\nDocumentation\r\n\r\n- [ ] Affects user behaviors\r\n- [ ] Contains syntax changes\r\n- [ ] Contains variable changes\r\n- [ ] Contains experimental features\r\n- [ ] Changes MySQL compatibility\r\n\r\n### Release note\r\n\r\n<!-- compatibility change, improvement, bugfix, and new feature need a release note -->\r\n\r\nPlease refer to [Release Notes Language Style Guide](https://pingcap.github.io/tidb-dev-guide/contribute-to-tidb/release-notes-style-guide.html) to write a quality release note.\r\n\r\n```release-note\r\nNone\r\n```\r\n",
+        "labels": [
+            {
+                "id": 2762754989,
+                "node_id": "MDU6TGFiZWwyNzYyNzU0OTg5",
+                "url": "https://api.github.com/repos/pingcap/tidb/labels/size/L",
+                "name": "size/L",
+                "color": "ee9900",
+                "default": false,
+                "description": "Denotes a PR that changes 100-499 lines, ignoring generated files."
+            },
+            {
+                "id": 3201526484,
+                "node_id": "MDU6TGFiZWwzMjAxNTI2NDg0",
+                "url": "https://api.github.com/repos/pingcap/tidb/labels/release-note-none",
+                "name": "release-note-none",
+                "color": "ededed",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 0,
+        "comments": 4,
+        "created_at": "2022-09-29T08:44:29Z"
+    },
+    {
+        "issues": "https://github.com/varisha-025/BizRank/issues/43",
+        "title": "[DESIGN]Design the Sale form",
+        "body": "Under the sale form, the following fields should be there:\n\n- sale name (required) \n- description (required)\n- discount on product categories (required) (dropdown) \n- discount upto % (required) (dropdown) \n- start date (required)\n- end date (required)\n- free gifts available (required) (dropdown) \n- minimum order value (required)",
+        "labels": [
+            {
+                "id": 4457919603,
+                "node_id": "LA_kwDOH30rt88AAAABCbZ0cw",
+                "url": "https://api.github.com/repos/varisha-025/BizRank/labels/good%20first%20issue",
+                "name": "good first issue",
+                "color": "7057ff",
+                "default": true,
+                "description": "Good for newcomers"
+            },
+            {
+                "id": 4622915825,
+                "node_id": "LA_kwDOH30rt88AAAABE4wY8Q",
+                "url": "https://api.github.com/repos/varisha-025/BizRank/labels/hacktoberfest",
+                "name": "hacktoberfest",
+                "color": "476A24",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4622975005,
+                "node_id": "LA_kwDOH30rt88AAAABE40AHQ",
+                "url": "https://api.github.com/repos/varisha-025/BizRank/labels/design",
+                "name": "design",
+                "color": "18DCC1",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-23T10:06:58Z"
+    },
+    {
+        "issues": "https://github.com/aleksgeorgi/aleksgeorgi.github.io/issues/1",
+        "title": "Responsive Design",
+        "body": "This should get you started with a proper responsive design. You'll need to tweak some spacings and stuff.\r\n\r\n1. Either render the hero image with text as part of it, or use proper text elements. I chose the latter. This makes it responsive.\r\n2. Let's make those social icons a bit smaller on small screens.\r\n3. Switched some `div`  -> `section` for semantics and to keep myself organized.\r\n\r\nSee comments in the diff for more. Oh, and I ran prettier on the HTML so it looks like I changed everything even though I only made a few edits.",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-23T19:22:46Z"
+    },
+    {
+        "issues": "https://github.com/IBM-EPBL/IBM-Project-27734-1660064362/issues/2",
+        "title": "Project design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-22T09:12:31Z"
+    },
+    {
+        "issues": "https://github.com/NAGanesh-TS02/HTML-Task_22102022/issues/1",
+        "title": "Aditya design",
+        "body": "# Design page completed.  \r\n*  I initially added [README.md](./README.md) file, Images and CSS directories in the root directory.   \r\n*  I designed the [\"Design.html\"](./Design.html) file.\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-24T13:06:54Z"
+    },
+    {
+        "issues": "https://github.com/Edwardb11/package-tracking-frontend/issues/33",
+        "title": "Update -- Design--",
+        "body": null,
+        "labels": [
+            {
+                "id": 4669081966,
+                "node_id": "LA_kwDOHjped88AAAABFkyJbg",
+                "url": "https://api.github.com/repos/Edwardb11/package-tracking-frontend/labels/best%20practices",
+                "name": "best practices",
+                "color": "D5D8CF",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-21T17:50:16Z"
+    },
+    {
+        "issues": "https://github.com/NazimFilzer/WhiteBoard-Collab-SHN/issues/51",
+        "title": "Responsive design",
+        "body": "Solve the issue - The Mobile View is Not responsive #15\r\n\r\nThe joining page is now mobile responsive.\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 2,
+        "created_at": "2022-10-23T07:20:14Z"
+    },
+    {
+        "issues": "https://github.com/EslamEs1/joprcar-design/issues/1",
+        "title": "second design",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-22T23:52:06Z"
+    },
+    {
+        "issues": "https://github.com/NextAudio/NextAudio/issues/102",
+        "title": "AudioFormats Design",
+        "body": "## Pull request checklist\r\n\r\nPlease check if your PR fulfills the following requirements:\r\n- [x] Tests for the changes have been added (for bug fixes / features)\r\n- [x] Docs have been reviewed and added / updated if needed (for bug fixes / features)\r\n- [x] Build (`dotnet build`) was run locally and any changes were pushed\r\n- [x] Lint (`dotnet format`) has passed locally and any fixes were made for failures\r\n\r\n## Issues\r\n<!-- Please list all linked issues for this PR, if none, please write the 2 above sections -->\r\n- #85 \r\n\r\n## Does this introduce a breaking change?\r\n\r\n- [ ] Yes\r\n- [x] No\r\n\r\n<!-- If this introduces a breaking change, please describe the impact and migration path for existing applications below, or if is linked to a relevant issue, just ignore (PLEASE DON'T REMOVE THE SECTION) -->\r\n\r\n\r\n## Other information\r\nWe will not create all others audio codings class because they need some spec before.\r\n\r\n<!-- Any other information that is important to this PR such as screenshots of how the component looks before and after the change. -->\r\n\r\n<details>\r\n  <summary>Closes Section</summary>\r\n<!-- Plase list all linked issues this PR will close, if none remove the section (<details> attribute) -->\r\nCloses #85  <br>\r\n</details>\r\n",
+        "labels": [
+            {
+                "id": 2537277002,
+                "node_id": "MDU6TGFiZWwyNTM3Mjc3MDAy",
+                "url": "https://api.github.com/repos/NextAudio/NextAudio/labels/new%20feature",
+                "name": "new feature",
+                "color": "a2eeef",
+                "default": false,
+                "description": "New feature or request"
+            },
+            {
+                "id": 4538851922,
+                "node_id": "LA_kwDOEttDk88AAAABDoliUg",
+                "url": "https://api.github.com/repos/NextAudio/NextAudio/labels/design",
+                "name": "design",
+                "color": "ff99ff",
+                "default": false,
+                "description": "This issue or PR is about our API design"
+            },
+            {
+                "id": 4542716947,
+                "node_id": "LA_kwDOEttDk88AAAABDsRcEw",
+                "url": "https://api.github.com/repos/NextAudio/NextAudio/labels/area:%20matroska",
+                "name": "area: matroska",
+                "color": "E99695",
+                "default": false,
+                "description": "This issue or PR is tracking in the matroska project"
+            },
+            {
+                "id": 4543071310,
+                "node_id": "LA_kwDOEttDk88AAAABDsnETg",
+                "url": "https://api.github.com/repos/NextAudio/NextAudio/labels/area:%20core",
+                "name": "area: core",
+                "color": "E99695",
+                "default": false,
+                "description": "This issue or PR is tracking in the core project"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-22T17:26:44Z"
+    },
+    {
+        "issues": "https://github.com/aadamhuda/gameDev/issues/31",
+        "title": "Design: Environmental Design",
+        "body": null,
+        "labels": [
+            {
+                "id": 4663452418,
+                "node_id": "LA_kwDOIKPtXc8AAAABFfajAg",
+                "url": "https://api.github.com/repos/aadamhuda/gameDev/labels/Aesthetics",
+                "name": "Aesthetics",
+                "color": "68D8FC",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4675579165,
+                "node_id": "LA_kwDOIKPtXc8AAAABFq-tHQ",
+                "url": "https://api.github.com/repos/aadamhuda/gameDev/labels/Design",
+                "name": "Design",
+                "color": "6C990F",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4675580467,
+                "node_id": "LA_kwDOIKPtXc8AAAABFq-yMw",
+                "url": "https://api.github.com/repos/aadamhuda/gameDev/labels/Final%20Project",
+                "name": "Final Project",
+                "color": "A46CBF",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-16T11:02:20Z"
+    },
+    {
+        "issues": "https://github.com/aadamhuda/gameDev/issues/32",
+        "title": "Design: Projectiles Design",
+        "body": null,
+        "labels": [
+            {
+                "id": 4663452418,
+                "node_id": "LA_kwDOIKPtXc8AAAABFfajAg",
+                "url": "https://api.github.com/repos/aadamhuda/gameDev/labels/Aesthetics",
+                "name": "Aesthetics",
+                "color": "68D8FC",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4675579165,
+                "node_id": "LA_kwDOIKPtXc8AAAABFq-tHQ",
+                "url": "https://api.github.com/repos/aadamhuda/gameDev/labels/Design",
+                "name": "Design",
+                "color": "6C990F",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4675580467,
+                "node_id": "LA_kwDOIKPtXc8AAAABFq-yMw",
+                "url": "https://api.github.com/repos/aadamhuda/gameDev/labels/Final%20Project",
+                "name": "Final Project",
+                "color": "A46CBF",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-16T11:02:24Z"
+    }
+]
