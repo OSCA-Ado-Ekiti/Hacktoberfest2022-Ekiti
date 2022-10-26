@@ -1,0 +1,1566 @@
+[
+    {
+        "issues": "https://github.com/LANative/Test1/issues/1",
+        "title": "Technical Writing/Editing Project",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-15T17:20:42Z"
+    },
+    {
+        "issues": "https://github.com/stackup-dev/open-source-campaign/issues/416",
+        "title": "Introduction to Technical Writing",
+        "body": "# Name of Proposer\r\nUnimke\r\n\r\n# Campaign Name\r\nIntroduction to Technical Writing\r\n\r\n## Campaign Description\r\nTechnical Writing is a growing niche in tech therefore it is necessary for beginners to get themselves acquainted with what is needed to grow in this field, this task will help players to understand how to put their knowledge in coding into words and make it sound interesting to readers and the opportunities involve in this niche. \r\n\r\n## Number of Quests\r\n2\r\n\r\n## Quest 1 Summary\r\nThis will involve Stackies watching resources and improving their grammar, and what technical writing is all about.\r\n\r\n## Quest 1 Learning Objectives\r\n1. Grammar\r\n2. What is Technical Writing\r\n3. What do you need to be a Technical Writer.\r\n\r\n## Quest 1 Deliverables\r\nA Quiz\r\n\r\n## Quest 2 Summary\r\nThis will involve Stackies taking the google free technical writing course, this would further expand their knowledge in Technical writing and equip them enough to dive into the the Technical writing space.\r\n\r\n## Quest 2 Learning Objectives\r\n1. learning industry best practice.\r\n2. Building a Technical Writing Portfolio\r\n3. How to earn from technical Writing\r\n\r\n## Quest 2 Deliverables\r\nA PDF of a Technical writing on any Language or topic from players.\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-05T22:05:44Z"
+    },
+    {
+        "issues": "https://github.com/IamGideonIdoko/open-sauced-goals/issues/2",
+        "title": "CynthiaPeter/Technical-Writing-Resources",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-20T11:14:39Z"
+    },
+    {
+        "issues": "https://github.com/1Alisha/HACKTOBERFEST-22/issues/22",
+        "title": "Technical and Non Technical Blogs",
+        "body": "If you have never written a technical blog before, it can seem a bit overwhelming. There are many benefits of writing a technical blog and not only for the sole purpose of helping others. \r\nThe best way to learn something is to teach others the knowledge that you have gained. \r\nSo let's kickstart this journey of writing blogs and contributing to open-source\r\nOverall Structure of a Blog Post\r\n    1. Title\r\n    2. Cover photo\r\n    3. Introduction\r\n    4. Body\r\n    5. Conclusion\r\n Contribute to the blog \"HACKING THE HACKTOBERFEST'22\"\r\n",
+        "labels": [
+            {
+                "id": 4635871199,
+                "node_id": "LA_kwDOIKjo-s8AAAABFFHH3w",
+                "url": "https://api.github.com/repos/1Alisha/HACKTOBERFEST-22/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            },
+            {
+                "id": 4635871202,
+                "node_id": "LA_kwDOIKjo-s8AAAABFFHH4g",
+                "url": "https://api.github.com/repos/1Alisha/HACKTOBERFEST-22/labels/help%20wanted",
+                "name": "help wanted",
+                "color": "008672",
+                "default": true,
+                "description": "Extra attention is needed"
+            },
+            {
+                "id": 4635871205,
+                "node_id": "LA_kwDOIKjo-s8AAAABFFHH5Q",
+                "url": "https://api.github.com/repos/1Alisha/HACKTOBERFEST-22/labels/good%20first%20issue",
+                "name": "good first issue",
+                "color": "7057ff",
+                "default": true,
+                "description": "Good for newcomers"
+            },
+            {
+                "id": 4635982886,
+                "node_id": "LA_kwDOIKjo-s8AAAABFFN8Jg",
+                "url": "https://api.github.com/repos/1Alisha/HACKTOBERFEST-22/labels/hactoberfest-accepted",
+                "name": "hactoberfest-accepted",
+                "color": "0E39E0",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4635985679,
+                "node_id": "LA_kwDOIKjo-s8AAAABFFOHDw",
+                "url": "https://api.github.com/repos/1Alisha/HACKTOBERFEST-22/labels/hactoberfest2022",
+                "name": "hactoberfest2022",
+                "color": "B435E2",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4640574441,
+                "node_id": "LA_kwDOIKjo-s8AAAABFJmL6Q",
+                "url": "https://api.github.com/repos/1Alisha/HACKTOBERFEST-22/labels/developer",
+                "name": "developer",
+                "color": "71E09E",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4642838083,
+                "node_id": "LA_kwDOIKjo-s8AAAABFLwWQw",
+                "url": "https://api.github.com/repos/1Alisha/HACKTOBERFEST-22/labels/blog-writing",
+                "name": "blog-writing",
+                "color": "881136",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 0,
+        "comments": 2,
+        "created_at": "2022-10-10T04:13:32Z"
+    },
+    {
+        "issues": "https://github.com/mattermost/mattermost-handbook/issues/1105",
+        "title": "Hacktoberfest: Review the technical writing handbook",
+        "body": "The technical writing handbook is our go-to for everything from our style guide to our processes. However, as it's grown it's become unwieldy in terms of structure. \r\n\r\nWhat we need is fresh eyes on the handbook, which is [here](https://handbook.mattermost.com/operations/research-and-development/product/technical-writing-team-handbook) and feedback about:\r\n\r\n- How the content is organized\r\n- Whether the content is readable and accessible to multiple audiences\r\n- What's missing from the content\r\n- What's extraneous in the content\r\n- Whether there's duplicate content\r\n\r\nAny and all feedback is welcome and you're encouraged to make whatever changes you see fit. Once the PR is open, you'll have full access to the docs team for support and assistance. \r\n\r\nQuestions? You can find us at the [DWG channel](https://community.mattermost.com/core/channels/dwg-documentation-working-group) on our community server.",
+        "labels": [
+            {
+                "id": 1661237615,
+                "node_id": "MDU6TGFiZWwxNjYxMjM3NjE1",
+                "url": "https://api.github.com/repos/mattermost/mattermost-handbook/labels/help%20wanted",
+                "name": "help wanted",
+                "color": "008672",
+                "default": true,
+                "description": "Extra attention is needed"
+            },
+            {
+                "id": 2462897210,
+                "node_id": "MDU6TGFiZWwyNDYyODk3MjEw",
+                "url": "https://api.github.com/repos/mattermost/mattermost-handbook/labels/Hacktoberfest",
+                "name": "Hacktoberfest",
+                "color": "dc7d02",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-07T09:50:38Z"
+    },
+    {
+        "issues": "https://github.com/Bennykillua/Getting-started-in-Technical-Writing/issues/4",
+        "title": "Technical Writing courses",
+        "body": "Do you know any other technical writing courses?\r\n\r\nAdd what you find [here](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Courses.md)\r\n\r\nPlease it would be best if you have perhaps taken the course before. Not random courses.",
+        "labels": [
+            {
+                "id": 3945579936,
+                "node_id": "LA_kwDOHB7n587rLMWg",
+                "url": "https://api.github.com/repos/Bennykillua/Getting-started-in-Technical-Writing/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            },
+            {
+                "id": 3945579941,
+                "node_id": "LA_kwDOHB7n587rLMWl",
+                "url": "https://api.github.com/repos/Bennykillua/Getting-started-in-Technical-Writing/labels/good%20first%20issue",
+                "name": "good first issue",
+                "color": "7057ff",
+                "default": true,
+                "description": "Good for newcomers"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-08-22T13:41:04Z"
+    },
+    {
+        "issues": "https://github.com/Bennykillua/Getting-started-in-Technical-Writing/issues/3",
+        "title": "Add Technical writing resource",
+        "body": "Do you know any Technical writing resource?\r\n\r\nGetting started article perhaps\r\n\r\nStyle Guide\r\n\r\nAdd what you find [here](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Resources.md)",
+        "labels": [
+            {
+                "id": 3945579936,
+                "node_id": "LA_kwDOHB7n587rLMWg",
+                "url": "https://api.github.com/repos/Bennykillua/Getting-started-in-Technical-Writing/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            },
+            {
+                "id": 3945579941,
+                "node_id": "LA_kwDOHB7n587rLMWl",
+                "url": "https://api.github.com/repos/Bennykillua/Getting-started-in-Technical-Writing/labels/good%20first%20issue",
+                "name": "good first issue",
+                "color": "7057ff",
+                "default": true,
+                "description": "Good for newcomers"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-08-22T13:39:03Z"
+    },
+    {
+        "issues": "https://github.com/wise4rmgod/TechnicalWriterResources/issues/10",
+        "title": "added writing opportunity",
+        "body": "Added a writing opportunity from Draft.dev to freelance opportunities",
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-10T14:44:58Z"
+    },
+    {
+        "issues": "https://github.com/xournalpp/xournalpp/issues/4308",
+        "title": "Improve technical documentation",
+        "body": "This implements some of the documentation improvement suggestions proposed in #4295. Namely, it:\r\n\r\n- Moves common build commands into a `Compile.md`\r\n- Link to the branching strategy in CONTRIBUTING.md\r\n- Move all documentation related to contributing to one place (CONTRIBUTING.md)\r\n  - Previously, links to the Wiki and generating documentation were hidden in the README.md\r\n- Convert some inline paragraph lists to a bullet-point format that's easier to read\r\n- Delegate some documentation to other sites\r\n  - For example, the current \"Brew installation instructions\" were outdated and incorrect. Now, we link to the website directly as to prevent any outdated instructions\r\n- Rename triple backtick \"bash\" code snippets to \"sh\" (it is more semantically correct)\r\n- Reestablish title hierarchy (in some files, there were multiple level-1 headings, which made the docs look \"off\")\r\n- Improve miscellaneous formatting and wording\r\n\r\nI tried my best to keep the same writing style (sort of verbose, repetitive), so let me know if there is anything I should change\r\n\r\ncloses #4295",
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-11T00:55:00Z"
+    },
+    {
+        "issues": "https://github.com/JuliaCommunity/YouTubeVideoTimestamps/issues/218",
+        "title": "Add TImestamp to Contributing to Open Source with Technical Writing",
+        "body": "Issue #217",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-04T13:06:15Z"
+    },
+    {
+        "issues": "https://github.com/frontendweekly/feeds/issues/6401",
+        "title": "Technical Writing for Developers",
+        "body": "[Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-08-03T01:44:53Z"
+    },
+    {
+        "issues": "https://github.com/Unosquare-CoE-JavaScript/alvaro-martinez/issues/9",
+        "title": "Technical writing course",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-06-21T14:52:08Z"
+    },
+    {
+        "issues": "https://github.com/SEMICeu/style-guide/issues/1",
+        "title": "Sharing Italy ongoing work on vocabularies technical writing guidelines",
+        "body": "Italy is working on technical guidelines to ease the collaborative creation of vocabulaires.\r\nGuidelines inherit various best practices from source code management, such as:\r\n\r\n- automatic linting and style guidelines;\r\n- consistent formatting;\r\n- ease of pipeline creations.\r\n\r\nGuidelines can be google-translated from https://teamdigitale.github.io/dati-semantic-guida-ndc-docs/\r\n\r\nIn parallel, a template repository for semantic assets (ontologies, vocabularies, data schemas) is published on\r\n\r\n- https://github.com/teamdigitale/dati-semantic-cookiecutter\r\n\r\nThe repository uses tools to validate and standardize content at each commit, and gurther checks can be implemented.",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-11T08:22:49Z"
+    },
+    {
+        "issues": "https://github.com/terminusdb/terminusdb-docs/issues/146",
+        "title": "Technical Writing Handover",
+        "body": "Technical writing and documentation development handover:\r\n\r\n- Process and best practices  (All-hands presentation prepared.) \r\n- Priorities and challenges (docs repo and products.)\r\n- Recommendations.\r\n- Q&A sessions\r\n- Etc.\r\n\r\n\r\n",
+        "labels": [
+            {
+                "id": 3299741232,
+                "node_id": "MDU6TGFiZWwzMjk5NzQxMjMy",
+                "url": "https://api.github.com/repos/terminusdb/terminusdb-docs/labels/documentation",
+                "name": "documentation",
+                "color": "0075ca",
+                "default": true,
+                "description": "Improvements or additions to documentation"
+            }
+        ],
+        "assignees": 1,
+        "comments": 1,
+        "created_at": "2022-06-19T15:20:20Z"
+    },
+    {
+        "issues": "https://github.com/the-laurel/laurels/issues/427",
+        "title": "[Technical Writing-580] nil",
+        "body": "meta-governance for Evmos and The LAurel Project",
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-07-08T14:22:41Z"
+    },
+    {
+        "issues": "https://github.com/kojimizu/ML/issues/43",
+        "title": "Writing",
+        "body": "Technical writing fundamentals\nhttps://speakerdeck.com/naohiro_nakata/technicalwriting",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-08-11T05:57:41Z"
+    },
+    {
+        "issues": "https://github.com/RENCI-AUTOMAT/Data_services/issues/130",
+        "title": "Technical Debt Refactoring",
+        "body": "The code base is suffering from quite a bit of \"tech debt\". Here are some ideas for refactoring:\r\n\r\nAcross the code base nodes and edges sometimes use objects (kgxnode and kgxedge) and sometimes are represented in python dictionaries. Using dictionaries simplified reading and writing json files among other things, but it's really not ideal. We should replace all or most usage of dictionaries with real objects.\r\n\r\nMost of the node types, attribute names, and other strings that should be constants defined in one place are set up correctly now, but not all of them. Specifically, as mentioned above, nodes are sometimes represented as dictionaries and the properties \"id\" \"name\" and \"category\" are hard coded in many places. Using objects would solve this but something like \"category\" should not be in multiple places in the code base, it should be a constant.\r\n\r\nSome files are named poorly and should be moved around so that new developers can more quickly understand the overall structure. Load_manager and build_manager should be renamed and moved, as they are the entry points for usage, and those names are bad. Node and edge normalization should be moved out of utils. The \"kgx\" terminology is over used. \"node_types\" holds more than just node types now.",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-12T19:02:31Z"
+    },
+    {
+        "issues": "https://github.com/rubygems/rubygems/issues/5859",
+        "title": "Bundler technical writing: avoid use of `can not`",
+        "body": "### Describe the problem as clearly as you can\r\n\r\nAvoid use of `can not` in UI, comments, manual pages, and docs since that expression can be unclear to readers. We should use `cannot` (or `do not have to` in some rare cases).\r\n\r\n/label content/cleanup\r\n\r\n- cf. https://github.com/rubygems/rubygems/pull/5855#discussion_r952059682\r\n\r\n\r\n## TODO\r\n\r\n- [x] #5861\r\n- [x] #5862\r\n\r\n## Definition of done\r\n\r\n`git grep -i 'can not ' -- bundler | wc -l` should be zero.\r\n",
+        "labels": [
+            {
+                "id": 447659716,
+                "node_id": "MDU6TGFiZWw0NDc2NTk3MTY=",
+                "url": "https://api.github.com/repos/rubygems/rubygems/labels/Bundler",
+                "name": "Bundler",
+                "color": "12AEE2",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-08-23T03:00:21Z"
+    },
+    {
+        "issues": "https://github.com/steelthreads/agds-next/issues/563",
+        "title": "Docs: Add technical overview",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-07-12T01:07:03Z"
+    },
+    {
+        "issues": "https://github.com/SpaceXpanse/Roadmap/issues/16",
+        "title": "Writing Yellowpaper with technical information to explain it in details",
+        "body": null,
+        "labels": [
+            {
+                "id": 4431725205,
+                "node_id": "LA_kwDOH1EW6c8AAAABCCbClQ",
+                "url": "https://api.github.com/repos/SpaceXpanse/Roadmap/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-09-02T14:04:26Z"
+    },
+    {
+        "issues": "https://github.com/playproject-io/blog/issues/1",
+        "title": "technical writing",
+        "body": "## `@todo`\r\n* [ ] for each post, create markdown (later we'll publish them on our own blog) and then copy the content to Medium (until we have our blog page ready, we'll post on Medium, later on both)  \r\n* [ ] find good blog examples in the space\r\n  - https://blog.zeppelin.solutions/\r\n  - https://medium.com/metamask\r\n  - https://blog.ethereum.org/\r\n  - https://medium.com/remix-ide\r\n  - https://blog.datproject.org/ \r\n  - https://kauri.io/\r\n* [ ] write/select the topics/possible titles we want to cover\r\n\r\n---\r\n\r\n## BLOGS\r\n  - **play updates**\r\n    - new features\r\n    - tutorials (5-10 min tutorials - can be just text or combination with screencasts) \r\n    - interesting use cases/demos of our features\r\n      - selected popular source code analysis and links to the code\r\n        - see example https://medium.com/play-project/moloch-is-a-grant-making-dao-guild-and-a-radical-experiment-in-voluntary-incentive-alignment-to-ab195ff38503\r\n  - **solidity**\r\n    - intro to solidity\r\n      - why is solidity here to stay\r\n      - stats about solidity usage (how many devs, how many contracts etc.)  \r\n      - who are important people in solidity space (solidity developers, solidity security specialists etc.)\r\n      - 5 free tools to build Solidity contracts online\r\n    - tips & tricks on how to become a better solidity dev\r\n      - What did I learn in my first year of developing Solidity\r\n      - 9 hacks to optimize your solidity code\r\n      - How to make a Crowdsale contract in 1h\r\n      - How to structure Solidity code\r\n      - 10 handy solidity libraries you should import in your projects\r\n      - How I learned Solidity and how you can too (maybe interview with someone?)\r\n    - verifying solidity source code\r\n      - why are they important\r\n      - how can you verify contracts at this moment\r\n    - auditing smart contracts\r\n      - security in smart contracts\r\n      - security professionals in the space () \r\n\r\n# ON THE PAGE \r\n- glossary (dictionary <<< links to it from the blog posts (to explain certain word) )\r\n- FAQ (frequently asked questions <<< list of most common questions about our tool)\r\n  - How do you compile the contract?\r\n  - How do you deploy the contract?\r\n  - How to import a library/other contract in your contract?\r\n  - How to use validations in Play interactive interface (smart contract UI)?\r\n  - How to change the network to which I want to deploy the contract?\r\n  - Why can't I use multiple contracts in one file?\r\n  - Why can't I select the compiler version manually?\r\n  - Where can I find the ABI or a bytecode of the contract?\r\n  - How can I save my source code for the next visit?   \r\n  - Which wallets can I use to interact with the Play Editor? (metamask, nifty etc.)\r\n## MEMES\r\n- create some nice gifs or memes to spice up our Twitter feed\r\n  - can be some philosophical thoughts/quotes/jokes/code snippet with a punchline\r\n\r\n## INTERVIEWS\r\n- interviews with VIP in the space on topics we are connected to\r\n- interviews with open source creators who are less visible\r\n\r\n## OTHER\r\n- what else?\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2019-08-16T01:36:44Z"
+    },
+    {
+        "issues": "https://github.com/mkuthan/mkuthan.github.io/issues/17",
+        "title": "Technical writing",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-11T18:32:56Z"
+    },
+    {
+        "issues": "https://github.com/JuliaCommunity/YouTubeVideoTimestamps/issues/217",
+        "title": "Contributing to Open Source with Technical Writing. | Ifihanagbara Olusheye | JuliaCon 2022",
+        "body": "Added timestamp for this talk \r\nlink https://www.youtube.com/watch?v=MPw9KMujWEI\r\nTItle  Contributing to Open Source with Technical Writing.",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-04T13:03:20Z"
+    },
+    {
+        "issues": "https://github.com/pbearne/action-test/issues/5",
+        "title": "Technical Writing Request -1",
+        "body": "## What needs to be written / edited / proofread?\r\n* <!-- A general summary of the task and how the Technical Writing Team can help -->\r\n\r\n## What is the purpose of this document or piece of writing? Who is the intended audience?\r\n* <!-- This is the most important question to answer to help us decide and prioritize tasks. Go into as much detail as possible. -->\r\n\r\n---\r\n\r\n_Optional questions that can be updated later._\r\n\r\n## What's the deadline? How many hours do you estimate it to take?\r\n* <!-- Even if this will be an ongoing project, how much time for the first edition / MVP -->\r\n\r\n## Any resources or research material that could be useful?\r\n* <!-- Links to where to find resources or any slack conversations that could be useful for context -->\r\n",
+        "labels": [
+            {
+                "id": 3475253266,
+                "node_id": "LA_kwDOGQa2b87PJCgS",
+                "url": "https://api.github.com/repos/pbearne/action-test/labels/Technical%20Writing%20Request",
+                "name": "Technical Writing Request",
+                "color": "D93F0B",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2021-10-21T21:27:31Z"
+    },
+    {
+        "issues": "https://github.com/pbearne/action-test/issues/2",
+        "title": "Technical Writing Request - [Description]",
+        "body": "## What needs to be written / edited / proofread?\r\n* <!-- A general summary of the task and how the Technical Writing Team can help -->\r\n\r\n## What is the purpose of this document or piece of writing? Who is the intended audience?\r\n* <!-- This is the most important question to answer to help us decide and prioritize tasks. Go into as much detail as possible. -->\r\n\r\n---\r\n\r\n_Optional questions that can be updated later._\r\n\r\n## What's the deadline? How many hours do you estimate it to take?\r\n* <!-- Even if this will be an ongoing project, how much time for the first edition / MVP -->\r\n\r\n## Any resources or research material that could be useful?\r\n* <!-- Links to where to find resources or any slack conversations that could be useful for context -->\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2021-10-21T20:53:32Z"
+    },
+    {
+        "issues": "https://github.com/pbearne/action-test/issues/1",
+        "title": "Technical Writing Request - [Description]",
+        "body": "## What needs to be written / edited / proofread?\r\n* <!-- A general summary of the task and how the Technical Writing Team can help -->\r\n\r\n## What is the purpose of this document or piece of writing? Who is the intended audience?\r\n* <!-- This is the most important question to answer to help us decide and prioritize tasks. Go into as much detail as possible. -->\r\ndddd\r\n---\r\n\r\n_Optional questions that can be updated later._\r\n\r\n## What's the deadline? How many hours do you estimate it to take?\r\n* <!-- Even if this will be an ongoing project, how much time for the first edition / MVP -->\r\n\r\n## Any resources or research material that could be useful?\r\n* <!-- Links to where to find resources or any slack conversations that could be useful for context -->\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2021-10-21T20:50:49Z"
+    },
+    {
+        "issues": "https://github.com/Bennykillua/Getting-started-in-Technical-Writing/issues/2",
+        "title": "Add Open source guide for technical writer",
+        "body": "How can one contribute as a technical writer ?\r\n\r\nHow can they find repo?\r\n\r\nResource\r\n- https://benny.hashnode.dev/how-to-contribute-to-open-source-projects-as-a-non-coder\r\n- https://opensource.com/article/21/11/technical-writing-open-source\r\n- https://medium.com/technical-writing-is-easy/open-source-projects-for-technical-writers-de53fb3dd4c9\r\n- https://edidiongasikpo.com/the-technical-writers-guide-to-contributing-to-open-source-projects\r\n\r\n\r\nAdd resource [here](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Contributing%20as%20a%20technical%20writer.md) Thank you",
+        "labels": [
+            {
+                "id": 3945579936,
+                "node_id": "LA_kwDOHB7n587rLMWg",
+                "url": "https://api.github.com/repos/Bennykillua/Getting-started-in-Technical-Writing/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            },
+            {
+                "id": 3945579941,
+                "node_id": "LA_kwDOHB7n587rLMWl",
+                "url": "https://api.github.com/repos/Bennykillua/Getting-started-in-Technical-Writing/labels/good%20first%20issue",
+                "name": "good first issue",
+                "color": "7057ff",
+                "default": true,
+                "description": "Good for newcomers"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-08-22T13:37:46Z"
+    },
+    {
+        "issues": "https://github.com/campus-experts/spring-2017/issues/33",
+        "title": "Technical Writing Talk Answers document",
+        "body": "Pull Request providing all of the content from the Fall and Spring Technical Writing talks for student review.",
+        "labels": [],
+        "assignees": 1,
+        "comments": 2,
+        "created_at": "2017-04-20T14:36:03Z"
+    },
+    {
+        "issues": "https://github.com/MateuszNaKodach/SelfImprovement/issues/5118",
+        "title": "Earn for technical writing articles https://whopaystechnicalwriters.com/?",
+        "body": "https://whopaystechnicalwriters.com/?\r\n\r\nhttps://medium.com/illumination/how-i-made-350-from-a-single-article-f5f089f5f18a",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-08-08T00:57:38Z"
+    },
+    {
+        "issues": "https://github.com/YaleL/DailyPlanning/issues/36",
+        "title": "Review Technical Report Writing",
+        "body": "Evaluate current status: Give a score between 0 - 100.\nList detail of which section need to be reviewed.\n\nAdd Link to learning material. Plan and add due date.\n2 hours per day minimum.\n\nQuestion will be asked daily:\n1. How many content did you reviewed, how much time.\n2. Is there any issue need to be resolved\n3. What exercise have you done to make sure you understand the content.\n4. What's the progress in overall progress.",
+        "labels": [],
+        "assignees": 1,
+        "comments": 1,
+        "created_at": "2021-05-20T23:42:26Z"
+    },
+    {
+        "issues": "https://github.com/fvanderwielen/linkdump/issues/2",
+        "title": "todo add technical writing",
+        "body": "This page guides you on how to do technical writing. It sets the standard on what is the expected form of written text\non this documentation site.\nYou write your text for a good reason. That reason is a clear and specific goal, so use it as a starting point. Only add\ndetail when it helps your audience to understand your message. Many engineers want to provide as much specific detail as\npossible, but this can come at the expense of a reader's understanding and his main point of reading.\nUse the following rules when writing and editing your text.\n## Most Important First\n- **avoid:** Elaborate and give every aspect of the context.\n- **instead:** immediately cut to the chase.\n## Brevity\n- **avoid:** When deploying the portal together with the orchestrator and site management, it is important to use the correct zip in the CDA command you try to execute\n- **instead:** Check that the CDA command you will execute has the correct zip.\n## Use words with clear meaning\n\nDo not use words that are ambiguous, vague, complex, abstract, or container words.\n- **avoid:** functionality, utilization, thing,\n- **instead:** feature, use\n## Remove redundancy\n- **avoid:** The code is stored in SVN. That is where you commit your code. The SVN location is url XYZ.\n- **instead:** Commit your code to SVN at url XYZ.\n## Be factual\n- **avoid:** subjective statements: A common idea is that CSS is difficult.\n- **instead:** leave it out, and stick to the facts. Fallback: You can have difficulty in writing CSS.\n## Be specific\n- **avoid:** The code is in SVN.\n- **instead:** The SVN location of the code is XYZ.\n## Active sentences\n- **avoid:** code must be written to adhere to the coding guidelines.\n- **instead:** you must write code that complies to the coding guidelines.\n## Use signposting\n\nSignposting sentences explain the structure of your text. They help the reader follow your line of thought, making it easier to read. See  for some examples.\n\nFor more writing tips and guidelines see: \n- http://web.mit.edu/me-ugoffice/communication/technical-writing.pdf \n- http://www.library.dmu.ac.uk/Support/Heat/index.php?page=488 \n- http://en.wikiversity.org/wiki/Technical_writing_style \n- http://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style \n- http://en.wikipedia.org/wiki/Wikipedia:The_perfect_article\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2016-07-20T11:37:21Z"
+    },
+    {
+        "issues": "https://github.com/SpiNNakerManchester/SpiNNFrontEndCommon/issues/885",
+        "title": "Add provenance writing for app_vertex",
+        "body": "Part of https://github.com/SpiNNakerManchester/sPyNNaker/pull/852 - probably merge together though this is technically separate.\r\n\r\n(Needed now due to provenance output only happening into a database).",
+        "labels": [
+            {
+                "id": 144490158,
+                "node_id": "MDU6TGFiZWwxNDQ0OTAxNTg=",
+                "url": "https://api.github.com/repos/SpiNNakerManchester/SpiNNFrontEndCommon/labels/enhancement",
+                "name": "enhancement",
+                "color": "84b6eb",
+                "default": true,
+                "description": "This adds a new feature"
+            }
+        ],
+        "assignees": 0,
+        "comments": 2,
+        "created_at": "2021-10-27T13:48:56Z"
+    },
+    {
+        "issues": "https://github.com/thepieuvre/feeder/issues/14",
+        "title": "Writing some technical documentation",
+        "body": "",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2013-09-02T20:03:56Z"
+    },
+    {
+        "issues": "https://github.com/MateuszNaKodach/SelfImprovement/issues/3972",
+        "title": "Google | Technical Writing course",
+        "body": "https://developers.google.com/tech-writing/overview",
+        "labels": [
+            {
+                "id": 1318011116,
+                "node_id": "MDU6TGFiZWwxMzE4MDExMTE2",
+                "url": "https://api.github.com/repos/MateuszNaKodach/SelfImprovement/labels/Soft%20Skills",
+                "name": "Soft Skills",
+                "color": "ef6769",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 1508745611,
+                "node_id": "MDU6TGFiZWwxNTA4NzQ1NjEx",
+                "url": "https://api.github.com/repos/MateuszNaKodach/SelfImprovement/labels/Documentation",
+                "name": "Documentation",
+                "color": "a283f7",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2020-10-10T15:01:44Z"
+    },
+    {
+        "issues": "https://github.com/ikedaosushi/tech-news/issues/22503",
+        "title": "Technical Writing | Google Developers",
+        "body": "Technical Writing &nbsp;|&nbsp; Google Developers<br>\n<br>\nhttps://ift.tt/2TpTlkk",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2020-02-28T14:16:03Z"
+    },
+    {
+        "issues": "https://github.com/ikedaosushi/tech-news/issues/22504",
+        "title": "Technical Writing | Google Developers",
+        "body": "Technical Writing &nbsp;|&nbsp; Google Developers<br>\n<br>\nhttps://ift.tt/2TpTlkk",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2020-02-28T14:16:18Z"
+    },
+    {
+        "issues": "https://github.com/MateuszNaKodach/SelfImprovement/issues/1578",
+        "title": "Writing Technical Design Docs",
+        "body": "https://medium.com/machine-words/writing-technical-design-docs-71f446e42f2e",
+        "labels": [
+            {
+                "id": 1285640936,
+                "node_id": "MDU6TGFiZWwxMjg1NjQwOTM2",
+                "url": "https://api.github.com/repos/MateuszNaKodach/SelfImprovement/labels/Testing",
+                "name": "Testing",
+                "color": "17b8c6",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 1473989597,
+                "node_id": "MDU6TGFiZWwxNDczOTg5NTk3",
+                "url": "https://api.github.com/repos/MateuszNaKodach/SelfImprovement/labels/TDD",
+                "name": "TDD",
+                "color": "dd5dc1",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 1508745611,
+                "node_id": "MDU6TGFiZWwxNTA4NzQ1NjEx",
+                "url": "https://api.github.com/repos/MateuszNaKodach/SelfImprovement/labels/Documentation",
+                "name": "Documentation",
+                "color": "a283f7",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2019-09-09T20:06:43Z"
+    },
+    {
+        "issues": "https://github.com/Empirical-org-Archive/Quill-Grammar-Ideas/issues/22",
+        "title": "Grammar Activity: Technical Writing",
+        "body": "This is a great gemstone for how we should do our college level lessons -\u00a0http://online.stanford.edu/course/writing-in-the-sciences\n",
+        "labels": [
+            {
+                "id": 160438286,
+                "node_id": "MDU6TGFiZWwxNjA0MzgyODY=",
+                "url": "https://api.github.com/repos/Empirical-org-Archive/Quill-Grammar-Ideas/labels/Grammar%20Materials",
+                "name": "Grammar Materials",
+                "color": "009800",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2014-12-30T22:59:35Z"
+    },
+    {
+        "issues": "https://github.com/campus-experts/spring-2017/issues/25",
+        "title": "Technical Writing - your questions!",
+        "body": "Hello everyone! I'm Matt Desmond and I'm a trainer here at GitHub. I was asked to host a training on Technical Writing (like I did for the Fall Campus Experts). I'm super excited to answer any and all questions you may have about project documentation, technical writing in general, and other questions you might have. \r\n\r\nSo, before the training occurs, I wanted to give everyone an opportunity to ask questions before the training: \r\n```\r\nWe're looking ahead at the next talks! One of the suggested topics was technical writing.\r\n\r\nWhat questions do you have about technical writing? This could be documentation, blogging, articles, books, any form of writing for technical people or on technical topics.\r\n\r\nDrop your questions below!\r\n```\r\n\r\ncc: @joenash ",
+        "labels": [],
+        "assignees": 0,
+        "comments": 6,
+        "created_at": "2017-04-14T15:58:46Z"
+    },
+    {
+        "issues": "https://github.com/barchanet/news/issues/3174",
+        "title": "Writing Csu Writing Guide Engineering Technical Reports",
+        "body": "Writing Csu Writing Guide Engineering Technical Reports<br>\nhttp://ift.tt/2oqYKrF<br>\nExecutive Summary Typically Executive Summaries Are Written For Readers Who Do Not Have Time To Read The Entire Technical Report An Executive<br><br>\nvia pdf-book-free-download.com - PDF Books Download For Free Book Free Download PDF - search pdf books free download - search pdf books - free pdf textbooks online - PDF Books Download For Free Book Free Download PDF http://ift.tt/1vpdXIY<br>\nApril 13, 2017 at 05:13AM",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2017-04-13T15:16:39Z"
+    },
+    {
+        "issues": "https://github.com/rblades/dhworkbook_master/issues/11",
+        "title": "Pedagogy vs technical writing",
+        "body": "We want instructions to be clear and the website accessible to all. But, what are the limits when it comes to the importance of failure and working through mistakes made in pedagogy. We are not writing an emergency aircraft manual where failure is not an option. We don't want to necessarily build in failure or make things difficult, but the appearance of such failures and annotations/discussion thereof are important in teaching this material and DH philosophy generally to students.",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2017-09-25T14:23:14Z"
+    },
+    {
+        "issues": "https://github.com/conermurphy/conermurphy.com/issues/191",
+        "title": "Migrate Technical Writing posts to website",
+        "body": null,
+        "labels": [
+            {
+                "id": 4068553665,
+                "node_id": "LA_kwDODC180M7ygTPB",
+                "url": "https://api.github.com/repos/conermurphy/conermurphy.com/labels/category:%20chore",
+                "name": "category: chore",
+                "color": "EB6100",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-05-14T09:13:16Z"
+    },
+    {
+        "issues": "https://github.com/ensdomains/dao-pm/issues/18",
+        "title": "Technical writing for Learn Docs.",
+        "body": "**What is this issue about?**\n\nThis is to acknowledge Zadok contributions to the Learn Docs. Description will follow. \n\n **What does success look like? (i.e., the criteria to meet to call this issue done)**\n\n\n **Are there links or docs related to this issue?**\n\n **Who should be in the loop about this issue?**\n@coltron-code ",
+        "labels": [
+            {
+                "id": 4134636191,
+                "node_id": "LA_kwDOHV0vh872cYqf",
+                "url": "https://api.github.com/repos/ensdomains/dao-pm/labels/Translation%20and%20Learn%20Docs",
+                "name": "Translation and Learn Docs",
+                "color": "a2eeef",
+                "default": false,
+                "description": "For the translation sub-group"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-05-26T14:19:59Z"
+    },
+    {
+        "issues": "https://github.com/NimbleEdge/community/issues/2",
+        "title": "Add helpful resources for Technical writing",
+        "body": "In this issue add educational resources for the Technical writing [here](https://github.com/NimbleEdge/community/blob/main/writing/resources.md)!\r\n\r\n- Technical Writing Fundamentals\r\n- Documentation style guide \r\n- API Documentation\r\n- Technical writing best practices  \r\n\r\netc.",
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-05-09T18:05:34Z"
+    },
+    {
+        "issues": "https://github.com/kovid-r/kovid-r/issues/1",
+        "title": "Add initial technical writing portfolio",
+        "body": "Add Linktree type writing portfolio with relevant entries and links preferably in chronological order or grouped by technologies.",
+        "labels": [
+            {
+                "id": 3505856755,
+                "node_id": "LA_kwDOGTp9js7Q9yDz",
+                "url": "https://api.github.com/repos/kovid-r/kovid-r/labels/documentation",
+                "name": "documentation",
+                "color": "0075ca",
+                "default": true,
+                "description": "Improvements or additions to documentation"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2021-11-11T01:37:01Z"
+    },
+    {
+        "issues": "https://github.com/jprudent/jprudent.github.com/issues/70",
+        "title": "Writing",
+        "body": "https://www.julian.com/guide/write/intro\r\n\r\nUse \"ventilated prose\": a prose that you cut in short lines that looks like poetry (is it ?)\r\n\r\nWrite documentation first. Rewrite it. Then build.\r\n\r\nRetype a novel or a text you like.\r\n\r\nbreak down what I was going write into headings and subheadings, and if possible, into sub-subheadings and review\r\n\r\nAfter a night of intense drafting, put your text in a drawer and come back to it in a day or two.\r\n\r\nhttps://developers.google.com/tech-writing\r\nhttps://css-tricks.com/technical-writing-for-developers/ (resources are quite good) \r\n\r\n",
+        "labels": [
+            {
+                "id": 2119983367,
+                "node_id": "MDU6TGFiZWwyMTE5OTgzMzY3",
+                "url": "https://api.github.com/repos/jprudent/jprudent.github.com/labels/kind-permanent",
+                "name": "kind-permanent",
+                "color": "13b28d",
+                "default": false,
+                "description": "A consolidated note"
+            },
+            {
+                "id": 2121397132,
+                "node_id": "MDU6TGFiZWwyMTIxMzk3MTMy",
+                "url": "https://api.github.com/repos/jprudent/jprudent.github.com/labels/status-wip",
+                "name": "status-wip",
+                "color": "e59372",
+                "default": false,
+                "description": "Work in progress, make a permanent or a resource or several"
+            },
+            {
+                "id": 2152172877,
+                "node_id": "MDU6TGFiZWwyMTUyMTcyODc3",
+                "url": "https://api.github.com/repos/jprudent/jprudent.github.com/labels/sub-writing",
+                "name": "sub-writing",
+                "color": "bfdadc",
+                "default": false,
+                "description": "How to write and documente"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2020-11-26T10:33:15Z"
+    },
+    {
+        "issues": "https://github.com/pbearne/action-test/issues/4",
+        "title": "Technical Writing Request - [Description]ssdssd",
+        "body": "## What needs to be written / edited / proofread?\r\n* <!-- A general summary of the task and how the Technical Writing Team can help -->\r\n\r\n## What is the purpose of this document or piece of writing? Who is the intended audience?\r\n* <!-- This is the most important question to answer to help us decide and prioritize tasks. Go into as much detail as possible. -->\r\n\r\n---\r\n\r\n_Optional questions that can be updated later._\r\n\r\n## What's the deadline? How many hours do you estimate it to take?\r\n* <!-- Even if this will be an ongoing project, how much time for the first edition / MVP -->\r\n\r\n## Any resources or research material that could be useful?\r\n* <!-- Links to where to find resources or any slack conversations that could be useful for context -->\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2021-10-21T21:20:29Z"
+    },
+    {
+        "issues": "https://github.com/pbearne/action-test/issues/3",
+        "title": "Technical Writing Request - [Description]sssss",
+        "body": "## What needs to be written / edited / proofread?\r\n* <!-- A general summary of the task and how the Technical Writing Team can help -->\r\n\r\n## What is the purpose of this document or piece of writing? Who is the intended audience?\r\n* <!-- This is the most important question to answer to help us decide and prioritize tasks. Go into as much detail as possible. -->\r\n\r\n---\r\n\r\n_Optional questions that can be updated later._\r\n\r\n## What's the deadline? How many hours do you estimate it to take?\r\n* <!-- Even if this will be an ongoing project, how much time for the first edition / MVP -->\r\n\r\n## Any resources or research material that could be useful?\r\n* <!-- Links to where to find resources or any slack conversations that could be useful for context -->\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2021-10-21T21:17:11Z"
+    },
+    {
+        "issues": "https://github.com/conermurphy/conermurphy.com/issues/244",
+        "title": "feat: added technical writing page",
+        "body": null,
+        "labels": [
+            {
+                "id": 4066029125,
+                "node_id": "LA_kwDODC180M7yWq5F",
+                "url": "https://api.github.com/repos/conermurphy/conermurphy.com/labels/released",
+                "name": "released",
+                "color": "ededed",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 0,
+        "comments": 2,
+        "created_at": "2022-10-20T20:43:22Z"
+    },
+    {
+        "issues": "https://github.com/dart-lang/linter/issues/2215",
+        "title": "Expanding lint writing documentation",
+        "body": "# Description\r\n\r\nWorking with the linter has been a lot of fun! However, there were some areas I struggled with due to a lack of documentation, especially with respect to available tooling.\r\n\r\nThis proposed documentation expansion focuses on `doc/WritingLints.MD`, and mostly comes from trying to distill what I learned by reading through the code and collecting some previously disparate knowledge. How exactly this information should be further edited/distilled/integrated is totally up to you all, but I hope some of it might be useful to other public contributors rather than languishing in a private document of mine. \ud83d\ude04 \r\n\r\nI moved some existing content around to hopefully flow better with the new structure, but I don't believe I outright deleted any existing content. However, the textual diff is a bit messy, so visually comparing the rendered Markdown might be easier.\r\n\r\n- [New WritingLints.MD](https://github.com/dart-lang/linter/blob/a55f4291b771610faf200ce1c116904742cfe31b/doc/WritingLints.MD)\r\n- [Previous WritingLints.MD](https://github.com/dart-lang/linter/blob/05ab71a36a2b07e488b757d31b036aadd34632a2/doc/WritingLints.MD) (commit [05ab71a](https://github.com/dart-lang/linter/commit/05ab71a36a2b07e488b757d31b036aadd34632a2))",
+        "labels": [
+            {
+                "id": 421017818,
+                "node_id": "MDU6TGFiZWw0MjEwMTc4MTg=",
+                "url": "https://api.github.com/repos/dart-lang/linter/labels/cla:%20yes",
+                "name": "cla: yes",
+                "color": "0052cc",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 0,
+        "comments": 6,
+        "created_at": "2020-08-06T16:37:05Z"
+    },
+    {
+        "issues": "https://github.com/BuildForSDGCohort2/Team-254-zaoBora-frontend/issues/24",
+        "title": "Content writing and Technical document",
+        "body": "- [ ] Add relevant content to the page.\r\n- [ ] Research and come up with a Technical document for the project.",
+        "labels": [
+            {
+                "id": 2287470534,
+                "node_id": "MDU6TGFiZWwyMjg3NDcwNTM0",
+                "url": "https://api.github.com/repos/BuildForSDGCohort2/Team-254-zaoBora-frontend/labels/documentation",
+                "name": "documentation",
+                "color": "0075ca",
+                "default": true,
+                "description": "Improvements or additions to documentation"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2020-09-15T20:03:31Z"
+    },
+    {
+        "issues": "https://github.com/waricoma/3d-tag-online/issues/84",
+        "title": "Update dependency textlint-rule-preset-ja-technical-writing to v7",
+        "body": "[![Mend Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com)\n\nThis PR contains the following updates:\n\n| Package | Change | Age | Adoption | Passing | Confidence |\n|---|---|---|---|---|---|\n| [textlint-rule-preset-ja-technical-writing](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing) | [`4.0.1` -> `7.0.0`](https://renovatebot.com/diffs/npm/textlint-rule-preset-ja-technical-writing/4.0.1/7.0.0) | [![age](https://badges.renovateapi.com/packages/npm/textlint-rule-preset-ja-technical-writing/7.0.0/age-slim)](https://docs.renovatebot.com/merge-confidence/) | [![adoption](https://badges.renovateapi.com/packages/npm/textlint-rule-preset-ja-technical-writing/7.0.0/adoption-slim)](https://docs.renovatebot.com/merge-confidence/) | [![passing](https://badges.renovateapi.com/packages/npm/textlint-rule-preset-ja-technical-writing/7.0.0/compatibility-slim/4.0.1)](https://docs.renovatebot.com/merge-confidence/) | [![confidence](https://badges.renovateapi.com/packages/npm/textlint-rule-preset-ja-technical-writing/7.0.0/confidence-slim/4.0.1)](https://docs.renovatebot.com/merge-confidence/) |\n\n---\n\n### Release Notes\n\n<details>\n<summary>textlint-ja/textlint-rule-preset-ja-technical-writing</summary>\n\n### [`v7.0.0`](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/blob/HEAD/CHANGELOG.md#&#8203;700)\n\n[Compare Source](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/compare/v6.0.0...v7.0.0)\n\n##### Major Changes\n\n-   [`ac46d78`](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/ac46d78): :sparkles: [textlint-rule/textlint-rule-sentence-length v3.0.0](https://togithub.com/textlint-rule/textlint-rule-sentence-length/releases/v3.0.0)\u3078\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\n\n    3.0.0\u3067\u306f\u3001\u30c7\u30d5\u30a9\u30eb\u30c8\u3067\u306f\u6b21\u306e\u3088\u3046\u306aURL\u305d\u306e\u3082\u306e\u304c\u30ea\u30f3\u30af\u3068\u306a\u3063\u3066\u3044\u308b\u30b1\u30fc\u30b9\u3092\u30ab\u30a6\u30f3\u30c8\u3057\u306a\u3044\u3088\u3046\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n\n    > Very long <https://example.com?longlonglong> URL.\n-   [`6c1d348`](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/6c1d348): :new: [textlint-rule-no-zero-width-spaces](https://togithub.com/textlint-rule/textlint-rule-no-zero-width-spaces)\u3092\u8ffd\u52a0\n\n    \u30bc\u30ed\u5e45\u30b9\u30da\u30fc\u30b9\uff08`\\u200b`\uff09\u304c\u6587\u7ae0\u306b\u5165\u308b\u306e\u3092\u9632\u6b62\u3059\u308b\u30eb\u30fc\u30eb\u3067\u3059\u3002\n-   [`55f945a`](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/55f945a): :sparkles: [textlint-rule/textlint-rule-no-invalid-control-character v2.0.0](https://togithub.com/textlint-rule/textlint-rule-no-invalid-control-character/releases/tag/v2.0.0)\u3078\u66f4\u65b0\n\n    \u30c7\u30d5\u30a9\u30eb\u30c8\u3067img\u306ealt\u5185\u306b\u5236\u5fa1\u6587\u5b57\u5217\u304c\u542b\u307e\u308c\u3066\u3044\u308b\u304b\u3092\u30c1\u30a7\u30c3\u30af\u3059\u308b\u3088\u3046\u306b\u306a\u308a\u307e\u3059\u3002\n\n### [`v6.0.0`](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/releases/tag/v6.0.0)\n\n[Compare Source](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/compare/v4.0.1...v6.0.0)\n\n#### Summary\n\n-   \u66f4\u65b0\u3055\u308c\u305f\u30eb\u30fc\u30eb\u306f\u5f62\u614b\u7d20\u89e3\u6790\u3059\u308b\u30e9\u30a4\u30d6\u30e9\u30ea\u3067\u3042\u308b[kuromojin@3](https://togithub.com/azu/kuromojin/releases/tag/v3.0.0)\u3078\u306e\u66f4\u65b0\u3092\u542b\u3093\u3067\u3044\u307e\u3059\n    -   \u89e3\u6790\u7d50\u679c\u304c\u6b63\u78ba\u306b\u306a\u308b\u3053\u3068\u3067\u691c\u77e5\u3059\u308b\u7bc4\u56f2\u304c\u3088\u308a\u6b63\u78ba\u306b\u306a\u308a\u307e\u3059\n-   \u30bb\u30f3\u30c6\u30f3\u30b9\u5206\u89e3\u3092\u3059\u308b\u30e9\u30a4\u30d6\u30e9\u30ea\u3067\u3042\u308b[sentence-splitter@3](https://togithub.com/azu/sentence-splitter/releases/tag/3.0.0)\u3078\u306e\u66f4\u65b0\u3092\u542b\u3093\u3067\u3044\u307e\u3059\n    -   \u5168\u89d2\u30d4\u30ea\u30aa\u30c9\uff08`\uff0e`\uff09\u304c\u30c7\u30d5\u30a9\u30eb\u30c8\u3067\u30bb\u30f3\u30c6\u30f3\u30b9\u306e\u533a\u5207\u308a\u6587\u5b57\u3068\u6271\u308f\u308c\u307e\u3059\n    -   \u307e\u305f\u3001\u30bb\u30f3\u30c6\u30f3\u30b9\u306e\u89e3\u6790\u304c\u6539\u5584\u3055\u308c\u3066\u3044\u307e\u3059\n-   \u305d\u306e\u4ed6\u306b\u3082\u3044\u304f\u3064\u304b\u306e\u30eb\u30fc\u30eb\u3067\u66f4\u65b0\u304c\u542b\u307e\u308c\u3066\u3044\u307e\u3059\n\n[textlint-rule-preset-japanese v6](https://togithub.com/textlint-ja/textlint-rule-preset-japanese/releases/tag/v6.0.0)\u3082\u540c\u69d8\u306e\u5909\u66f4\u3092\u542b\u3080\u30ea\u30ea\u30fc\u30b9\u304c\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n### \u66f4\u65b0\u3055\u308c\u305f\u30eb\u30fc\u30eb\n\n##### textlint-rule-max-ten to v4\n\n-   [Release v4.0.0 \u00b7 textlint-ja/textlint-rule-max-ten](https://togithub.com/textlint-ja/textlint-rule-max-ten/releases/v4.0.0)\n-   [Release v3.0.0 \u00b7 textlint-ja/textlint-rule-max-ten](https://togithub.com/textlint-ja/textlint-rule-max-ten/releases/v3.0.0)\n\nREADME\u3068\u5b9f\u88c5\u304c\u305a\u308c\u3066\u3044\u305f\u306e\u3067\u3001\u4fee\u6b63\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n-   3.0.0: max: 3 \u306a\u3089 \u4e00\u6587\u306b3\u3064\u4ee5\u4e0a\u306e\u8aad\u70b9\u3067\u30a8\u30e9\u30fc\u3068\u306a\u308b\n-   4.0.0: max: 3 \u306a\u3089 \u4e00\u6587\u306b4\u3064\u4ee5\u4e0a\u306e\u8aad\u70b9\u3067\u30a8\u30e9\u30fc\u3068\u306a\u308b\n\n\u8aad\u70b9\u306b\u300c\uff0c\u300d\u53e5\u70b9\u306b\u300c\uff0e\u300d\u3092\u4f7f\u3046\u30aa\u30d7\u30b7\u30e7\u30f3\u304c\u8ffd\u52a0\u3055\u308c\u307e\u3057\u305f\u3002\n\n```json5\n{\n  \"rules\": {\n    \"max-ten\": {\n      // \u8aad\u70b9\u3068\u3057\u3066\u6271\u3046\u6587\u5b57\n      \"touten\": \"\uff0c\",\n      // \u53e5\u70b9\u3068\u3057\u3066\u6271\u3046\u6587\u5b57\n      \"kuten\": \"\uff0e\"\n    }\n  }\n}\n```\n\n#### textlint-rule-no-double-negative-ja to v2\n\n-   [Release v2.0.0 \u00b7 textlint-ja/textlint-rule-no-double-negative-ja](https://togithub.com/textlint-ja/textlint-rule-no-double-negative-ja/releases/v2.0.0)\n\n\"\u306a\u3044\u3053\u3068\u3082\u306a\u3044\u3067\u3057\u3087\u3046\"\u306e\u3088\u3046\u306a \"\u7279\u6b8a\u30fb\u30ca\u30a4\"\u306e\u5224\u5b9a\u306b\u5bfe\u5fdc\u3057\u3066\u3044\u307e\u3059\u3002\n\n#### textlint-rule-no-doubled-joshi to v4\n\n-   [Release v4.0.0 \u00b7 textlint-ja/textlint-rule-no-doubled-joshi](https://togithub.com/textlint-ja/textlint-rule-no-doubled-joshi/releases/v4.0.0)\n\n[kuromojin@3](https://togithub.com/azu/kuromojin/releases/tag/v3.0.0)\u3078\u306e\u66f4\u65b0\u306e\u307f\n\n#### textlint-rule-no-dropping-the-ra to v3\n\n-   [Release v3.0.0 \u00b7 textlint-ja/textlint-rule-no-dropping-the-ra](https://togithub.com/textlint-ja/textlint-rule-no-dropping-the-ra/releases/v3.0.0)\n-   [Release v2.0.0 \u00b7 textlint-ja/textlint-rule-no-dropping-the-ra](https://togithub.com/textlint-ja/textlint-rule-no-dropping-the-ra/releases/v2.0.0)\n\n\"\u898b\u308c\u308b\" \u306e\u3089\u629c\u304d\u8a00\u8449\u3092\u5224\u5b9a\u3067\u304d\u308b\u3088\u3046\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n\n#### textlint-rule-no-mix-dearu-desumasu to v5\n\n[kuromojin@3](https://togithub.com/azu/kuromojin/releases/tag/v3.0.0)\u3078\u306e\u66f4\u65b0\u306e\u307f\n\n#### textlint-rule-ja-no-redundant-expression to v4\n\n[kuromojin@3](https://togithub.com/azu/kuromojin/releases/tag/v3.0.0)\u3078\u306e\u66f4\u65b0\u306e\u307f\n\n#### textlint-rule-ja-no-weak-phrase to v2\n\n[kuromojin@3](https://togithub.com/azu/kuromojin/releases/tag/v3.0.0)\u3078\u306e\u66f4\u65b0\u306e\u307f\n\n#### textlint-rule-no-doubled-conjunction to v2\n\n-   [Release v2.0.0 \u00b7 textlint-ja/textlint-rule-no-doubled-conjunction](https://togithub.com/textlint-ja/textlint-rule-no-doubled-conjunction/releases/tag/v2.0.0)\n\n\u30bb\u30f3\u30c6\u30f3\u30b9\u89e3\u6790\u306e\u6539\u5584\u3092\u3057\u3066\u5168\u89d2\u30d4\u30ea\u30aa\u30c9\uff08`\uff0e`\uff09\u306e\u5bfe\u5fdc\u3068\u30a8\u30e9\u30fc\u30e1\u30c3\u30bb\u30fc\u30b8\u3092\u6539\u5584\u3057\u3066\u3044\u307e\u3059\u3002\n\n#### textlint-rule-no-doubled-conjunctive-particle-ga to v2\n\n-   [Release v2.0.0 \u00b7 textlint-ja/textlint-rule-no-doubled-conjunctive-particle-ga](https://togithub.com/textlint-ja/textlint-rule-no-doubled-conjunctive-particle-ga/releases/tag/v2.0.0)\n\n\u30bb\u30f3\u30c6\u30f3\u30b9\u89e3\u6790\u306e\u6539\u5584\u3092\u3057\u3066\u5168\u89d2\u30d4\u30ea\u30aa\u30c9\uff08`\uff0e`\uff09\u306b\u5bfe\u5fdc\u3057\u3066\u3044\u307e\u3059\u3002\n\n#### textlint-rule-max-comma to v2\n\n-   [Release v2.0.0 \u00b7 textlint-rule/textlint-rule-max-comma](https://togithub.com/textlint-rule/textlint-rule-max-comma/releases/tag/v2.0.0)\n\n\u30bb\u30f3\u30c6\u30f3\u30b9\u89e3\u6790\u306e\u6539\u5584\u3092\u3057\u3066\u3044\u307e\u3059\u3002\n\n#### COMMITS\n\n-   **deps:** update dependency [@&#8203;textlint/module-interop](https://togithub.com/textlint/module-interop) to ^1.2.4 ([5f45465](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/5f45465df232bb743b2ea4bee85e2bc06bb85cfa))\n-   **deps:** update dependency textlint-rule-preset-jtf-style to ^2.3.7 ([21a1a05](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/21a1a05e8f581946571c333c361b3d0a61c6a3f9))\n-   **deps:** update dependency textlint-rule-preset-jtf-style to ^2.3.8 ([d367aa1](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/d367aa11ccf3dbc68d0dc21895c9b1e9929dd68c))\n-   **deps:** update max-ten ([40cae7a](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/40cae7a37274cecad968afd8f2dab66a429c2d3e))\n-   **deps:** update patch updates ([6f1f685](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/6f1f685c528c2f45f07ed32459e8567cf5f9f876))\n-   **deps:** update rules ([15b61f6](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/15b61f6312bfd23cf9ad0c3b23d156c8131fdf54))\n-   **deps:** update textlint-rule-max-comma@2 ([e9d8b1b](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/e9d8b1b5e11ab8df3ea7e7bd0ccbb0f73d2cab3e))\n-   **deps:** update textlint-rule-max-ten ([6c9d542](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/6c9d54265a1c727138415552b521acef00f0aa5f))\n-   **deps:** update to textlint-rule-max-ten@4.0.2 ([94b007f](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/94b007ffaa44fbe2b28600962f229fa17d081eaa))\n-   **desp:** update rules ([0f4eb2c](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/0f4eb2c116da71de1b2acacac5f6555fe7ebb1d6)), closes [#issuecomment-826238597](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/issues/issuecomment-826238597)\n\n</details>\n\n---\n\n### Configuration\n\n\ud83d\udcc5 **Schedule**: Branch creation - At any time (no schedule defined), Automerge - At any time (no schedule defined).\n\n\ud83d\udea6 **Automerge**: Disabled by config. Please merge this manually once you are satisfied.\n\n\u267b **Rebasing**: Whenever PR becomes conflicted, or you tick the rebase/retry checkbox.\n\n\ud83d\udd15 **Ignore**: Close this PR and you won't be reminded about this update again.\n\n---\n\n - [ ] <!-- rebase-check -->If you want to rebase/retry this PR, click this checkbox.\n\n---\n\nThis PR has been generated by [Mend Renovate](https://www.mend.io/free-developer-tools/renovate/). View repository job log [here](https://app.renovatebot.com/dashboard#github/waricoma/3d-tag-online).",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2021-07-06T08:17:47Z"
+    },
+    {
+        "issues": "https://github.com/GDSC-CEC/HacktoberFest-2022-Blog-Writing/issues/20",
+        "title": "Resolving the issue #16",
+        "body": "Maintainer raised issue to add some more themes for Blog Writing and the topics must me related to technology.\r\n ## ADDED TWO TOPICS IN THE THEME.",
+        "labels": [
+            {
+                "id": 4671661170,
+                "node_id": "LA_kwDOIHqxCc8AAAABFnPkcg",
+                "url": "https://api.github.com/repos/GDSC-CEC/HacktoberFest-2022-Blog-Writing/labels/changes-required",
+                "name": "changes-required",
+                "color": "c5def5",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-21T06:25:15Z"
+    },
+    {
+        "issues": "https://github.com/TanukiBeats/Frown-Cat/issues/10",
+        "title": "Final Project: Technical Writing Skills",
+        "body": "- [ ] Organization: Does the final project contain all relevant sections?\r\n\r\n- [ ] Organization: Are all sections complete and well thought out?\r\n\r\n-  [ ] Use of technical language and correct use of language: Is the paper free of grammatical errors?\r\n\r\n-  [ ] Use of technical language and correct use of language:  Is it clear that the paper was proofread prior to submission?\r\n\r\n- [ ] References: Were there an adequate number of references?\r\n\r\n- [ ] References: Are references cited throughout, particularly in the introductory material?\r\n\r\n- [ ] References: Are references from credible sources, and can these be verified by the grader?",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2020-02-27T00:30:00Z"
+    },
+    {
+        "issues": "https://github.com/L3fts1d3/hello-world/issues/1",
+        "title": "Search for technical writing issues",
+        "body": "Just wondering about projects that need a technical writer volunteer. \n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2016-01-13T06:35:48Z"
+    },
+    {
+        "issues": "https://github.com/toshi-toma/zenn-content/issues/6",
+        "title": "Update dependency textlint-rule-preset-ja-technical-writing to v7",
+        "body": "[![Mend Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com)\n\nThis PR contains the following updates:\n\n| Package | Change | Age | Adoption | Passing | Confidence |\n|---|---|---|---|---|---|\n| [textlint-rule-preset-ja-technical-writing](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing) | [`^4.0.1` -> `^7.0.0`](https://renovatebot.com/diffs/npm/textlint-rule-preset-ja-technical-writing/4.0.1/7.0.0) | [![age](https://badges.renovateapi.com/packages/npm/textlint-rule-preset-ja-technical-writing/7.0.0/age-slim)](https://docs.renovatebot.com/merge-confidence/) | [![adoption](https://badges.renovateapi.com/packages/npm/textlint-rule-preset-ja-technical-writing/7.0.0/adoption-slim)](https://docs.renovatebot.com/merge-confidence/) | [![passing](https://badges.renovateapi.com/packages/npm/textlint-rule-preset-ja-technical-writing/7.0.0/compatibility-slim/4.0.1)](https://docs.renovatebot.com/merge-confidence/) | [![confidence](https://badges.renovateapi.com/packages/npm/textlint-rule-preset-ja-technical-writing/7.0.0/confidence-slim/4.0.1)](https://docs.renovatebot.com/merge-confidence/) |\n\n---\n\n### Release Notes\n\n<details>\n<summary>textlint-ja/textlint-rule-preset-ja-technical-writing</summary>\n\n### [`v7.0.0`](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/blob/HEAD/CHANGELOG.md#&#8203;700)\n\n[Compare Source](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/compare/v6.0.0...v7.0.0)\n\n##### Major Changes\n\n-   [`ac46d78`](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/ac46d78): :sparkles: [textlint-rule/textlint-rule-sentence-length v3.0.0](https://togithub.com/textlint-rule/textlint-rule-sentence-length/releases/v3.0.0)\u3078\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\n\n    3.0.0\u3067\u306f\u3001\u30c7\u30d5\u30a9\u30eb\u30c8\u3067\u306f\u6b21\u306e\u3088\u3046\u306aURL\u305d\u306e\u3082\u306e\u304c\u30ea\u30f3\u30af\u3068\u306a\u3063\u3066\u3044\u308b\u30b1\u30fc\u30b9\u3092\u30ab\u30a6\u30f3\u30c8\u3057\u306a\u3044\u3088\u3046\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n\n    > Very long <https://example.com?longlonglong> URL.\n-   [`6c1d348`](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/6c1d348): :new: [textlint-rule-no-zero-width-spaces](https://togithub.com/textlint-rule/textlint-rule-no-zero-width-spaces)\u3092\u8ffd\u52a0\n\n    \u30bc\u30ed\u5e45\u30b9\u30da\u30fc\u30b9\uff08`\\u200b`\uff09\u304c\u6587\u7ae0\u306b\u5165\u308b\u306e\u3092\u9632\u6b62\u3059\u308b\u30eb\u30fc\u30eb\u3067\u3059\u3002\n-   [`55f945a`](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/55f945a): :sparkles: [textlint-rule/textlint-rule-no-invalid-control-character v2.0.0](https://togithub.com/textlint-rule/textlint-rule-no-invalid-control-character/releases/tag/v2.0.0)\u3078\u66f4\u65b0\n\n    \u30c7\u30d5\u30a9\u30eb\u30c8\u3067img\u306ealt\u5185\u306b\u5236\u5fa1\u6587\u5b57\u5217\u304c\u542b\u307e\u308c\u3066\u3044\u308b\u304b\u3092\u30c1\u30a7\u30c3\u30af\u3059\u308b\u3088\u3046\u306b\u306a\u308a\u307e\u3059\u3002\n\n### [`v6.0.0`](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/releases/tag/v6.0.0)\n\n[Compare Source](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/compare/v4.0.1...v6.0.0)\n\n#### Summary\n\n-   \u66f4\u65b0\u3055\u308c\u305f\u30eb\u30fc\u30eb\u306f\u5f62\u614b\u7d20\u89e3\u6790\u3059\u308b\u30e9\u30a4\u30d6\u30e9\u30ea\u3067\u3042\u308b[kuromojin@3](https://togithub.com/azu/kuromojin/releases/tag/v3.0.0)\u3078\u306e\u66f4\u65b0\u3092\u542b\u3093\u3067\u3044\u307e\u3059\n    -   \u89e3\u6790\u7d50\u679c\u304c\u6b63\u78ba\u306b\u306a\u308b\u3053\u3068\u3067\u691c\u77e5\u3059\u308b\u7bc4\u56f2\u304c\u3088\u308a\u6b63\u78ba\u306b\u306a\u308a\u307e\u3059\n-   \u30bb\u30f3\u30c6\u30f3\u30b9\u5206\u89e3\u3092\u3059\u308b\u30e9\u30a4\u30d6\u30e9\u30ea\u3067\u3042\u308b[sentence-splitter@3](https://togithub.com/azu/sentence-splitter/releases/tag/3.0.0)\u3078\u306e\u66f4\u65b0\u3092\u542b\u3093\u3067\u3044\u307e\u3059\n    -   \u5168\u89d2\u30d4\u30ea\u30aa\u30c9\uff08`\uff0e`\uff09\u304c\u30c7\u30d5\u30a9\u30eb\u30c8\u3067\u30bb\u30f3\u30c6\u30f3\u30b9\u306e\u533a\u5207\u308a\u6587\u5b57\u3068\u6271\u308f\u308c\u307e\u3059\n    -   \u307e\u305f\u3001\u30bb\u30f3\u30c6\u30f3\u30b9\u306e\u89e3\u6790\u304c\u6539\u5584\u3055\u308c\u3066\u3044\u307e\u3059\n-   \u305d\u306e\u4ed6\u306b\u3082\u3044\u304f\u3064\u304b\u306e\u30eb\u30fc\u30eb\u3067\u66f4\u65b0\u304c\u542b\u307e\u308c\u3066\u3044\u307e\u3059\n\n[textlint-rule-preset-japanese v6](https://togithub.com/textlint-ja/textlint-rule-preset-japanese/releases/tag/v6.0.0)\u3082\u540c\u69d8\u306e\u5909\u66f4\u3092\u542b\u3080\u30ea\u30ea\u30fc\u30b9\u304c\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n### \u66f4\u65b0\u3055\u308c\u305f\u30eb\u30fc\u30eb\n\n##### textlint-rule-max-ten to v4\n\n-   [Release v4.0.0 \u00b7 textlint-ja/textlint-rule-max-ten](https://togithub.com/textlint-ja/textlint-rule-max-ten/releases/v4.0.0)\n-   [Release v3.0.0 \u00b7 textlint-ja/textlint-rule-max-ten](https://togithub.com/textlint-ja/textlint-rule-max-ten/releases/v3.0.0)\n\nREADME\u3068\u5b9f\u88c5\u304c\u305a\u308c\u3066\u3044\u305f\u306e\u3067\u3001\u4fee\u6b63\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n-   3.0.0: max: 3 \u306a\u3089 \u4e00\u6587\u306b3\u3064\u4ee5\u4e0a\u306e\u8aad\u70b9\u3067\u30a8\u30e9\u30fc\u3068\u306a\u308b\n-   4.0.0: max: 3 \u306a\u3089 \u4e00\u6587\u306b4\u3064\u4ee5\u4e0a\u306e\u8aad\u70b9\u3067\u30a8\u30e9\u30fc\u3068\u306a\u308b\n\n\u8aad\u70b9\u306b\u300c\uff0c\u300d\u53e5\u70b9\u306b\u300c\uff0e\u300d\u3092\u4f7f\u3046\u30aa\u30d7\u30b7\u30e7\u30f3\u304c\u8ffd\u52a0\u3055\u308c\u307e\u3057\u305f\u3002\n\n```json5\n{\n  \"rules\": {\n    \"max-ten\": {\n      // \u8aad\u70b9\u3068\u3057\u3066\u6271\u3046\u6587\u5b57\n      \"touten\": \"\uff0c\",\n      // \u53e5\u70b9\u3068\u3057\u3066\u6271\u3046\u6587\u5b57\n      \"kuten\": \"\uff0e\"\n    }\n  }\n}\n```\n\n#### textlint-rule-no-double-negative-ja to v2\n\n-   [Release v2.0.0 \u00b7 textlint-ja/textlint-rule-no-double-negative-ja](https://togithub.com/textlint-ja/textlint-rule-no-double-negative-ja/releases/v2.0.0)\n\n\"\u306a\u3044\u3053\u3068\u3082\u306a\u3044\u3067\u3057\u3087\u3046\"\u306e\u3088\u3046\u306a \"\u7279\u6b8a\u30fb\u30ca\u30a4\"\u306e\u5224\u5b9a\u306b\u5bfe\u5fdc\u3057\u3066\u3044\u307e\u3059\u3002\n\n#### textlint-rule-no-doubled-joshi to v4\n\n-   [Release v4.0.0 \u00b7 textlint-ja/textlint-rule-no-doubled-joshi](https://togithub.com/textlint-ja/textlint-rule-no-doubled-joshi/releases/v4.0.0)\n\n[kuromojin@3](https://togithub.com/azu/kuromojin/releases/tag/v3.0.0)\u3078\u306e\u66f4\u65b0\u306e\u307f\n\n#### textlint-rule-no-dropping-the-ra to v3\n\n-   [Release v3.0.0 \u00b7 textlint-ja/textlint-rule-no-dropping-the-ra](https://togithub.com/textlint-ja/textlint-rule-no-dropping-the-ra/releases/v3.0.0)\n-   [Release v2.0.0 \u00b7 textlint-ja/textlint-rule-no-dropping-the-ra](https://togithub.com/textlint-ja/textlint-rule-no-dropping-the-ra/releases/v2.0.0)\n\n\"\u898b\u308c\u308b\" \u306e\u3089\u629c\u304d\u8a00\u8449\u3092\u5224\u5b9a\u3067\u304d\u308b\u3088\u3046\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n\n#### textlint-rule-no-mix-dearu-desumasu to v5\n\n[kuromojin@3](https://togithub.com/azu/kuromojin/releases/tag/v3.0.0)\u3078\u306e\u66f4\u65b0\u306e\u307f\n\n#### textlint-rule-ja-no-redundant-expression to v4\n\n[kuromojin@3](https://togithub.com/azu/kuromojin/releases/tag/v3.0.0)\u3078\u306e\u66f4\u65b0\u306e\u307f\n\n#### textlint-rule-ja-no-weak-phrase to v2\n\n[kuromojin@3](https://togithub.com/azu/kuromojin/releases/tag/v3.0.0)\u3078\u306e\u66f4\u65b0\u306e\u307f\n\n#### textlint-rule-no-doubled-conjunction to v2\n\n-   [Release v2.0.0 \u00b7 textlint-ja/textlint-rule-no-doubled-conjunction](https://togithub.com/textlint-ja/textlint-rule-no-doubled-conjunction/releases/tag/v2.0.0)\n\n\u30bb\u30f3\u30c6\u30f3\u30b9\u89e3\u6790\u306e\u6539\u5584\u3092\u3057\u3066\u5168\u89d2\u30d4\u30ea\u30aa\u30c9\uff08`\uff0e`\uff09\u306e\u5bfe\u5fdc\u3068\u30a8\u30e9\u30fc\u30e1\u30c3\u30bb\u30fc\u30b8\u3092\u6539\u5584\u3057\u3066\u3044\u307e\u3059\u3002\n\n#### textlint-rule-no-doubled-conjunctive-particle-ga to v2\n\n-   [Release v2.0.0 \u00b7 textlint-ja/textlint-rule-no-doubled-conjunctive-particle-ga](https://togithub.com/textlint-ja/textlint-rule-no-doubled-conjunctive-particle-ga/releases/tag/v2.0.0)\n\n\u30bb\u30f3\u30c6\u30f3\u30b9\u89e3\u6790\u306e\u6539\u5584\u3092\u3057\u3066\u5168\u89d2\u30d4\u30ea\u30aa\u30c9\uff08`\uff0e`\uff09\u306b\u5bfe\u5fdc\u3057\u3066\u3044\u307e\u3059\u3002\n\n#### textlint-rule-max-comma to v2\n\n-   [Release v2.0.0 \u00b7 textlint-rule/textlint-rule-max-comma](https://togithub.com/textlint-rule/textlint-rule-max-comma/releases/tag/v2.0.0)\n\n\u30bb\u30f3\u30c6\u30f3\u30b9\u89e3\u6790\u306e\u6539\u5584\u3092\u3057\u3066\u3044\u307e\u3059\u3002\n\n#### COMMITS\n\n-   **deps:** update dependency [@&#8203;textlint/module-interop](https://togithub.com/textlint/module-interop) to ^1.2.4 ([5f45465](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/5f45465df232bb743b2ea4bee85e2bc06bb85cfa))\n-   **deps:** update dependency textlint-rule-preset-jtf-style to ^2.3.7 ([21a1a05](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/21a1a05e8f581946571c333c361b3d0a61c6a3f9))\n-   **deps:** update dependency textlint-rule-preset-jtf-style to ^2.3.8 ([d367aa1](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/d367aa11ccf3dbc68d0dc21895c9b1e9929dd68c))\n-   **deps:** update max-ten ([40cae7a](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/40cae7a37274cecad968afd8f2dab66a429c2d3e))\n-   **deps:** update patch updates ([6f1f685](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/6f1f685c528c2f45f07ed32459e8567cf5f9f876))\n-   **deps:** update rules ([15b61f6](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/15b61f6312bfd23cf9ad0c3b23d156c8131fdf54))\n-   **deps:** update textlint-rule-max-comma@2 ([e9d8b1b](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/e9d8b1b5e11ab8df3ea7e7bd0ccbb0f73d2cab3e))\n-   **deps:** update textlint-rule-max-ten ([6c9d542](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/6c9d54265a1c727138415552b521acef00f0aa5f))\n-   **deps:** update to textlint-rule-max-ten@4.0.2 ([94b007f](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/94b007ffaa44fbe2b28600962f229fa17d081eaa))\n-   **desp:** update rules ([0f4eb2c](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/commit/0f4eb2c116da71de1b2acacac5f6555fe7ebb1d6)), closes [#issuecomment-826238597](https://togithub.com/textlint-ja/textlint-rule-preset-ja-technical-writing/issues/issuecomment-826238597)\n\n</details>\n\n---\n\n### Configuration\n\n\ud83d\udcc5 **Schedule**: Branch creation - At any time (no schedule defined), Automerge - At any time (no schedule defined).\n\n\ud83d\udea6 **Automerge**: Disabled by config. Please merge this manually once you are satisfied.\n\n\u267b **Rebasing**: Whenever PR becomes conflicted, or you tick the rebase/retry checkbox.\n\n\ud83d\udd15 **Ignore**: Close this PR and you won't be reminded about this update again.\n\n---\n\n - [ ] <!-- rebase-check -->If you want to rebase/retry this PR, click this checkbox.\n\n---\n\nThis PR has been generated by [Mend Renovate](https://www.mend.io/free-developer-tools/renovate/). View repository job log [here](https://app.renovatebot.com/dashboard#github/toshi-toma/zenn-content).",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2021-10-18T23:13:45Z"
+    },
+    {
+        "issues": "https://github.com/campus-experts/spring-2017/issues/42",
+        "title": "Technical Writing week exercise - Readme for HaCS",
+        "body": "This commit is based on some of the things learnt in the campus-experts technical writing workshop. An image has been added to make the readme more visual, the description provides context for the repo and there has been a contributing guideline added. Build and test instructions we're simple and straightforward enough i believe so they remained the same\r\n\r\nPS: totally just used cherry picking for the first time to make this PR cleaner. Super cool\r\n[The guide used](http://www.clock.co.uk/blog/deleting-a-git-commit)\r\n\r\nPR which adds this readme: https://github.com/HaCSBCU/hacsbcu.github.io/pull/27",
+        "labels": [
+            {
+                "id": 593544099,
+                "node_id": "MDU6TGFiZWw1OTM1NDQwOTk=",
+                "url": "https://api.github.com/repos/campus-experts/spring-2017/labels/technical-writing",
+                "name": "technical-writing",
+                "color": "006b75",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 0,
+        "comments": 2,
+        "created_at": "2017-04-27T21:02:14Z"
+    },
+    {
+        "issues": "https://github.com/firebase/firebase-js-sdk/issues/6721",
+        "title": "Expo firebase app creating & writing documents in production build",
+        "body": "<!-- Step 1 [READ THIS] -->\r\n<!--\r\n\r\nAre you in the right place?\r\n  * For issues or feature requests related to __the code in this repository__\r\n    file a Github issue.\r\n    * If this is a __feature request__ make sure the issue title starts with \"FR:\".\r\n  * For general technical questions, post a question on [StackOverflow](http://stackoverflow.com/)\r\n    with the firebase tag.\r\n  * For general Firebase discussion, use the [firebase-talk](https://groups.google.com/forum/#!forum/firebase-talk)\r\n    google group.\r\n  * For help troubleshooting your application that does not fall under one\r\n    of the above categories, reach out to the personalized\r\n    [Firebase support channel](https://firebase.google.com/support/).\r\n    \r\n-->\r\n\r\n<!-- Step 2 -->\r\n\r\n### [REQUIRED] Describe your environment\r\n\r\n  * Android 12 ( Galaxy S10e )\r\n  * Firebase SDK : 9.9.1\r\n  * Expo : 46.0.0\r\n  * Eas-cli : 0.55.1\r\n  * React :  18.0.0\r\n  * Sentry-expo: 5.0.0\r\n\r\n<!-- Step 3 -->\r\n\r\n### [REQUIRED] Describe the problem\r\n\r\n#### Steps to reproduce:\r\nI have built an app in development mode which work perfectly fine. I can collect documents and create them. But once I have built the app in production using eas-cli. And then download it from the Play store test branch. Something very strange happens.\r\n\r\nEven before the app is opened in the firestore multiple documents are being created with empty field end documents are being read. But that shouldn't be possible because of all those functions that do this in the app. Are triggered by a button press or require user input. Once I open the app it continues but only after I have deleted the app and waited a few seconds everything stops.\r\n\r\nSo can anyone please tell me how it's even possible that this happens and how to stop it?\r\n#### Relevant Code:\r\n\r\nFirebase config:\r\n```\r\nimport { initializeApp } from 'firebase/app';\r\nimport { getAuth } from 'firebase/auth';\r\nimport { getFirestore,  initializeFirestore } from 'firebase/firestore';\r\n\r\n// Initialize Firebase\r\nconst firebaseConfig = {\r\n  ###\r\n};\r\n\r\n\r\nconst app = initializeApp(firebaseConfig);\r\nconst auth = getAuth()\r\n\r\nconst db = initializeFirestore(app, {\r\n    experimentalForceLongPolling: true,\r\n});\r\n\r\nexport {auth ,app, db}\r\n```\r\n",
+        "labels": [
+            {
+                "id": 710626490,
+                "node_id": "MDU6TGFiZWw3MTA2MjY0OTA=",
+                "url": "https://api.github.com/repos/firebase/firebase-js-sdk/labels/api:%20firestore",
+                "name": "api: firestore",
+                "color": "e881d1",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 6,
+        "created_at": "2022-10-24T16:19:14Z"
+    },
+    {
+        "issues": "https://github.com/GatorEducator/gatorgrader/issues/174",
+        "title": "Support Spellchecking of Technical Writing",
+        "body": "**Is your feature request related to a problem? Please describe.**\r\n\r\nThe current version of GatorGrader does not have a way to perform spellchecking on the submitted technical writing. While it might be possible to leverage existing spellcheckers for different Unix-like platforms, it is probably a good idea to implement these checks in a platform independent fashion. If technical writing contains spelling mistakes that can be reliably detected, then this is a suitable circumstance in which we can fail a build.\r\n\r\n**Describe the solution you'd like**\r\n\r\nIt should be possible to specify a file in a directory and then have a new option called `--spellcheck`, using the current approach to the command-line arguments. This would then trigger a reliable, Python-based spellchecker. Here is an example of a project to consider: https://pypi.org/project/pyspellchecker/.\r\n\r\nLet me know what you think, @corlettim and @schultzh and @Michionlion. If you like this idea, then I can work with one of you to implement it or try to implement it on my own. With that said, I think that it might be advisable to wait to implement this until after we have introduced the linting interface.",
+        "labels": [
+            {
+                "id": 666096660,
+                "node_id": "MDU6TGFiZWw2NjYwOTY2NjA=",
+                "url": "https://api.github.com/repos/GatorEducator/gatorgrader/labels/feature",
+                "name": "feature",
+                "color": "84b6eb",
+                "default": false,
+                "description": null
+            },
+            {
+                "id": 803266946,
+                "node_id": "MDU6TGFiZWw4MDMyNjY5NDY=",
+                "url": "https://api.github.com/repos/GatorEducator/gatorgrader/labels/improve",
+                "name": "improve",
+                "color": "e1c7fc",
+                "default": false,
+                "description": null
+            },
+            {
+                "id": 1028230967,
+                "node_id": "MDU6TGFiZWwxMDI4MjMwOTY3",
+                "url": "https://api.github.com/repos/GatorEducator/gatorgrader/labels/linting",
+                "name": "linting",
+                "color": "c1ffb2",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 2,
+        "comments": 6,
+        "created_at": "2019-06-20T13:38:32Z"
+    },
+    {
+        "issues": "https://github.com/gorilla-devs/GDLauncher/issues/1399",
+        "title": "Add technic modpacks",
+        "body": "## Purpose\r\nThis PR adds support for technicpack (both legacy and solder API) modpacks. I completely forgot about the original PR (#1136) since it took a while to review so now I'm creating a new one.\r\nLinked issue: #109 \r\n\r\n## Approach\r\nI have added API calls to technic and solder for fetching modpack information and created modpack views + actions for solder and technic modpacks.\r\nUnfortunately, legacy API only supports the latest version and some releases do not any timestamps to use as release dates.\r\n\r\n#### Open Questions and Pre-Merge TODOs\r\n- [ ] Is there a better way for handling one-zip modpacks?\r\n- [ ] Most of the time, no information about required forge versions is returned, should this be extracted from version.json inside modpack.jar or left at the latest fml version?\r\n- [ ] Older modpacks (tekkit, etc.) fail to install due to missing minecraftforge libraries. This is also described in #1398.\r\n\r\n## Learning\r\n* Used API documentation for [Technic](https://technicapi.docs.apiary.io/#/) and [Solder](https://docs.solder.io/docs/api)\r\n* Sniffed a working build version for the API from Technic Launcher, since the [update endpoint](\r\nhttps://api.technicpack.net/launcher/version/) returns outdated data.\r\n\r\n",
+        "labels": [
+            {
+                "id": 2393040988,
+                "node_id": "MDU6TGFiZWwyMzkzMDQwOTg4",
+                "url": "https://api.github.com/repos/gorilla-devs/GDLauncher/labels/Status:%20Stale",
+                "name": "Status: Stale",
+                "color": "b2314d",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 0,
+        "comments": 5,
+        "created_at": "2022-07-11T22:16:25Z"
+    },
+    {
+        "issues": "https://github.com/bitprj/marketing/issues/84",
+        "title": "A Guide to Technical Writing Blog Proposal",
+        "body": "Writing Team blog proposal",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2020-06-21T01:35:50Z"
+    },
+    {
+        "issues": "https://github.com/apache/spark/issues/37793",
+        "title": "add sparksql wirte mysql support update ,the design from replace into\u2026",
+        "body": "The modification points are: Spark SQL writing MySQL supports update\r\nBackground and purpose In the current big data scenario, when writing to the MySQL relational database, the redundancy of data needs to be updated according to the primary key or unique key, so this operation is required\r\nTechnical point: use MySQL's replace into syntax for technical transformation",
+        "labels": [
+            {
+                "id": 1405794576,
+                "node_id": "MDU6TGFiZWwxNDA1Nzk0NTc2",
+                "url": "https://api.github.com/repos/apache/spark/labels/SQL",
+                "name": "SQL",
+                "color": "ededed",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 0,
+        "comments": 2,
+        "created_at": "2022-09-04T10:19:29Z"
+    },
+    {
+        "issues": "https://github.com/SG-Eddin/technical-writing/issues/1",
+        "title": "Added Articles in Technical Writing Resources",
+        "body": "Added new articles in Technical Writing resources",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2021-06-05T08:51:42Z"
+    },
+    {
+        "issues": "https://github.com/whitlockjc/m8-js/issues/3",
+        "title": "Add support for writing M8 files",
+        "body": "Without the ability to write M8 files, this library isn't very useful.  While this isn't technically hard, there are places in the M8 files _(specifically the `Song` file)_ where data is unknown _(but not empty)_ and where data is unused.  Updating the parsers to record this data so we can write the data back exactly as we found it will be required.  So improvements to the parser and parser debugging _(#1)_ will be required.",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-08-18T16:00:05Z"
+    },
+    {
+        "issues": "https://github.com/argoproj-labs/argocd-image-updater/issues/463",
+        "title": "Avoid writing registry URL to git",
+        "body": "**Is your feature request related to a problem? Please describe.**\r\n\r\nWe are using argocd-image-updater with git write back and have multiple independent clusters that deploy apps from that repository. We have a chart with multiple images and the resulting `.argocd-source.yaml` looks like one below.\r\n\r\n```YAML\r\nhelm:\r\n  parameters:\r\n  - name: myapp.image.repository\r\n    value: myreg.io/myorg/myapp\r\n    forcestring: true\r\n  - name: myapp.image.tag\r\n    value: 1.31.0\r\n    forcestring: true\r\n  ```\r\n  \r\nMy problem is, that some of these clusters are isolated to a level where they all can't pull images from the same registry. Mirroring images to local registries is not a problem, that we have solved already. But when registry (or repository) is defined in `.argocd-source.yaml` as parameter it seems to be impossible to override it anywhere. \r\n\r\n**Describe the solution you'd like**\r\nI would like to be able to use git write back only for `image.tag`. `image.repository` is usually anyways defined trough Helm values.\r\n\r\n**Describe alternatives you've considered**\r\nAs per https://argo-cd.readthedocs.io/en/stable/user-guide/parameters/#store-overrides-in-git I tried creating additional `.argocd-source-<app name>.yaml` files that would only contain `image.repository` information. This resulted in all images missing their tag information as it seems arrays are not merged but overwritten. \r\n\r\n**Additional context**\r\nI could try providing a PR for this if there is no technical reason for writing registry information to git. Any ideas how to go around this are welcome if this behaviour can't be changed.\r\n",
+        "labels": [
+            {
+                "id": 2250690026,
+                "node_id": "MDU6TGFiZWwyMjUwNjkwMDI2",
+                "url": "https://api.github.com/repos/argoproj-labs/argocd-image-updater/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            }
+        ],
+        "assignees": 0,
+        "comments": 2,
+        "created_at": "2022-08-01T09:49:25Z"
+    },
+    {
+        "issues": "https://github.com/gardener/gardener/issues/6876",
+        "title": "Cleanup unneeded complexity in `gardenlet` Helm chart",
+        "body": "**How to categorize this PR?**\r\n<!--\r\nPlease select area, kind, and priority for this pull request. This helps the community categorizing it.\r\nReplace below TODOs or exchange the existing identifiers with those that fit best in your opinion.\r\nIf multiple identifiers make sense you can also state the commands multiple times, e.g.\r\n  /area control-plane\r\n  /area auto-scaling\r\n  ...\r\n\r\n\"/area\" identifiers:     audit-logging|auto-scaling|backup|certification|control-plane-migration|control-plane|cost|delivery|dev-productivity|disaster-recovery|documentation|high-availability|logging|metering|monitoring|networking|open-source|ops-productivity|os|performance|quality|robustness|scalability|security|storage|testing|usability|user-management\r\n\"/kind\" identifiers:     api-change|bug|cleanup|discussion|enhancement|epic|impediment|poc|post-mortem|question|regression|task|technical-debt|test\r\n\r\nFor Gardener Enhancement Proposals (GEPs), please check the following [documentation](https://github.com/gardener/gardener/tree/master/docs/proposals/README.md) before submitting this pull request.\r\n-->\r\n/area dev-productivity\r\n/kind cleanup technical-debt\r\n\r\n**What this PR does / why we need it**:\r\nThis PR cleans up the following unneeded complexity in the `gardenlet` Helm chart:\r\n\r\n- Drop useless `runtime` subchart\r\n- Drop useless `enabled` value\r\n- Drop useless version inclusions\r\n- Drop useless `global.gardenlet` structure in values\r\n\r\n**Release note**:\r\n<!--\r\nWrite your release note:\r\n1. Enter your release note in the below block.\r\n2. If no release note is required, just write \"NONE\" within the block.\r\n\r\nFormat of block header: <category> <target_group>\r\nPossible values:\r\n- category:       breaking|feature|bugfix|doc|other\r\n- target_group:   user|operator|developer|dependency\r\n-->\r\n```breaking operator\r\nThe values for the `gardenlet` Helm chart are no longer put below `.global.gardenlet`. For example, before this PR the replica count was controlled via the `global.gardenlet.replicaCount` value while it's now controlled via `replicaCount` directly. Please adapt your values files accordingly.\r\n```\r\n",
+        "labels": [
+            {
+                "id": 803921075,
+                "node_id": "MDU6TGFiZWw4MDM5MjEwNzU=",
+                "url": "https://api.github.com/repos/gardener/gardener/labels/area/dev-productivity",
+                "name": "area/dev-productivity",
+                "color": "0052cc",
+                "default": false,
+                "description": "Developer productivity related (how to improve development)"
+            },
+            {
+                "id": 943545700,
+                "node_id": "MDU6TGFiZWw5NDM1NDU3MDA=",
+                "url": "https://api.github.com/repos/gardener/gardener/labels/kind/technical-debt",
+                "name": "kind/technical-debt",
+                "color": "eb6420",
+                "default": false,
+                "description": "Something that is only solved on the surface, but requires more (re)work to be done properly"
+            },
+            {
+                "id": 943545896,
+                "node_id": "MDU6TGFiZWw5NDM1NDU4OTY=",
+                "url": "https://api.github.com/repos/gardener/gardener/labels/kind/cleanup",
+                "name": "kind/cleanup",
+                "color": "c7def8",
+                "default": false,
+                "description": "Something that is not needed anymore and can be cleaned up"
+            },
+            {
+                "id": 3982559898,
+                "node_id": "LA_kwDOBv8LRs7tYQqa",
+                "url": "https://api.github.com/repos/gardener/gardener/labels/cla:%20yes",
+                "name": "cla: yes",
+                "color": "bfe5bf",
+                "default": false,
+                "description": "Indicates the PR's author has signed the cla-assistant.io CLA."
+            },
+            {
+                "id": 3982601230,
+                "node_id": "LA_kwDOBv8LRs7tYawO",
+                "url": "https://api.github.com/repos/gardener/gardener/labels/size/XXL",
+                "name": "size/XXL",
+                "color": "ee0000",
+                "default": false,
+                "description": "Denotes a PR that changes 1000+ lines, ignoring generated files."
+            }
+        ],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-23T13:55:17Z"
+    },
+    {
+        "issues": "https://github.com/appwrite/appwrite/issues/4012",
+        "title": "\ud83d\uddde\u00a0Help Developers by Writing Article About OVHcloud",
+        "body": "# \ud83d\udcad\u00a0Introduction\r\n\r\nAppwrite is all about open source and community \ud83d\udc65 To emphasize this, we want to create\u00a0**the best**\u00a0developer experience possible by providing enough guides and examples for new Appwriters.\r\n\r\nWe understand code contributions might not be your cup of tea, so we decided to prepare a series of blog posts related issues. This series of issues is here to let your writing skills shine, with close to 0 engineering skills required! \u2728\r\n\r\nYour task is to write a blog post\u00a0about **Appwrite + OVHcloud**. The main topic of your article should be explaining how to use Appwrite in connection with OVHcloud. It can be posted anywhere! We accept submissions of articles on any well-known platform, for example, [Medium](https://medium.com/), [Dev.to](https://dev.to/), or [Hashnode](https://hashnode.com/).\r\n\r\n### \ud83c\udfaf\u00a0Requirements\r\n\r\n- Your article has to be publicly available.\r\n- Your article must tag\u00a0`appwrite`\u00a0in any way (hashtag, embedded, link...).\r\n- Your article should be at least 1000 words long.\r\n- Your article should look nice.\u00a0\ud83d\udc40\u00a0Use titles, subtitles, screenshots, images, gifs, or even memes.\r\n\r\n### \u2705\u00a0Task Summary\r\n\r\n- [ ]  Drop a comment on this issue indicating that you\u2019re working on it\r\n- [ ]  Write a blog post about\u00a0**Appwrite + OVHcloud**.\r\n- [ ]  Publish an article on your favorite platform or website. (Medium, Dev.to, Hashnode...)\r\n- [ ]  Submit a pull request in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite).\r\n- [ ]  (optional) Share the article on social media. (Reddit / HackerNews / Twitter / Facebook / Other)\r\n\r\nThis task **does not require** any assignment but please comment on this issue mentioning you are working on it. If you have questions, need any help, or just want to hang out, make sure to join us on our [Discord server](https://appwrite.io/discord).\r\n\r\n**Happy Appwriting!**\r\n\r\n",
+        "labels": [
+            {
+                "id": 1309682828,
+                "node_id": "MDU6TGFiZWwxMzA5NjgyODI4",
+                "url": "https://api.github.com/repos/appwrite/appwrite/labels/good%20first%20issue",
+                "name": "good first issue",
+                "color": "7057ff",
+                "default": true,
+                "description": "Good for newcomers"
+            },
+            {
+                "id": 1555697124,
+                "node_id": "MDU6TGFiZWwxNTU1Njk3MTI0",
+                "url": "https://api.github.com/repos/appwrite/appwrite/labels/hacktoberfest",
+                "name": "hacktoberfest",
+                "color": "8241c6",
+                "default": false,
+                "description": "Issues that can win you some cool swags!"
+            },
+            {
+                "id": 4593116299,
+                "node_id": "LA_kwDOCr1-hs8AAAABEcVkiw",
+                "url": "https://api.github.com/repos/appwrite/appwrite/labels/blog",
+                "name": "blog",
+                "color": "ededed",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 0,
+        "comments": 6,
+        "created_at": "2022-09-29T16:27:11Z"
+    },
+    {
+        "issues": "https://github.com/Geotab/sdk/issues/252",
+        "title": "Update new.md with 9.0 SDK Release Notes",
+        "body": "Updated new.md with 9.0 SDK Release Notes content from the MyGeotab Blog at https://www.geotab.com/blog/mygeotab-updates-9/\r\n\r\nNote: Wrote content / created this Commit to demonstrate Technical Writing capability for Markdown and potential for streamlining shared processes. For 10.0 and going forward, we can submit this to the repo as an outcome of publication so that the Public and Dev site details are in sync? @beefo let me know your thoughts on this approach and happy to Meet to discuss further.\r\nCo-Authored-By: Steve Hansen <beefo@hotmail.com>",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-21T18:41:42Z"
+    },
+    {
+        "issues": "https://github.com/undera/pylgbst/issues/122",
+        "title": "Technic Hub Port AB doesnt work",
+        "body": "Hello everyone,\r\nthe library is great but I have problems with my Technic Hub.\r\nThe BLE connection works without any problems, I can also control and use any motor.\r\nBut I have problems with the AB port. Unfortunately, I cannot use two ports (A and B) at the same time.\r\n\r\nIf the Demo.py goes to \"movehub.motor_AB.timed(1.5, -0.2, 0.2)\" an error occurs.\r\n\r\nWith Run Debug I found out that the AB port is set to None.\r\nCan someone help me here.",
+        "labels": [],
+        "assignees": 0,
+        "comments": 16,
+        "created_at": "2022-09-15T12:17:03Z"
+    },
+    {
+        "issues": "https://github.com/gardener/gardener/issues/6873",
+        "title": " Streamline webhook handler registration in `gardener-admission-controller`",
+        "body": "**How to categorize this PR?**\r\n<!--\r\nPlease select area, kind, and priority for this pull request. This helps the community categorizing it.\r\nReplace below TODOs or exchange the existing identifiers with those that fit best in your opinion.\r\nIf multiple identifiers make sense you can also state the commands multiple times, e.g.\r\n  /area control-plane\r\n  /area auto-scaling\r\n  ...\r\n\r\n\"/area\" identifiers:     audit-logging|auto-scaling|backup|certification|control-plane-migration|control-plane|cost|delivery|dev-productivity|disaster-recovery|documentation|high-availability|logging|metering|monitoring|networking|open-source|ops-productivity|os|performance|quality|robustness|scalability|security|storage|testing|usability|user-management\r\n\"/kind\" identifiers:     api-change|bug|cleanup|discussion|enhancement|epic|impediment|poc|post-mortem|question|regression|task|technical-debt|test\r\n\r\nFor Gardener Enhancement Proposals (GEPs), please check the following [documentation](https://github.com/gardener/gardener/tree/master/docs/proposals/README.md) before submitting this pull request.\r\n-->\r\n/area dev-productivity\r\n/kind cleanup technical-debt\r\n\r\n**What this PR does / why we need it**:\r\nThis PR streamlines the webhook handler registration in `gardener-admission-controller` so that it's similar to what happens for the webhooks in `gardener-resource-manager` (see #6865), and generally similar to the registration of controllers in other components (`garden{er-controller-manager,er-scheduler,let}`).\r\n\r\n**Which issue(s) this PR fixes**:\r\nPart of #4251\r\n\r\n**Special notes for your reviewer**:\r\nSimilar to #6865.\r\n\r\n**Release note**:\r\n<!--\r\nWrite your release note:\r\n1. Enter your release note in the below block.\r\n2. If no release note is required, just write \"NONE\" within the block.\r\n\r\nFormat of block header: <category> <target_group>\r\nPossible values:\r\n- category:       breaking|feature|bugfix|doc|other\r\n- target_group:   user|operator|developer|dependency\r\n-->\r\n```other operator\r\nNONE\r\n```\r\n",
+        "labels": [
+            {
+                "id": 803921075,
+                "node_id": "MDU6TGFiZWw4MDM5MjEwNzU=",
+                "url": "https://api.github.com/repos/gardener/gardener/labels/area/dev-productivity",
+                "name": "area/dev-productivity",
+                "color": "0052cc",
+                "default": false,
+                "description": "Developer productivity related (how to improve development)"
+            },
+            {
+                "id": 943545700,
+                "node_id": "MDU6TGFiZWw5NDM1NDU3MDA=",
+                "url": "https://api.github.com/repos/gardener/gardener/labels/kind/technical-debt",
+                "name": "kind/technical-debt",
+                "color": "eb6420",
+                "default": false,
+                "description": "Something that is only solved on the surface, but requires more (re)work to be done properly"
+            },
+            {
+                "id": 943545896,
+                "node_id": "MDU6TGFiZWw5NDM1NDU4OTY=",
+                "url": "https://api.github.com/repos/gardener/gardener/labels/kind/cleanup",
+                "name": "kind/cleanup",
+                "color": "c7def8",
+                "default": false,
+                "description": "Something that is not needed anymore and can be cleaned up"
+            },
+            {
+                "id": 3982559898,
+                "node_id": "LA_kwDOBv8LRs7tYQqa",
+                "url": "https://api.github.com/repos/gardener/gardener/labels/cla:%20yes",
+                "name": "cla: yes",
+                "color": "bfe5bf",
+                "default": false,
+                "description": "Indicates the PR's author has signed the cla-assistant.io CLA."
+            },
+            {
+                "id": 3982601230,
+                "node_id": "LA_kwDOBv8LRs7tYawO",
+                "url": "https://api.github.com/repos/gardener/gardener/labels/size/XXL",
+                "name": "size/XXL",
+                "color": "ee0000",
+                "default": false,
+                "description": "Denotes a PR that changes 1000+ lines, ignoring generated files."
+            }
+        ],
+        "assignees": 1,
+        "comments": 2,
+        "created_at": "2022-10-21T11:41:59Z"
+    },
+    {
+        "issues": "https://github.com/SeleniumHQ/selenium/issues/10465",
+        "title": "Bazel Build technical debt",
+        "body": "### What happened?\r\n\r\nBazel build documentation outdated and unable to build dotnet sources using Bazel on Windows. \r\n\r\nSteps like correctly setting up VCTools and MSBuild environment variables are unclear and there are either missing requirements or unclear specifications for portions of the Bazel build instructions. From what I understood after looking around for support on this topic it looks like this has been a long standing issue, as mention by @jimevans, due to a combination of factors:\r\n\r\n> If you try building using `bazel build //dotnet/\u2026`, you\u2019re going to have a Bad Time\u2122. The rule set used to build the .NET bindings is not the \u201cofficial\u201d Bazel .NET rules, because those rules make some assumptions that run counter to how .NET environments like to build. This is particularly so with multiple framework versions encompassing .NET Framewotk, .NET Core, and the subsequent unification of those with .NET 5 and beyond.. \r\n> \r\n> The ones we _do_ use, are much better in that regard, but they\u2019re also wildly incomplete, mostly in the execution of stuff using `bazel test` or `bazel run`. We attempt to use some custom rules in those cases, but they\u2019re, frankly speaking, poorly written.\r\n> \r\n> The custom rules\u2019 author (me) doesn\u2019t know what he\u2019s doing when constructing Bazel rules, and no one with any real expertise in writing Bazel rules seems to have any interest in donating effort to make them actually work. Those same people with the proper Bazel skill set also usually have no understanding of the peculiarities of .NET projects, or the know how to make them to work seamlessly on Windows.\r\n\r\n- _Originally posted by @jimevans in https://github.com/SeleniumHQ/selenium/issues/9915#issuecomment-944896131_\r\n---\r\n\r\nI recently went through all of the steps in the documentation for a fresh setup, using the linked blog article for WIndows as a reference as well, and after spending a few hours trying to resolve it I was still ultimately unsuccessful in building even the dotnet project via VS command line.\r\n\r\n**Note:**  Building just the WebDriver, WebDriver.Support, and WebDriverBackedSelenium dotnet projects from within Visual Studio 2019 works and successfully builds the DLLs for each .NET standard and framework. Building the tests is a different story...\r\n\r\nWe should potentially consider moving away from the Bazel implementation for complete building via command line.\r\n\r\n### How can we reproduce the issue?\r\n\r\n- On latest Windows 10 with latest Visual Studio 2019 and Visual Studio Command Line Tools installed, follow all of the documented steps for setting up the Bazel build environment\r\n- You may need to use the linked blog article for assistance with some of the steps\r\n- Run command to build dotnet using Bazel: `bazel build //dotnet/`\r\n\r\n\r\n### Operating System\r\n\r\nWindows 10 v19044.1586\r\n\r\n### Selenium version\r\n\r\nFresh checkout of Selenium 4 trunk\r\n",
+        "labels": [
+            {
+                "id": 182503933,
+                "node_id": "MDU6TGFiZWwxODI1MDM5MzM=",
+                "url": "https://api.github.com/repos/SeleniumHQ/selenium/labels/C-dotnet",
+                "name": "C-dotnet",
+                "color": "fbca04",
+                "default": false,
+                "description": null
+            },
+            {
+                "id": 186798743,
+                "node_id": "MDU6TGFiZWwxODY3OTg3NDM=",
+                "url": "https://api.github.com/repos/SeleniumHQ/selenium/labels/I-defect",
+                "name": "I-defect",
+                "color": "eb6420",
+                "default": false,
+                "description": null
+            },
+            {
+                "id": 1581372717,
+                "node_id": "MDU6TGFiZWwxNTgxMzcyNzE3",
+                "url": "https://api.github.com/repos/SeleniumHQ/selenium/labels/C-build",
+                "name": "C-build",
+                "color": "fbca04",
+                "default": false,
+                "description": "Build related issues (bazel and CI)"
+            },
+            {
+                "id": 3048894101,
+                "node_id": "MDU6TGFiZWwzMDQ4ODk0MTAx",
+                "url": "https://api.github.com/repos/SeleniumHQ/selenium/labels/help%20wanted",
+                "name": "help wanted",
+                "color": "E99695",
+                "default": true,
+                "description": "Issues looking for contributions"
+            }
+        ],
+        "assignees": 0,
+        "comments": 5,
+        "created_at": "2022-03-22T14:43:09Z"
+    },
+    {
+        "issues": "https://github.com/alpratt2425/Writing-Portfolio/issues/1",
+        "title": "Wiki images",
+        "body": "![Token - Headers](https://user-images.githubusercontent.com/112105251/187543502-3c0d8332-6b30-44d0-a4cd-674e9481e0cf.png)\r\n\r\n![Token - bearer](https://user-images.githubusercontent.com/112105251/187543505-5340278b-6b26-408b-bdbd-c645ebda96dd.png)\r\n\r\n![Publish - token](https://user-images.githubusercontent.com/112105251/187543504-6a426a75-ab4f-4986-80a1-a23240e57eb5.png)\r\n\r\n![publish -body](https://user-images.githubusercontent.com/112105251/191603512-096a974b-fa79-48ab-b19a-ce2022a10e12.png)\r\n\r\n\r\n![New Git Repo](https://user-images.githubusercontent.com/112105251/188033736-e519f3e5-223b-45fc-874b-f4da8added28.png)\r\n\r\n![Technical writingv 1](https://user-images.githubusercontent.com/112105251/190830345-ad03da50-5158-40bd-8206-23e028f767ff.png)\r\n\r\n![Benefits of technical writing](https://user-images.githubusercontent.com/112105251/190830357-9fe7f2f7-8b6c-48b9-a576-371a4aa2ed0b.png)\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-08-30T21:08:58Z"
+    },
+    {
+        "issues": "https://github.com/apache/rocketmq-site/issues/283",
+        "title": "Translation for \"RocketMQ Prometheus Exporter\" Section in the v4.x & 5.0 Document (CN -> EN)",
+        "body": "The Chinese version of the \"RocketMQ Prometheus Exporter\" section in the v4.x & v5.0 document has now been finished. However, its English version is still incomplete.\r\n\r\nWe now require someone who knows both Chinese and English and understands the technical terms of Apache RocketMQ to build it. The translation work is not only copy/paste from translation tools but also requires you to have some basic knowledge of Apache RocketMQ and technical writing.",
+        "labels": [
+            {
+                "id": 4558015611,
+                "node_id": "LA_kwDOBJdl5M8AAAABD63Mew",
+                "url": "https://api.github.com/repos/apache/rocketmq-site/labels/hacktoberfest",
+                "name": "hacktoberfest",
+                "color": "171C65",
+                "default": false,
+                "description": "Issue or PR from Hacktoberfest"
+            }
+        ],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-09-28T08:13:56Z"
+    },
+    {
+        "issues": "https://github.com/apache/rocketmq-site/issues/280",
+        "title": "Translation for \"\u4e3b\u5907\u81ea\u52a8\u5207\u6362\u6a21\u5f0f\u90e8\u7f72\" Section in the v4.x & 5.0 Document (CN -> EN)",
+        "body": "The Chinese version of the \"\u4e3b\u5907\u81ea\u52a8\u5207\u6362\u6a21\u5f0f\u90e8\u7f72\" section in the v4.x & v5.0 document has now been finished. However, its English version is still incomplete.\r\n\r\nWe now require someone who knows both Chinese and English and understands the technical terms of Apache RocketMQ to build it. The translation work is not only copy/paste from translation tools but also requires you to have some basic knowledge of Apache RocketMQ and technical writing.",
+        "labels": [
+            {
+                "id": 4558015611,
+                "node_id": "LA_kwDOBJdl5M8AAAABD63Mew",
+                "url": "https://api.github.com/repos/apache/rocketmq-site/labels/hacktoberfest",
+                "name": "hacktoberfest",
+                "color": "171C65",
+                "default": false,
+                "description": "Issue or PR from Hacktoberfest"
+            }
+        ],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-09-28T08:11:11Z"
+    },
+    {
+        "issues": "https://github.com/Timonwa/techroadmap/issues/87",
+        "title": "Merge Technical writing work in progress page.",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-23T17:39:00Z"
+    },
+    {
+        "issues": "https://github.com/apache/rocketmq-site/issues/299",
+        "title": "Translation for \"\u53d1\u5e03\u624b\u518c\" Section in the v4.x & 5.0 Document (CN -> EN)",
+        "body": "The Chinese version of the \"\u53d1\u5e03\u624b\u518c\" section in the v4.x & v5.0 document has now been finished. However, its English version is still incomplete.\r\n\r\nWe now require someone who knows both Chinese and English and understands the technical terms of Apache RocketMQ to build it. The translation work is not only copy/paste from translation tools but also requires you to have some basic knowledge of Apache RocketMQ and technical writing.",
+        "labels": [
+            {
+                "id": 4558015611,
+                "node_id": "LA_kwDOBJdl5M8AAAABD63Mew",
+                "url": "https://api.github.com/repos/apache/rocketmq-site/labels/hacktoberfest",
+                "name": "hacktoberfest",
+                "color": "171C65",
+                "default": false,
+                "description": "Issue or PR from Hacktoberfest"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-29T06:33:43Z"
+    },
+    {
+        "issues": "https://github.com/NesrineCherif/Zanzana/issues/11",
+        "title": "Writing the Technical document",
+        "body": "<!---\n@huboard:{\"order\":8.0,\"custom_state\":\"\"}\n-->\n",
+        "labels": [
+            {
+                "id": 108580763,
+                "node_id": "MDU6TGFiZWwxMDg1ODA3NjM=",
+                "url": "https://api.github.com/repos/NesrineCherif/Zanzana/labels/2%20-%20Working",
+                "name": "2 - Working",
+                "color": "CCCCCC",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2014-06-28T14:24:36Z"
+    },
+    {
+        "issues": "https://github.com/the-laurel/laurels/issues/181",
+        "title": "[Technical Writing-15] Performing technical writing of code for Intro to Marks Factory (2) hemantech",
+        "body": "https://mark.provable.dev/?ipfs=QmdJ1dRUqCBxCSCfrfHphZpAgPgyCbrrB4duSPwf4BwKqk",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2021-09-25T19:37:14Z"
+    },
+    {
+        "issues": "https://github.com/the-laurel/laurels/issues/180",
+        "title": "[Technical Writing-15] Performing technical writing of code for Intro to Marks Factory (2) VGrazzini",
+        "body": "https://mark.provable.dev/?ipfs=QmdJ1dRUqCBxCSCfrfHphZpAgPgyCbrrB4duSPwf4BwKqk&s=QmPseK63YehuUpW98t91KEGiRhzng9GaVd8uZeVpYAGtiQ",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2021-09-25T19:36:16Z"
+    },
+    {
+        "issues": "https://github.com/airbytehq/airbyte/issues/18367",
+        "title": "Destination Snowflake: Parallelize PUT for internal staging",
+        "body": "## Tell us about the problem you're trying to solve\r\nToday when Airbyte writes to snowflake's internal staging that step is single-threaded.  Performance gains could be made by parallelizing that effort.  \r\n\r\n## Describe the solution you\u2019d like\r\nParallelize the PUT stage of writing files to Snowflake's internal staging\r\n\r\n## Describe the alternative you\u2019ve considered or used\r\nWhen writing to external staging for Snowflake we parallelize the COPY commands.  So technically we could leverage an external host, however that adds additional complexity and might not see the possible performance gains of using Snowflake's own internal staging\r\n\r\n## Additional context\r\nNA\r\n\r\n## Are you willing to submit a PR?\r\nNo\r\n",
+        "labels": [
+            {
+                "id": 2235194067,
+                "node_id": "MDU6TGFiZWwyMjM1MTk0MDY3",
+                "url": "https://api.github.com/repos/airbytehq/airbyte/labels/type/enhancement",
+                "name": "type/enhancement",
+                "color": "a2eeef",
+                "default": false,
+                "description": "New feature or request"
+            },
+            {
+                "id": 3592926840,
+                "node_id": "LA_kwDOEN7yYc7WJ7Z4",
+                "url": "https://api.github.com/repos/airbytehq/airbyte/labels/needs-triage",
+                "name": "needs-triage",
+                "color": "E99695",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 3706567913,
+                "node_id": "LA_kwDOEN7yYc7c7bzp",
+                "url": "https://api.github.com/repos/airbytehq/airbyte/labels/connectors/destination/snowflake",
+                "name": "connectors/destination/snowflake",
+                "color": "406C96",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4057702865,
+                "node_id": "LA_kwDOEN7yYc7x26HR",
+                "url": "https://api.github.com/repos/airbytehq/airbyte/labels/autoteam",
+                "name": "autoteam",
+                "color": "ededed",
+                "default": false,
+                "description": null
+            },
+            {
+                "id": 4580658945,
+                "node_id": "LA_kwDOEN7yYc8AAAABEQdPAQ",
+                "url": "https://api.github.com/repos/airbytehq/airbyte/labels/team/destinations",
+                "name": "team/destinations",
+                "color": "bfd4f2",
+                "default": false,
+                "description": "Destinations team's backlog"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-24T13:40:58Z"
+    },
+    {
+        "issues": "https://github.com/externship-sag/RSATeam1/issues/121",
+        "title": "Create a GitHub Repo with details of activities done to add to Resume[Raji]",
+        "body": "- [x]  Create a GitHub Repo to add the activities done and attach the link to Resume.\n- [x]  Attach the Externship certificate and update the resume and send to Aarti. \n- [x]  Attending the Technical Writing Training\n- [ ] Refreshaware to JIRA & GitHub\n",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-03T04:13:02Z"
+    },
+    {
+        "issues": "https://github.com/programminghistorian/jekyll/issues/2711",
+        "title": "publishing map warper translation",
+        "body": "Preparing to publish the translation of [Introduccion a Map Warper](https://programminghistorian.org/es/lecciones/introduccion-map-warper) into English, per ph-submissions ticket [#426](https://github.com/programminghistorian/ph-submissions/issues/426).\r\n\r\n@anisa-hawes I could use some help getting the images to render. The original lesson in ph-submissions has links directly to that Github repo, because of a convention in the original spanish that seems to work best for rendering checklist images. \r\n\r\n@svmelton @rivaquiroga can you both review this pull request once @anisa-hawes and I work out the final markdown issues? It will be good to have both of you give this a look over since this lesson will be the first translation into English, and the new translation involves some adaptation of the original to new data and with new images, \r\n\r\n### Checklist\r\n\r\n- [x] Assign yourself in the \"Assignees\" menu\r\n- [x] Assign at least one individual or team to \"Reviewers\"\r\n  - [x] if the text needs to be translated, assign the relevant language team(s) as \"Reviewers\" and tag both the team as well as the managing edtor in your PR. Please follow the [translation request guidelines](https://github.com/programminghistorian/jekyll/wiki/Requesting-Translation-Guidelines) when writing your PR description\r\n- [x] Add the appropriate \"Label\"\r\n- [ ] [Ensure the status checks pass](https://github.com/programminghistorian/jekyll/wiki/Making-Technical-Contributions#4-check-your-pr-status)\r\n- [ ] [Check the live preview of your PR on Netlify](https://github.com/programminghistorian/jekyll/wiki/Making-Technical-Contributions#5-preview-how-your-pr-looks-when-built-into-html)\r\n- [ ] If this PR closes an open issue, add the phrase `Closes #ISSUENUMBER` to the description above\r\n\r\n*If you are having difficulty fixing build errors, first consult <https://github.com/programminghistorian/jekyll/wiki/Making-Technical-Contributions> carefully, especially [\"Common Build Errors\"](https://github.com/programminghistorian/jekyll/wiki/Making-Technical-Contributions#common-build-errors). Then contact the technical team if you need further help.*\r\n",
+        "labels": [
+            {
+                "id": 531745142,
+                "node_id": "MDU6TGFiZWw1MzE3NDUxNDI=",
+                "url": "https://api.github.com/repos/programminghistorian/jekyll/labels/spanish",
+                "name": "spanish",
+                "color": "c2e0c6",
+                "default": false,
+                "description": null
+            },
+            {
+                "id": 773492660,
+                "node_id": "MDU6TGFiZWw3NzM0OTI2NjA=",
+                "url": "https://api.github.com/repos/programminghistorian/jekyll/labels/translation",
+                "name": "translation",
+                "color": "267b84",
+                "default": false,
+                "description": null
+            },
+            {
+                "id": 944484446,
+                "node_id": "MDU6TGFiZWw5NDQ0ODQ0NDY=",
+                "url": "https://api.github.com/repos/programminghistorian/jekyll/labels/english",
+                "name": "english",
+                "color": "891cc9",
+                "default": false,
+                "description": "matters of interest to English content only"
+            }
+        ],
+        "assignees": 1,
+        "comments": 1,
+        "created_at": "2022-10-25T01:53:24Z"
+    },
+    {
+        "issues": "https://github.com/HyphaApp/hypha-docs/issues/53",
+        "title": "Use a framework/guideline for technical documentation.",
+        "body": "The guideline and approach for organizing and to cover in the documentation:  \r\n\r\nhttps://diataxis.fr/",
+        "labels": [],
+        "assignees": 2,
+        "comments": 3,
+        "created_at": "2022-09-08T09:03:06Z"
+    },
+    {
+        "issues": "https://github.com/civis-vote/civis-api/issues/798",
+        "title": "CIV-679 :books: updating seed file and readme document",
+        "body": "<!-- See https://www.pullrequest.com/blog/writing-a-great-pull-request-description/ for more info -->\r\n<!-- Remove any sections that are not needed before submitting the PR -->\r\n\r\n\r\n## What?\r\n<!-- Explain the changes you\u2019ve made. It doesn\u2019t need to be fancy\r\nand you don\u2019t have to get too technical, yet. Just explicit prose\r\non your net change will typically suffice. -->\r\n\r\n\r\n\r\n## Why?\r\n<!-- Explain both the engineering goal and also some business\r\nobjective that is satisfied or moved along -->\r\n\r\nNew developers find difficult to work in Civis due to old seed files \r\n\r\n## How?\r\n<!-- Use this section to draw attention to the significant design decisions\r\nyou made -->\r\n\r\nrefactored seed files, fabricators\r\nupdated readme files \r\n\r\n## Testing?\r\n<!-- Let the reviewer know how you tested the changes. Showing the\r\nresults of tests you\u2019ve run is also very helpful. Let the reviewer\r\nalso know if some conditions or edge cases were not tested -->\r\n\r\n\r\n\r\n## Screenshots/Recording (optional)\r\n<!-- A simple screenshot of the before and after, or of the current state\r\nvs. your local development view or a recording of the flow which gives better context.-->\r\n\r\n\r\n\r\n## Anything Else?\r\n<!-- You may want to delve into possible architecture changes or\r\ntechnical debt here. Call out challenges, optimizations, etc. -->\r\n\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-19T07:44:05Z"
+    },
+    {
+        "issues": "https://github.com/apache/rocketmq-site/issues/291",
+        "title": "Translation for \"Dledger\" Section in the v4.x & 5.0 Document (CN -> EN)",
+        "body": "The Chinese version of the \"Dledger\" section in the v4.x & v5.0 document has now been finished. However, its English version is still incomplete.\r\n\r\nWe now require someone who knows both Chinese and English and understands the technical terms of Apache RocketMQ to build it. The translation work is not only copy/paste from translation tools but also requires you to have some basic knowledge of Apache RocketMQ and technical writing.",
+        "labels": [
+            {
+                "id": 4558015611,
+                "node_id": "LA_kwDOBJdl5M8AAAABD63Mew",
+                "url": "https://api.github.com/repos/apache/rocketmq-site/labels/hacktoberfest",
+                "name": "hacktoberfest",
+                "color": "171C65",
+                "default": false,
+                "description": "Issue or PR from Hacktoberfest"
+            }
+        ],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-09-29T06:28:56Z"
+    },
+    {
+        "issues": "https://github.com/apache/rocketmq-site/issues/293",
+        "title": "Translation for \"JVM/OS\u914d\u7f6e\" Section in the v4.x & 5.0 Document (CN -> EN)",
+        "body": "The Chinese version of the \"JVM/OS\u914d\u7f6e\" section in the v4.x & v5.0 document has now been finished. However, its English version is still incomplete.\r\n\r\nWe now require someone who knows both Chinese and English and understands the technical terms of Apache RocketMQ to build it. The translation work is not only copy/paste from translation tools but also requires you to have some basic knowledge of Apache RocketMQ and technical writing.\r\n",
+        "labels": [
+            {
+                "id": 4558015611,
+                "node_id": "LA_kwDOBJdl5M8AAAABD63Mew",
+                "url": "https://api.github.com/repos/apache/rocketmq-site/labels/hacktoberfest",
+                "name": "hacktoberfest",
+                "color": "171C65",
+                "default": false,
+                "description": "Issue or PR from Hacktoberfest"
+            }
+        ],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-09-29T06:30:09Z"
+    },
+    {
+        "issues": "https://github.com/apache/rocketmq-site/issues/298",
+        "title": "Translation for \"Github\u63d0\u4ea4PR\" Section in the v4.x & 5.0 Document (CN -> EN)",
+        "body": "The Chinese version of the \"Github\u63d0\u4ea4PR\" section in the v4.x & v5.0 document has now been finished. However, its English version is still incomplete.\r\n\r\nWe now require someone who knows both Chinese and English and understands the technical terms of Apache RocketMQ to build it. The translation work is not only copy/paste from translation tools but also requires you to have some basic knowledge of Apache RocketMQ and technical writing.",
+        "labels": [
+            {
+                "id": 4558015611,
+                "node_id": "LA_kwDOBJdl5M8AAAABD63Mew",
+                "url": "https://api.github.com/repos/apache/rocketmq-site/labels/hacktoberfest",
+                "name": "hacktoberfest",
+                "color": "171C65",
+                "default": false,
+                "description": "Issue or PR from Hacktoberfest"
+            }
+        ],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-09-29T06:33:13Z"
+    },
+    {
+        "issues": "https://github.com/apache/rocketmq-site/issues/296",
+        "title": "Translation for \"\u5982\u4f55\u8d21\u732e\" Section in the v4.x & 5.0 Document (CN -> EN)",
+        "body": "The Chinese version of the \"\u5982\u4f55\u8d21\u732e\" section in the v4.x & v5.0 document has now been finished. However, its English version is still incomplete.\r\n\r\nWe now require someone who knows both Chinese and English and understands the technical terms of Apache RocketMQ to build it. The translation work is not only copy/paste from translation tools but also requires you to have some basic knowledge of Apache RocketMQ and technical writing.",
+        "labels": [
+            {
+                "id": 4558015611,
+                "node_id": "LA_kwDOBJdl5M8AAAABD63Mew",
+                "url": "https://api.github.com/repos/apache/rocketmq-site/labels/hacktoberfest",
+                "name": "hacktoberfest",
+                "color": "171C65",
+                "default": false,
+                "description": "Issue or PR from Hacktoberfest"
+            }
+        ],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-09-29T06:32:02Z"
+    },
+    {
+        "issues": "https://github.com/apache/rocketmq-site/issues/290",
+        "title": "Translation for \"\u57fa\u672c\u6700\u4f73\u5b9e\u8df5\" Section in the v4.x & 5.0 Document (CN -> EN)",
+        "body": "The Chinese version of the \"\u57fa\u672c\u6700\u4f73\u5b9e\u8df5\" section in the v4.x & v5.0 document has now been finished. However, its English version is still incomplete.\r\n\r\nWe now require someone who knows both Chinese and English and understands the technical terms of Apache RocketMQ to build it. The translation work is not only copy/paste from translation tools but also requires you to have some basic knowledge of Apache RocketMQ and technical writing.",
+        "labels": [
+            {
+                "id": 4558015611,
+                "node_id": "LA_kwDOBJdl5M8AAAABD63Mew",
+                "url": "https://api.github.com/repos/apache/rocketmq-site/labels/hacktoberfest",
+                "name": "hacktoberfest",
+                "color": "171C65",
+                "default": false,
+                "description": "Issue or PR from Hacktoberfest"
+            }
+        ],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-09-29T06:28:02Z"
+    },
+    {
+        "issues": "https://github.com/apache/rocketmq-site/issues/297",
+        "title": "Translation for \"\u4ee3\u7801\u6307\u5357\" Section in the v4.x & 5.0 Document (CN -> EN)",
+        "body": "The Chinese version of the \"\u4ee3\u7801\u6307\u5357\" section in the v4.x & v5.0 document has now been finished. However, its English version is still incomplete.\r\n\r\nWe now require someone who knows both Chinese and English and understands the technical terms of Apache RocketMQ to build it. The translation work is not only copy/paste from translation tools but also requires you to have some basic knowledge of Apache RocketMQ and technical writing.\r\n",
+        "labels": [
+            {
+                "id": 4558015611,
+                "node_id": "LA_kwDOBJdl5M8AAAABD63Mew",
+                "url": "https://api.github.com/repos/apache/rocketmq-site/labels/hacktoberfest",
+                "name": "hacktoberfest",
+                "color": "171C65",
+                "default": false,
+                "description": "Issue or PR from Hacktoberfest"
+            }
+        ],
+        "assignees": 0,
+        "comments": 2,
+        "created_at": "2022-09-29T06:32:34Z"
+    }
+]

@@ -1,0 +1,1859 @@
+[
+    {
+        "issues": "https://github.com/Savitha11111/git-github/issues/1",
+        "title": "Devops",
+        "body": "Roadmap![20221013_092246_0002.png](https://user-images.githubusercontent.com/48026978/195496873-2809a176-450e-44c0-8aca-4c7a5b420e02.png)",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-13T04:05:43Z"
+    },
+    {
+        "issues": "https://github.com/Cielo12019/solverpage/issues/1",
+        "title": "Devops item",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-21T18:33:39Z"
+    },
+    {
+        "issues": "https://github.com/Revolab-UAB/DevOps/issues/78",
+        "title": "DevOps logs",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-22T19:41:34Z"
+    },
+    {
+        "issues": "https://github.com/dedicatted/DedicattedZen/issues/101",
+        "title": "DevOps Consultiing",
+        "body": "AC:\n\n- [ ] Rename DevOps assessment & strategy to Cloud assessment & strategy\n- [ ] Link header to topics on page:\n                DevOps Consulting -> DevOps Consulting\n                Cloud migration consulting -> Cloud assessment & strategy\n                Cloud infrastructure and design -> Cloud consulting\n                Kubernetes and Docker consulting -> Kubernetes and Docker consulting\n                Security Audit -> DevOps & security\n- [ ] Make page map sticky (to a header)\n![image.png](https://images.zenhubusercontent.com/602d05b97403e46872b5c017/678549df-d5ae-4fa1-8ce9-213185b25cdf)\n- [ ] Change button.\n![image.png](https://images.zenhubusercontent.com/602d05b97403e46872b5c017/ae7bccf6-e949-4ed1-86ff-ecffa7f60764)\n- [ ] Add image \n![image.png](https://images.zenhubusercontent.com/602d05b97403e46872b5c017/58d4a305-fb6b-486f-827e-0b0969590220)\n\nhttps://dev.dedicatted.com/cloud-native-development/",
+        "labels": [
+            {
+                "id": 4219089607,
+                "node_id": "LA_kwDOHetsdM77ejLH",
+                "url": "https://api.github.com/repos/dedicatted/DedicattedZen/labels/bug",
+                "name": "bug",
+                "color": "d73a4a",
+                "default": true,
+                "description": "Something isn't working"
+            },
+            {
+                "id": 4224225333,
+                "node_id": "LA_kwDOHetsdM77yJA1",
+                "url": "https://api.github.com/repos/dedicatted/DedicattedZen/labels/Frontend",
+                "name": "Frontend",
+                "color": "1264F4",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-23T20:44:59Z"
+    },
+    {
+        "issues": "https://github.com/14A-D-Ready-team/backend/issues/12",
+        "title": "Further DevOps",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-20T07:28:44Z"
+    },
+    {
+        "issues": "https://github.com/MichaelCade/90DaysOfDevOps/issues/206",
+        "title": "DevOps",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-07T18:24:57Z"
+    },
+    {
+        "issues": "https://github.com/gowthami-int/ci-cd-jenkins/issues/1",
+        "title": "Devops",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-24T10:44:38Z"
+    },
+    {
+        "issues": "https://github.com/tamizhmilton/devops/issues/2",
+        "title": "devops",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-09-25T05:46:10Z"
+    },
+    {
+        "issues": "https://github.com/deimie/t10-spring/issues/22",
+        "title": "DevOps Engineer",
+        "body": "DevOps Engineer\nDescribe the technical systems and processes used to ensure the ability to do continuous updates and integration of software.\n\n- Describe software and programming tools\n    - Identify authoring tools (IDE\u2019s, Docker, GitHub) used\n    - Describe and/or show visuals of interactions and integration of programming languages, protocols, and data within project. For instance, deployed systems of Docker Images, Nginx, DNS hosting the application.\n    - Describe and/or illustrate key Web Applications, APIs, and dependency systems that will be required to complete this system (Diagram).\n- Describe GitHub branch management and sociology used to ensure ability to perform continuous builds and integrations.\n    - GitHub projects\n    - Branching Strategies\n    - Deployment processes and automation\n- Describe how to validate and test the complete system\n- My suggestion is this person helps with Backend development",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-14T17:25:38Z"
+    },
+    {
+        "issues": "https://github.com/StanleyTC/DevOps/issues/2",
+        "title": "devops image",
+        "body": "![13429_ILL_DevOpsLoop](https://user-images.githubusercontent.com/95464654/194360078-8554be83-a0de-42f7-89f3-20fb95d3901d.png)\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-06T15:51:52Z"
+    },
+    {
+        "issues": "https://github.com/Bulvinkoln/GU_3089/issues/62",
+        "title": "DevOps",
+        "body": "\u0421\u043e\u0437\u0434\u0430\u043b\u0430 \u043d\u043e\u0432\u0443\u044e \u0432\u0435\u0442\u043a\u0443 \u0438 \u0434\u043e\u0431\u0430\u0432\u0438\u043b\u0430 \u0444\u0430\u0439\u043b devops.txt",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-14T12:22:12Z"
+    },
+    {
+        "issues": "https://github.com/denctl/devops-handbook/issues/1",
+        "title": "Chapter Content: DevOps 101: What is DevOps",
+        "body": "### Issue Summary\r\n\r\nNeed content for:\r\nChapter Content: DevOps 101: What is DevOps",
+        "labels": [
+            {
+                "id": 4524817331,
+                "node_id": "LA_kwDOH-3P8M8AAAABDbM7sw",
+                "url": "https://api.github.com/repos/denctl/devops-handbook/labels/help%20wanted",
+                "name": "help wanted",
+                "color": "008672",
+                "default": true,
+                "description": "Extra attention is needed"
+            },
+            {
+                "id": 4609815005,
+                "node_id": "LA_kwDOH-3P8M8AAAABEsQx3Q",
+                "url": "https://api.github.com/repos/denctl/devops-handbook/labels/hacktoberfest",
+                "name": "hacktoberfest",
+                "color": "5319E7",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4615517213,
+                "node_id": "LA_kwDOH-3P8M8AAAABExs0HQ",
+                "url": "https://api.github.com/repos/denctl/devops-handbook/labels/lowcode",
+                "name": "lowcode",
+                "color": "C5DEF5",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4615517590,
+                "node_id": "LA_kwDOH-3P8M8AAAABExs1lg",
+                "url": "https://api.github.com/repos/denctl/devops-handbook/labels/nocode",
+                "name": "nocode",
+                "color": "BFD4F2",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 6,
+        "created_at": "2022-10-03T16:21:51Z"
+    },
+    {
+        "issues": "https://github.com/denctl/devops-handbook/issues/2",
+        "title": "Chapter Content: DevOps 102: DevOps lifecycle, the DevOps mindset, and the DevOps principles",
+        "body": "### Issue Summary\r\n\r\nNeed content for:\r\nDevOps 102: DevOps lifecycle, the DevOps mindset, and the DevOps principles\r\n",
+        "labels": [
+            {
+                "id": 4524817331,
+                "node_id": "LA_kwDOH-3P8M8AAAABDbM7sw",
+                "url": "https://api.github.com/repos/denctl/devops-handbook/labels/help%20wanted",
+                "name": "help wanted",
+                "color": "008672",
+                "default": true,
+                "description": "Extra attention is needed"
+            },
+            {
+                "id": 4609815005,
+                "node_id": "LA_kwDOH-3P8M8AAAABEsQx3Q",
+                "url": "https://api.github.com/repos/denctl/devops-handbook/labels/hacktoberfest",
+                "name": "hacktoberfest",
+                "color": "5319E7",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4615517213,
+                "node_id": "LA_kwDOH-3P8M8AAAABExs0HQ",
+                "url": "https://api.github.com/repos/denctl/devops-handbook/labels/lowcode",
+                "name": "lowcode",
+                "color": "C5DEF5",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4615517590,
+                "node_id": "LA_kwDOH-3P8M8AAAABExs1lg",
+                "url": "https://api.github.com/repos/denctl/devops-handbook/labels/nocode",
+                "name": "nocode",
+                "color": "BFD4F2",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 2,
+        "created_at": "2022-10-03T16:22:56Z"
+    },
+    {
+        "issues": "https://github.com/baddridevi0116/CICD_Java_gradle_application/issues/5",
+        "title": "Devops",
+        "body": "testing the build trigger again",
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-10T04:56:08Z"
+    },
+    {
+        "issues": "https://github.com/NAGA222/CICD-Java-gradle-sonar-nexus-docker-datree-helm-kub/issues/1",
+        "title": "Devops",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-10T12:06:09Z"
+    },
+    {
+        "issues": "https://github.com/MicrosoftDocs/azure-docs/issues/100426",
+        "title": "Include example for Azure Devops",
+        "body": "\r\nPlease include an Azure Devops example\r\n\r\n\r\n---\r\n#### Document Details\r\n\r\n\u26a0 *Do not edit this section. It is required for learn.microsoft.com \u279f GitHub issue linking.*\r\n\r\n* ID: 6e0bddf9-8d20-459b-ed02-3a7520b9fa12\r\n* Version Independent ID: fee8f15e-7567-450a-dc89-7a1c35b37301\r\n* Content: [Create an App Service app using a Terraform template - Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/provision-resource-terraform)\r\n* Content Source: [articles/app-service/provision-resource-terraform.md](https://github.com/MicrosoftDocs/azure-docs/blob/main/articles/app-service/provision-resource-terraform.md)\r\n* Service: **app-service**\r\n* GitHub Login: @seligj95\r\n* Microsoft Alias: **msangapu**",
+        "labels": [
+            {
+                "id": 646533977,
+                "node_id": "MDU6TGFiZWw2NDY1MzM5Nzc=",
+                "url": "https://api.github.com/repos/MicrosoftDocs/azure-docs/labels/app-service/svc",
+                "name": "app-service/svc",
+                "color": "90ee90",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 1404895560,
+                "node_id": "MDU6TGFiZWwxNDA0ODk1NTYw",
+                "url": "https://api.github.com/repos/MicrosoftDocs/azure-docs/labels/Pri2",
+                "name": "Pri2",
+                "color": "ededed",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-25T09:15:23Z"
+    },
+    {
+        "issues": "https://github.com/Pak-Thani/consumer-api/issues/36",
+        "title": "[DevOps] Image Optimization",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-19T12:27:36Z"
+    },
+    {
+        "issues": "https://github.com/kamranahmedse/developer-roadmap/issues/2582",
+        "title": "[Suggestion] DevOps Roadmap",
+        "body": "syncrontation with github gist to keep tracking on every device.",
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-17T21:18:44Z"
+    },
+    {
+        "issues": "https://github.com/GadW6/DevOps_Pro1__DevOps/issues/1",
+        "title": "Create DevOps Repo [DevOps_Pro1__DevOps]",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-08-28T12:57:28Z"
+    },
+    {
+        "issues": "https://github.com/mohantechnology-ec-apps/wallmart/issues/1",
+        "title": "devops-github",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-03T18:05:03Z"
+    },
+    {
+        "issues": "https://github.com/EbookFoundation/free-programming-books/issues/8440",
+        "title": "Add Few DevOps Courses",
+        "body": "There are very few courses added in DevOps section, I want to add some more courses, Assign me for this!",
+        "labels": [
+            {
+                "id": 608871486,
+                "node_id": "MDU6TGFiZWw2MDg4NzE0ODY=",
+                "url": "https://api.github.com/repos/EbookFoundation/free-programming-books/labels/PR%20requested",
+                "name": "PR requested",
+                "color": "5319e7",
+                "default": false,
+                "description": "Issues that can be addressed with a new PR"
+            }
+        ],
+        "assignees": 1,
+        "comments": 3,
+        "created_at": "2022-10-15T20:03:48Z"
+    },
+    {
+        "issues": "https://github.com/osamhack2022-v2/WEB_CLOUD_OmilZomil_NAVYeffect/issues/420",
+        "title": "DB \ub370\uc774\ud130 \ubcf4\uc874\ub418\uac8c devops \uc218\uc815",
+        "body": "host \ud3f4\ub354\uc5d0 mount\r\nimage : \uc774\ubbf8\uc9c0 \ud30c\uc77c, data :  mysql \ub370\uc774\ud130\r\n",
+        "labels": [
+            {
+                "id": 4638197884,
+                "node_id": "LA_kwDOIBGjlM8AAAABFHVIfA",
+                "url": "https://api.github.com/repos/osamhack2022-v2/WEB_CLOUD_OmilZomil_NAVYeffect/labels/CI/CD",
+                "name": "CI/CD",
+                "color": "e99695",
+                "default": false,
+                "description": "CI/CD"
+            }
+        ],
+        "assignees": 1,
+        "comments": 2,
+        "created_at": "2022-10-25T10:25:31Z"
+    },
+    {
+        "issues": "https://github.com/dedicatted/DedicattedZen/issues/103",
+        "title": "Devops as a service Page",
+        "body": "#########################################################################################\nDesigns: https://www.figma.com/file/tWsZ9zMARkuVTb6q4ErG5A/%2F-edit-%2F-3.0.-September-%2F-all-pages-%2F-(Copy)?node-id=125%3A6037\n#########################################################################################\n\nAC:\n- [ ] Add desktop **Devops as a service Page** page.\n- [ ] Add mobile **Devops as a service Page** page.",
+        "labels": [
+            {
+                "id": 4224225333,
+                "node_id": "LA_kwDOHetsdM77yJA1",
+                "url": "https://api.github.com/repos/dedicatted/DedicattedZen/labels/Frontend",
+                "name": "Frontend",
+                "color": "1264F4",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-25T10:14:06Z"
+    },
+    {
+        "issues": "https://github.com/julioarruda/demo-devops-heroes/issues/2",
+        "title": "DevOps Heroes",
+        "body": "hero",
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-09-29T14:32:28Z"
+    },
+    {
+        "issues": "https://github.com/J0shua99SG/SRCH_Globales_UNA_2022/issues/1",
+        "title": "DEVOPS planning first sprint",
+        "body": "Development of planning of the devops team for the first sprint in detail (task, start date, end date and estimated time).\nImportant, all dates are tentative and subject to change",
+        "labels": [
+            {
+                "id": 4470859255,
+                "node_id": "LA_kwDOH5L5Ks8AAAABCnvl9w",
+                "url": "https://api.github.com/repos/J0shua99SG/SRCH_Globales_UNA_2022/labels/documentation",
+                "name": "documentation",
+                "color": "0075ca",
+                "default": true,
+                "description": "Improvements or additions to documentation"
+            }
+        ],
+        "assignees": 3,
+        "comments": 1,
+        "created_at": "2022-10-04T21:58:30Z"
+    },
+    {
+        "issues": "https://github.com/jlenczewska/Real-Estate-App/issues/1",
+        "title": "[DevOps] Configure Automated Deployments",
+        "body": "There are 3 types of branches: feature, development, master. \r\nFor each ticket we are creating branch feature/RE-(ticket number).\r\nFeature branch is created fron develop branch. \r\nWhen feature branch is pushed to the repository validation(check-only) deloyment is running on production org.\r\nWhen branch is ready to review (ticket) is merged to develop branch.\r\nWhen develop branch is merged to master (at the end of the sprint) the actual deplyment is running to production. Each deployment (actual and validation) should have test level runlocaltests. ",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-07T10:52:59Z"
+    },
+    {
+        "issues": "https://github.com/bimser-intern/surveysaurus-pm/issues/141",
+        "title": "[Devops]",
+        "body": "- [ ] Dev ve prod ortamlar\u0131n\u0131n haz\u0131rlanmas\u0131",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-05T04:55:50Z"
+    },
+    {
+        "issues": "https://github.com/GDSC-CEC/HacktoberFest-2022-Blog-Writing/issues/15",
+        "title": "Write a Blog on Devops",
+        "body": "## Write a blog on Devops\r\nIt should contain the brief idea about the DevOps world.\r\n\r\nAlso, use the illustrations while writing the blog",
+        "labels": [
+            {
+                "id": 4608444565,
+                "node_id": "LA_kwDOIHqxCc8AAAABEq9IlQ",
+                "url": "https://api.github.com/repos/GDSC-CEC/HacktoberFest-2022-Blog-Writing/labels/good%20first%20issue",
+                "name": "good first issue",
+                "color": "7057ff",
+                "default": true,
+                "description": "Good for newcomers"
+            },
+            {
+                "id": 4639090679,
+                "node_id": "LA_kwDOIHqxCc8AAAABFILn9w",
+                "url": "https://api.github.com/repos/GDSC-CEC/HacktoberFest-2022-Blog-Writing/labels/hacktoberfest",
+                "name": "hacktoberfest",
+                "color": "7E468F",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 2,
+        "created_at": "2022-10-19T06:08:04Z"
+    },
+    {
+        "issues": "https://github.com/umgc/fall2022/issues/527",
+        "title": "DevOps - Introduction",
+        "body": null,
+        "labels": [
+            {
+                "id": 4423167959,
+                "node_id": "LA_kwDOH0Kn6c8AAAABB6Qv1w",
+                "url": "https://api.github.com/repos/umgc/fall2022/labels/documentation",
+                "name": "documentation",
+                "color": "0075ca",
+                "default": true,
+                "description": "Improvements or additions to documentation"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-03T18:09:17Z"
+    },
+    {
+        "issues": "https://github.com/BrunoSantos88/Cloud-DevOps-Experience-DIO/issues/1",
+        "title": "Devops Dio",
+        "body": "![Dio devOPs](https://user-images.githubusercontent.com/91704169/191581430-1fa4aa30-61f4-444d-a0b9-ef42fbe746de.png)\r\n",
+        "labels": [],
+        "assignees": 1,
+        "comments": 10,
+        "created_at": "2022-09-21T18:22:17Z"
+    },
+    {
+        "issues": "https://github.com/RG00000/Resume/issues/1",
+        "title": "DevOps",
+        "body": "**\u0412\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u044b\u0435 \u0422\u0417 DevOps**",
+        "labels": [],
+        "assignees": 0,
+        "comments": 7,
+        "created_at": "2022-09-01T10:40:36Z"
+    },
+    {
+        "issues": "https://github.com/Madhuri-Challa/Initial-Class/issues/5",
+        "title": "Devops",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-28T14:17:39Z"
+    },
+    {
+        "issues": "https://github.com/BCDevOps/developer-experience/issues/3117",
+        "title": "Mobile Devops Hiring",
+        "body": "**Describe the issue**\nI'll need to review the code challenge and be part of the interview panel\n\n**Definition of done**\n- [x] review code assignments\n- [x] interview",
+        "labels": [
+            {
+                "id": 2769891218,
+                "node_id": "MDU6TGFiZWwyNzY5ODkxMjE4",
+                "url": "https://api.github.com/repos/BCDevOps/developer-experience/labels/ops%20and%20shared%20services",
+                "name": "ops and shared services",
+                "color": "c2e0c6",
+                "default": false,
+                "description": "This label is to mark tasks and Sprint Goals for Platform Ops and Shared Services workstream"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-04T17:42:21Z"
+    },
+    {
+        "issues": "https://github.com/sourcegraph/sourcegraph/issues/42094",
+        "title": "\u2b50 Q3B1: ScaleTesting \u2013 DevOps",
+        "body": "<!-- OPTIONAL LABEL: team/devx --> \r\n\r\n### Plan\r\n\r\nThis tracking issue captures DevOps related issues for the ScaleTesting Bet. \r\n\r\n### Tracked issues\r\n\r\n<!-- BEGIN WORK -->\n<!-- BEGIN ASSIGNEE:  -->\n@unassigned\n\n- [ ] https://github.com/sourcegraph/sourcegraph/issues/42068 \n  - [ ] https://github.com/sourcegraph/sourcegraph/issues/43042 \n  - [ ] https://github.com/sourcegraph/sourcegraph/issues/43045 \n- [ ] https://github.com/sourcegraph/sourcegraph/issues/42069 \n  - [ ] https://github.com/sourcegraph/sourcegraph/issues/43045 \n<!-- END ASSIGNEE -->\n\n<!-- BEGIN ASSIGNEE: burmudar -->\n@burmudar\n\n- [ ] https://github.com/sourcegraph/sourcegraph/issues/42068 \n  - [ ] https://github.com/sourcegraph/sourcegraph/issues/42095 \n  - [x] (\ud83c\udfc1 18 days ago) https://github.com/sourcegraph/sourcegraph/issues/42097 \n  - [x] (\ud83c\udfc1 5 days ago) https://github.com/sourcegraph/sourcegraph/issues/42102 \n\nCompleted\n- [x] (\ud83c\udfc1 18 days ago) https://github.com/sourcegraph/sourcegraph/issues/42097 \n- [x] (\ud83c\udfc1 5 days ago) https://github.com/sourcegraph/sourcegraph/issues/42102 \n<!-- END ASSIGNEE -->\n\n<!-- BEGIN ASSIGNEE: davejrt -->\n@davejrt\n\n- [ ] https://github.com/sourcegraph/sourcegraph/issues/42068 \n  - [ ] https://github.com/sourcegraph/sourcegraph/issues/42100 \n  - [x] (\ud83c\udfc1 17 days ago) https://github.com/sourcegraph/sourcegraph/issues/42099 \n\nCompleted\n- [x] (\ud83c\udfc1 17 days ago) https://github.com/sourcegraph/sourcegraph/issues/42099 \n<!-- END ASSIGNEE -->\n\n<!-- BEGIN ASSIGNEE: jhchabran -->\n@jhchabran\n\n- [ ] https://github.com/sourcegraph/sourcegraph/issues/42069 \n  - [x] (\ud83c\udfc1 18 days ago) https://github.com/sourcegraph/sourcegraph/pull/42503 \n\nCompleted\n- [x] (\ud83c\udfc1 18 days ago) https://github.com/sourcegraph/sourcegraph/pull/42503 \n<!-- END ASSIGNEE -->\n\n<!-- BEGIN ASSIGNEE: kalanchan -->\n@kalanchan\n\n- [ ] https://github.com/sourcegraph/sourcegraph/issues/42068 \n  - [ ] https://github.com/sourcegraph/sourcegraph/issues/42096 \n  - [x] (\ud83c\udfc1 1 day ago) https://github.com/sourcegraph/sourcegraph/issues/43032 \n\nCompleted\n- [x] (\ud83c\udfc1 1 day ago) https://github.com/sourcegraph/sourcegraph/issues/43032 \n<!-- END ASSIGNEE -->\n\n<!-- BEGIN ASSIGNEE: kopancek -->\n@kopancek: __1.00d__\n\n- [ ] https://github.com/sourcegraph/sourcegraph/issues/42068  __1.00d__\n  - [x] (\ud83c\udfc1 3 days ago) https://github.com/sourcegraph/sourcegraph/issues/43044  __1.00d__\n- [ ] https://github.com/sourcegraph/sourcegraph/issues/42069  __1.00d__\n  - [x] (\ud83c\udfc1 3 days ago) https://github.com/sourcegraph/sourcegraph/issues/43044  __1.00d__\n\nCompleted: __1.00d__\n- [x] (\ud83c\udfc1 3 days ago) https://github.com/sourcegraph/sourcegraph/issues/43044  __1.00d__\n<!-- END ASSIGNEE -->\n\n<!-- BEGIN ASSIGNEE: miveronese -->\n@miveronese: __1.00d__\n\n- [ ] https://github.com/sourcegraph/sourcegraph/issues/42068  __1.00d__\n  - [x] (\ud83c\udfc1 3 days ago) https://github.com/sourcegraph/sourcegraph/issues/43044  __1.00d__\n- [ ] https://github.com/sourcegraph/sourcegraph/issues/42069  __1.00d__\n  - [x] (\ud83c\udfc1 3 days ago) https://github.com/sourcegraph/sourcegraph/issues/43044  __1.00d__\n\nCompleted: __1.00d__\n- [x] (\ud83c\udfc1 3 days ago) https://github.com/sourcegraph/sourcegraph/issues/43044  __1.00d__\n<!-- END ASSIGNEE -->\n\n<!-- BEGIN ASSIGNEE: mucles -->\n@mucles\n\n- [ ] https://github.com/sourcegraph/sourcegraph/issues/42068 \n  - [x] (\ud83c\udfc1 1 day ago) https://github.com/sourcegraph/sourcegraph/issues/43032 \n\nCompleted\n- [x] (\ud83c\udfc1 1 day ago) https://github.com/sourcegraph/sourcegraph/issues/43032 \n<!-- END ASSIGNEE -->\n\n<!-- BEGIN ASSIGNEE: sanderginn -->\n@sanderginn: __1.00d__\n\n- [ ] https://github.com/sourcegraph/sourcegraph/issues/42068  __1.00d__\n  - [ ] https://github.com/sourcegraph/sourcegraph/issues/42559 \n  - [x] (\ud83c\udfc1 3 days ago) https://github.com/sourcegraph/sourcegraph/issues/43044  __1.00d__\n- [ ] https://github.com/sourcegraph/sourcegraph/issues/42069  __1.00d__\n  - [x] (\ud83c\udfc1 3 days ago) https://github.com/sourcegraph/sourcegraph/issues/43044  __1.00d__\n\nCompleted: __1.00d__\n- [x] (\ud83c\udfc1 3 days ago) https://github.com/sourcegraph/sourcegraph/issues/43044  __1.00d__\n<!-- END ASSIGNEE -->\n<!-- END WORK -->\r\n\r\n\r\n",
+        "labels": [
+            {
+                "id": 1793554167,
+                "node_id": "MDU6TGFiZWwxNzkzNTU0MTY3",
+                "url": "https://api.github.com/repos/sourcegraph/sourcegraph/labels/tracking",
+                "name": "tracking",
+                "color": "a7eff2",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 3369193104,
+                "node_id": "MDU6TGFiZWwzMzY5MTkzMTA0",
+                "url": "https://api.github.com/repos/sourcegraph/sourcegraph/labels/team/devx",
+                "name": "team/devx",
+                "color": "E18BE9",
+                "default": false,
+                "description": "Dev Experience team"
+            },
+            {
+                "id": 4577862051,
+                "node_id": "LA_kwDOAnYEBM8AAAABENyhow",
+                "url": "https://api.github.com/repos/sourcegraph/sourcegraph/labels/devx/q3b1/scaletesting",
+                "name": "devx/q3b1/scaletesting",
+                "color": "C05EC8",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4578642367,
+                "node_id": "LA_kwDOAnYEBM8AAAABEOiJvw",
+                "url": "https://api.github.com/repos/sourcegraph/sourcegraph/labels/devx/q3b1/scaletesting/devops",
+                "name": "devx/q3b1/scaletesting/devops",
+                "color": "2F3746",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 2,
+        "created_at": "2022-09-26T14:13:38Z"
+    },
+    {
+        "issues": "https://github.com/reesealanj/jms-service/issues/16",
+        "title": "DevOps - Create Production Environment",
+        "body": null,
+        "labels": [
+            {
+                "id": 4672441176,
+                "node_id": "LA_kwDOIM7XMM8AAAABFn_LWA",
+                "url": "https://api.github.com/repos/reesealanj/jms-service/labels/devops",
+                "name": "devops",
+                "color": "FCA543",
+                "default": false,
+                "description": "Platform changes/improvements or Environment Updates"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-15T14:49:42Z"
+    },
+    {
+        "issues": "https://github.com/reesealanj/jms-service/issues/15",
+        "title": "DevOps - Create Staging Environment",
+        "body": null,
+        "labels": [
+            {
+                "id": 4672441176,
+                "node_id": "LA_kwDOIM7XMM8AAAABFn_LWA",
+                "url": "https://api.github.com/repos/reesealanj/jms-service/labels/devops",
+                "name": "devops",
+                "color": "FCA543",
+                "default": false,
+                "description": "Platform changes/improvements or Environment Updates"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-15T14:49:36Z"
+    },
+    {
+        "issues": "https://github.com/Sunbird-cQube/community/issues/535",
+        "title": "Ensure DevOps best practices",
+        "body": "\n1. Naming convention should be maintained with proper comments\n2. Maintain one configuration file instead of different config files",
+        "labels": [
+            {
+                "id": 3430562980,
+                "node_id": "LA_kwDOGA89MM7Mejyk",
+                "url": "https://api.github.com/repos/Sunbird-cQube/community/labels/Backlog",
+                "name": "Backlog",
+                "color": "5319e7",
+                "default": false,
+                "description": "Proposed Enhancement"
+            },
+            {
+                "id": 4628869965,
+                "node_id": "LA_kwDOGA89MM8AAAABE-bzTQ",
+                "url": "https://api.github.com/repos/Sunbird-cQube/community/labels/Size-%20Small",
+                "name": "Size- Small",
+                "color": "BFDADC",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4628877217,
+                "node_id": "LA_kwDOGA89MM8AAAABE-cPoQ",
+                "url": "https://api.github.com/repos/Sunbird-cQube/community/labels/Tech-Priority-P1",
+                "name": "Tech-Priority-P1",
+                "color": "C2E0C6",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4649367298,
+                "node_id": "LA_kwDOGA89MM8AAAABFR-3Ag",
+                "url": "https://api.github.com/repos/Sunbird-cQube/community/labels/DevOps",
+                "name": "DevOps",
+                "color": "5319E7",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4649459010,
+                "node_id": "LA_kwDOGA89MM8AAAABFSEdQg",
+                "url": "https://api.github.com/repos/Sunbird-cQube/community/labels/Dev%20Ready",
+                "name": "Dev Ready",
+                "color": "8FAFD8",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-12T06:05:24Z"
+    },
+    {
+        "issues": "https://github.com/thipokch/method/issues/2",
+        "title": "\u2699\ufe0f DevOps",
+        "body": "### CI - Continuous Integration\r\n- [x] #8 \r\n- [x] #9\r\n- [ ] #10\r\n\r\n### CD - Continuous Delivery\r\n- [x] #4\r\n- [x] #5\r\n- [x] #6\r\n- [ ] #7",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-08-15T00:49:21Z"
+    },
+    {
+        "issues": "https://github.com/calvinh99/mangastyle/issues/31",
+        "title": "Setup Devops",
+        "body": "- add testing (docker compose on localhost should work for now)\r\n- add automatic deployment\r\n- add logging - I want my services to store their logs in some cloud service that I can easily do full search and other forms of monitoring like if any twitter updates fail or if the production site displays nothing (to nginx service, to cronjob, to app service)\r\n- add some unit tests (especially for fetching new tweets and UI)",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-21T15:01:28Z"
+    },
+    {
+        "issues": "https://github.com/Ayush7614/Documentation-Khazana/issues/7",
+        "title": "Added DevOps Documentation ",
+        "body": "\r\nAdded Artificial Intelligence Documentation,\r\nFull Roadmap of Frontend\r\nDon`t Copy Paste from Google and Blogs, You can Take it for Reference only, Modified it, and Start Contributing\r\n\r\n",
+        "labels": [
+            {
+                "id": 4612101271,
+                "node_id": "LA_kwDOIICx8s8AAAABEucUlw",
+                "url": "https://api.github.com/repos/Ayush7614/Documentation-Khazana/labels/hacktoberfest2022",
+                "name": "hacktoberfest2022",
+                "color": "3CF50B",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4612102066,
+                "node_id": "LA_kwDOIICx8s8AAAABEucXsg",
+                "url": "https://api.github.com/repos/Ayush7614/Documentation-Khazana/labels/hacktoberfest-accepted",
+                "name": "hacktoberfest-accepted",
+                "color": "09E8C0",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4612102607,
+                "node_id": "LA_kwDOIICx8s8AAAABEucZzw",
+                "url": "https://api.github.com/repos/Ayush7614/Documentation-Khazana/labels/hacktoberfest",
+                "name": "hacktoberfest",
+                "color": "BBDDF6",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 2,
+        "comments": 3,
+        "created_at": "2022-10-04T06:44:32Z"
+    },
+    {
+        "issues": "https://github.com/i3-training/DevSecOps-Training/issues/1",
+        "title": "Understand DevOps",
+        "body": null,
+        "labels": [
+            {
+                "id": 4495833364,
+                "node_id": "LA_kwDOH6zKkM8AAAABC_j5FA",
+                "url": "https://api.github.com/repos/i3-training/DevSecOps-Training/labels/Intro-devops",
+                "name": "Intro-devops",
+                "color": "006b75",
+                "default": false,
+                "description": "Introduction DevOps and DevSecOps"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-04T08:32:04Z"
+    },
+    {
+        "issues": "https://github.com/devssa/onde-codar-em-salvador/issues/3190",
+        "title": "[Remoto] DevOps na Coodesh",
+        "body": "## Descri\u00e7\u00e3o da vaga: \r\nEsta \u00e9 uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se voc\u00ea ter\u00e1 acesso as informa\u00e7\u00f5es completas sobre a empresa e benef\u00edcios.\r\n\r\n\r\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/vagas/devops-210225527?utm_source=github&utm_medium=devssa-onde-codar-em-salvador&modal=open) com o pop-up personalizado de candidatura. \ud83d\udc4b\r\n<p>A <strong>OZ Technology</strong> est\u00e1 em busca de <strong><ins>DevOps Engineer</ins></strong> para compor seu time!</p>\r\n<p>A OZ Technology garante efici\u00eancia, controle da informa\u00e7\u00e3o e aumento da lucratividade, facilitando a vida de empresas em diversos setores com profissionalismo t\u00e9cnico, know-how e pronto atendimento em qualquer hor\u00e1rio. Nossa cren\u00e7a enxerga o crescimento e o avan\u00e7o como consequ\u00eancia de um ambiente integrado, acess\u00edvel e open-source, visando transformar isso em realidade para todos.</p>\r\n<p><strong>Responsabilidades:</strong></p>\r\n<ul>\r\n<li>Desenvolver e implantar aplica\u00e7\u00f5es;</li>\r\n<li>Apoiar o desenvolvimento na implanta\u00e7\u00e3o de processos e ferramentas de CI/CD;</li>\r\n<li>Administrar e dar suporte em ambientes cloud, on premise e de desenvolvimento;</li>\r\n<li>Implementar, gerenciar e aprimorar ferramentas de testes automatizados;</li>\r\n<li>Analisar, diagnosticar e solucionar problemas e incidentes em sistemas em produ\u00e7\u00e3o;</li>\r\n<li>Monitorar o desempenho das aplica\u00e7\u00f5es;</li>\r\n<li>Manter e evoluir ferramentas de monitoramento de alertas;</li>\r\n<li>Manter e disseminar a cultura DevOps na empresa.</li>\r\n</ul>\r\n<p></p>\r\n\r\n## OZ Technology: \r\n <p>A OZ Technology garante efici\u00eancia, controle da informa\u00e7\u00e3o e aumento da lucratividade, facilitando a vida de empresas em diversos setores com profissionalismo t\u00e9cnico, know-how e pronto atendimento em qualquer hor\u00e1rio. Desde sua concep\u00e7\u00e3o, a empresa cresceu de forma constante, baseando-se em decis\u00f5es voltadas \u00e0 sua miss\u00e3o central: a satisfa\u00e7\u00e3o total dos nossos clientes, apresentando sempre solu\u00e7\u00f5es de alta tecnologia, \u00faltima gera\u00e7\u00e3o, baixo custo e que colaborem para o desenvolvimento tecnol\u00f3gico em \u00e2mbito nacional e mundial. Nossa cren\u00e7a enxerga o crescimento e o avan\u00e7o como consequ\u00eancia de um ambiente integrado, acess\u00edvel e open-source, visando transformar isso em realidade para todos.</p>\r\n</p>\r\n\r\n ## Habilidades: \r\n - GCP \r\n- Docker \r\n- GIT \r\n- Linux\r\n## Local: \r\n 100% Remoto\r\n## Requisitos: \r\n - Conhecimento em servidores Linux e seus servi\u00e7os; \r\n- Conhecimento em CI/CD pipelines; \r\n- Conhecimento em Docker, Kubernetes e conteineriza\u00e7\u00e3o; \r\n- Conhecimento em Git; \r\n- Experi\u00eancia em servidores on premise; \r\n- Ambientes de cloud p\u00fablica (GCP); \r\n- Ciclo de desenvolvimento de Software; \r\n- Protocolos de rede, TCP/IP, DNS e firewall; \r\n- Conhecimento em alguma ferramenta agile/kanban.\r\n## Diferenciais: \r\n - Conhecimento em Saltstack ou alguma ferramenta de configura\u00e7\u00e3o; \r\n- Conhecimento em Python; \r\n- Conhecimento em SQL.\r\n## Benef\u00edcios: \r\n - Welcome Kit + Homeoffice Kit; \r\n- Gympass (academia); \r\n- Wellness Coach (mente, corpo e sono); \r\n- C\u00edngulo (sa\u00fade mental); \r\n- Assist\u00eancia M\u00e9dica; \r\n- Assist\u00eancia Odontol\u00f3gica; \r\n- Seguro de Vida; \r\n- Custeio de capacita\u00e7\u00f5es e certifica\u00e7\u00f5es (conforme pol\u00edtica interna).\r\n## Como se candidatar:\r\nCandidatar-se exclusivamente atrav\u00e9s da plataforma Coodesh no link a seguir: [DevOps na OZ Technology](https://coodesh.com/vagas/devops-210225527?utm_source=github&utm_medium=devssa-onde-codar-em-salvador&modal=open)\r\n\r\n\r\nAp\u00f3s candidatar-se via plataforma Coodesh e validar o seu login, voc\u00ea poder\u00e1 acompanhar e receber todas as intera\u00e7\u00f5es do processo por l\u00e1. Utilize a op\u00e7\u00e3o **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso far\u00e1 com que a pessoa **Recruiter** respons\u00e1vel pelo processo na empresa receba a notifica\u00e7\u00e3o.\r\n## Labels\r\n#### Aloca\u00e7\u00e3o\r\nRemoto\r\n#### Categoria\r\nDevOps",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-10T14:39:31Z"
+    },
+    {
+        "issues": "https://github.com/CangaceirosDevels/vagas_de_emprego/issues/2014",
+        "title": "[Remoto] DevOps na Coodesh",
+        "body": "## Descri\u00e7\u00e3o da vaga: \r\nEsta \u00e9 uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se voc\u00ea ter\u00e1 acesso as informa\u00e7\u00f5es completas sobre a empresa e benef\u00edcios.\r\n\r\n\r\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/vagas/devops-210225527?utm_source=github&utm_medium=CangaceirosDevels-vagas_de_emprego&modal=open) com o pop-up personalizado de candidatura. \ud83d\udc4b\r\n<p>A <strong>OZ Technology</strong> est\u00e1 em busca de <strong><ins>DevOps Engineer</ins></strong> para compor seu time!</p>\r\n<p>A OZ Technology garante efici\u00eancia, controle da informa\u00e7\u00e3o e aumento da lucratividade, facilitando a vida de empresas em diversos setores com profissionalismo t\u00e9cnico, know-how e pronto atendimento em qualquer hor\u00e1rio. Nossa cren\u00e7a enxerga o crescimento e o avan\u00e7o como consequ\u00eancia de um ambiente integrado, acess\u00edvel e open-source, visando transformar isso em realidade para todos.</p>\r\n<p><strong>Responsabilidades:</strong></p>\r\n<ul>\r\n<li>Desenvolver e implantar aplica\u00e7\u00f5es;</li>\r\n<li>Apoiar o desenvolvimento na implanta\u00e7\u00e3o de processos e ferramentas de CI/CD;</li>\r\n<li>Administrar e dar suporte em ambientes cloud, on premise e de desenvolvimento;</li>\r\n<li>Implementar, gerenciar e aprimorar ferramentas de testes automatizados;</li>\r\n<li>Analisar, diagnosticar e solucionar problemas e incidentes em sistemas em produ\u00e7\u00e3o;</li>\r\n<li>Monitorar o desempenho das aplica\u00e7\u00f5es;</li>\r\n<li>Manter e evoluir ferramentas de monitoramento de alertas;</li>\r\n<li>Manter e disseminar a cultura DevOps na empresa.</li>\r\n</ul>\r\n<p></p>\r\n\r\n## OZ Technology: \r\n <p>A OZ Technology garante efici\u00eancia, controle da informa\u00e7\u00e3o e aumento da lucratividade, facilitando a vida de empresas em diversos setores com profissionalismo t\u00e9cnico, know-how e pronto atendimento em qualquer hor\u00e1rio. Desde sua concep\u00e7\u00e3o, a empresa cresceu de forma constante, baseando-se em decis\u00f5es voltadas \u00e0 sua miss\u00e3o central: a satisfa\u00e7\u00e3o total dos nossos clientes, apresentando sempre solu\u00e7\u00f5es de alta tecnologia, \u00faltima gera\u00e7\u00e3o, baixo custo e que colaborem para o desenvolvimento tecnol\u00f3gico em \u00e2mbito nacional e mundial. Nossa cren\u00e7a enxerga o crescimento e o avan\u00e7o como consequ\u00eancia de um ambiente integrado, acess\u00edvel e open-source, visando transformar isso em realidade para todos.</p>\r\n</p>\r\n\r\n ## Habilidades: \r\n - GCP \r\n- Docker \r\n- GIT \r\n- Linux\r\n## Local: \r\n 100% Remoto\r\n## Requisitos: \r\n - Conhecimento em servidores Linux e seus servi\u00e7os; \r\n- Conhecimento em CI/CD pipelines; \r\n- Conhecimento em Docker, Kubernetes e conteineriza\u00e7\u00e3o; \r\n- Conhecimento em Git; \r\n- Experi\u00eancia em servidores on premise; \r\n- Ambientes de cloud p\u00fablica (GCP); \r\n- Ciclo de desenvolvimento de Software; \r\n- Protocolos de rede, TCP/IP, DNS e firewall; \r\n- Conhecimento em alguma ferramenta agile/kanban.\r\n## Diferenciais: \r\n - Conhecimento em Saltstack ou alguma ferramenta de configura\u00e7\u00e3o; \r\n- Conhecimento em Python; \r\n- Conhecimento em SQL.\r\n## Benef\u00edcios: \r\n - Welcome Kit + Homeoffice Kit; \r\n- Gympass (academia); \r\n- Wellness Coach (mente, corpo e sono); \r\n- C\u00edngulo (sa\u00fade mental); \r\n- Assist\u00eancia M\u00e9dica; \r\n- Assist\u00eancia Odontol\u00f3gica; \r\n- Seguro de Vida; \r\n- Custeio de capacita\u00e7\u00f5es e certifica\u00e7\u00f5es (conforme pol\u00edtica interna).\r\n## Como se candidatar:\r\nCandidatar-se exclusivamente atrav\u00e9s da plataforma Coodesh no link a seguir: [DevOps na OZ Technology](https://coodesh.com/vagas/devops-210225527?utm_source=github&utm_medium=CangaceirosDevels-vagas_de_emprego&modal=open)\r\n\r\n\r\nAp\u00f3s candidatar-se via plataforma Coodesh e validar o seu login, voc\u00ea poder\u00e1 acompanhar e receber todas as intera\u00e7\u00f5es do processo por l\u00e1. Utilize a op\u00e7\u00e3o **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso far\u00e1 com que a pessoa **Recruiter** respons\u00e1vel pelo processo na empresa receba a notifica\u00e7\u00e3o.\r\n## Labels\r\n#### Aloca\u00e7\u00e3o\r\nRemoto\r\n#### Categoria\r\nDevOps",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-10T14:39:04Z"
+    },
+    {
+        "issues": "https://github.com/debrajhyper/Topic_Learning_Resources/issues/201",
+        "title": "Add DevOps resources",
+        "body": "### Description\r\nAdd resources for learning DevOps\r\n\r\n### Reference\r\n[Comm classroom DevOps roadmap](https://www.commclassroom.org/devops-roadmap)\r\nFeel free to add other resources as well",
+        "labels": [
+            {
+                "id": 3411883308,
+                "node_id": "LA_kwDOGJwVI87LXTUs",
+                "url": "https://api.github.com/repos/debrajhyper/Topic_Learning_Resources/labels/good%20first%20issue",
+                "name": "good first issue",
+                "color": "7057ff",
+                "default": true,
+                "description": "Good for newcomers"
+            },
+            {
+                "id": 4600475192,
+                "node_id": "LA_kwDOGJwVI88AAAABEjWuOA",
+                "url": "https://api.github.com/repos/debrajhyper/Topic_Learning_Resources/labels/Hacktoberfest2022",
+                "name": "Hacktoberfest2022",
+                "color": "40ddff",
+                "default": false,
+                "description": "Only for Hacktoberfest 2022"
+            }
+        ],
+        "assignees": 0,
+        "comments": 2,
+        "created_at": "2022-10-11T21:58:41Z"
+    },
+    {
+        "issues": "https://github.com/manipsg89/Training/issues/1",
+        "title": "devops commit",
+        "body": "I need this file to execute",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-22T11:34:47Z"
+    },
+    {
+        "issues": "https://github.com/devfsa/vagas/issues/1899",
+        "title": "[Remoto] Senior DevOps Engineer",
+        "body": "Conhece o movimento Builders?\r\nVoc\u00ea pode pensar que n\u00e3o nos conhece, mas provavelmente j\u00e1 teve contato com uma das nossas diversas solu\u00e7\u00f5es criadas especialmente para grandes clientes nacionais de diferentes segmentos. Essas solu\u00e7\u00f5es s\u00e3o criadas pelas m\u00e3os de pessoas empreendedoras, apaixonadas por inova\u00e7\u00e3o que geram valor impactando pessoas e neg\u00f3cios.\r\nAo ingressar na Builders, voc\u00ea far\u00e1 parte de um movimento que idealiza, cocria e conecta pessoas. Desfrutando de um ambiente colaborativo que propicia oportunidade de crescimento exponencial. Se voc\u00ea curte desafios, aqui \u00e9 o seu lugar!\r\n\r\nComo ser\u00e1 seu dia-a-dia?\r\nNo Papel do Engenheiro DevOps, a pessoa Builder trabalhar\u00e1 em equipes multidisciplinares no qual ir\u00e1 fornecer solu\u00e7\u00f5es robustas e escal\u00e1veis, aplicando pr\u00e1tica de devops que v\u00e3o gerar velocidade, qualidade e seguran\u00e7a no dia-a-dia da esteira de Value Stream. Mostrando o melhor caminho para nossos clientes sem conflito de interesses, buscando tomar decis\u00f5es que focam no longo prazo, resultando em otimiza\u00e7\u00e3o e efici\u00eancia para os times de produto, conseguindo assim manter um ciclo de inova\u00e7\u00e3o \u00e1gil e saud\u00e1vel.\r\n\r\nPara cumprir esse desafio, voc\u00ea precisa dominar:\r\nContinuous Delivery & Continuous Integration\r\nCloud Computing (e.g AWS, GCP, Azure);\r\nExperi\u00eancia infrastructure as code (e.g  Terraform, Cloud Formation)\r\nContainers & Microservices Environments (e.g Openshift, Kubernetes);\r\nFerramenta de monitoramentos e observability (e.g Prometheus, NewRelic, Dynatrace, Datadog);\r\nNetworking and tooling on Linux environments;\r\nExperi\u00eancia com SO Linux;\r\nScripts Language (e.g Python, Bash);\r\nGit;\r\nHabilidade de an\u00e1lise e troubleshoot\r\n\r\nSer\u00e1 um diferencial se voc\u00ea tiver tamb\u00e9m:\r\nAdministra\u00e7\u00e3o Databases (e.g MongoDB, MySQL);\r\nObservability com Datadog\r\nConhecimento pr\u00e1tico de Agile e/ou outras metodologias de desenvolvimento de Software.\r\n\r\nO que n\u00f3s oferecemos?\r\nAtua\u00e7\u00e3o 100% remota;\r\nParceria com coworking em S\u00e3o Paulo;\r\nWebnars semanais para expandir ainda mais seu conhecimento;\r\nParticipar de um processo \u00fanico de gera\u00e7\u00e3o de valor;\r\nContribuir na cria\u00e7\u00e3o de m\u00e9todos disruptivos;\r\nPossibilidade de profit share de novos neg\u00f3cios.\r\n\r\nFicou com curiosidade de saber mais? #S\u00f3Bora se inscrever?",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-11T15:29:18Z"
+    },
+    {
+        "issues": "https://github.com/esmero/archipelago-documentation/issues/134",
+        "title": "Guide for devops/bash scripts",
+        "body": "# What?\r\nIn addition to the scripts that are used in the deployment guides, i.e.:\r\n| archipelago-deployment | archipelago-deployment-live |\r\n| --- | --- |\r\n| [esmero/archipelago-deployment/scripts/archipelago/deploy.sh](https://github.com/esmero/archipelago-deployment/blob/1.0.0/scripts/archipelago/deploy.sh) | [esmero/archipelago-deployment-live/drupal/scripts/archipelago/deploy.sh](https://github.com/esmero/archipelago-deployment-live/blob/1.0.0/drupal/scripts/archipelago/deploy.sh) |\r\n| [esmero/archipelago-deployment/scripts/archipelago/setup.sh](https://github.com/esmero/archipelago-deployment/blob/1.0.0/scripts/archipelago/setup.sh) | [esmero/archipelago-deployment-live/drupal/scripts/archipelago/setup.sh](https://github.com/esmero/archipelago-deployment-live/blob/1.0.0/drupal/scripts/archipelago/setup.sh) |\r\n| [esmero/archipelago-deployment/scripts/archipelago/update.sh](https://github.com/esmero/archipelago-deployment/blob/1.0.0/scripts/archipelago/update.sh) | [esmero/archipelago-deployment-live/drupal/scripts/archipelago/update.sh](https://github.com/esmero/archipelago-deployment-live/blob/1.0.0/drupal/scripts/archipelago/update.sh) |\r\n| [esmero/archipelago-deployment/scripts/archipelago/update_deployed.sh](https://github.com/esmero/archipelago-deployment/blob/1.0.0/scripts/archipelago/update_deployed.sh) | [esmero/archipelago-deployment-live/drupal/scripts/archipelago/update_deployed.sh](https://github.com/esmero/archipelago-deployment-live/blob/1.0.0/drupal/scripts/archipelago/update_deployed.sh) |\r\n\r\nthere are two utility scripts that could use some documentation:\r\n| archipelago-deployment | archipelago-deployment-live |\r\n| --- | --- |\r\n| [esmero/archipelago-deployment/scripts/archipelago/devops/auto_deploy.sh](https://github.com/esmero/archipelago-deployment/blob/1.0.0/scripts/archipelago/devops/auto_deploy.sh) | N/A |\r\n| N/A | esmero/archipelago-deployment-live#82 |\r\n\r\nThe `auto_deploy.sh` script has a README, but a comprehensive overview  of all the scripts and details on each might be helpful. The `import_export.sh` script hasn't been merged yet and still needs improvements and possibly more testing.",
+        "labels": [],
+        "assignees": 1,
+        "comments": 1,
+        "created_at": "2022-10-17T14:29:56Z"
+    },
+    {
+        "issues": "https://github.com/cburgmer/buildviz/issues/62",
+        "title": "Feature: Azure DevOps Support",
+        "body": "I would like to request support for Azure DevOps with this tool.",
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-19T16:04:18Z"
+    },
+    {
+        "issues": "https://github.com/codechavez/release-the-notes/issues/1",
+        "title": "On prem Devops Server",
+        "body": "WIll this work with an on premises instance of devops server? Having the following issue:\r\n\r\nStarting: Release the Notes\r\n==============================================================================\r\nTask         : Release the Notes\r\nDescription  : Creates release notes from build commits in pipeline\r\nVersion      : 0.1.90\r\nAuthor       : CodeChavez\r\nHelp         : [Learn more about this task](https://aka.ms/AA3aeiw)\r\n==============================================================================\r\nBuildId: 8555\r\nUsing Project SIMS\r\n##[error]Error: \ufeff{\"$id\":\"1\",\"innerException\":null,\"message\":\"TF400813: Resource not available for anonymous access. Client authentication required.\",\"typeName\":\"Microsoft.TeamFoundation.Framework.Server.UnauthorizedRequestException, Microsoft.TeamFoundation.Framework.Server\",\"typeKey\":\"UnauthorizedRequestException\",\"errorCode\":0,\"eventId\":3000}\r\nFinishing: Release the Notes\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-05T15:06:28Z"
+    },
+    {
+        "issues": "https://github.com/khusnulin/databases/issues/1",
+        "title": "Update knowledge about Azure DevOps",
+        "body": "https://learn.microsoft.com/en-us/training/modules/plan-agile-github-projects-azure-boards/2-introduction-to-project-boards",
+        "labels": [],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-24T11:55:42Z"
+    },
+    {
+        "issues": "https://github.com/kyma-project/test-infra/issues/6223",
+        "title": "POC using Piper + Azure DevOps",
+        "body": "**Description**\r\n\r\n...\r\n\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-24T07:37:09Z"
+    },
+    {
+        "issues": "https://github.com/devfsa/vagas/issues/1883",
+        "title": "[Remoto] DevOps na Coodesh",
+        "body": "## Descri\u00e7\u00e3o da vaga: \r\nEsta \u00e9 uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se voc\u00ea ter\u00e1 acesso as informa\u00e7\u00f5es completas sobre a empresa e benef\u00edcios.\r\n\r\n\r\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/vagas/devops-210225527?utm_source=github&utm_medium=devfsa-vagas&modal=open) com o pop-up personalizado de candidatura. \ud83d\udc4b\r\n<p>A <strong>OZ Technology</strong> est\u00e1 em busca de <strong><ins>DevOps Engineer</ins></strong> para compor seu time!</p>\r\n<p>A OZ Technology garante efici\u00eancia, controle da informa\u00e7\u00e3o e aumento da lucratividade, facilitando a vida de empresas em diversos setores com profissionalismo t\u00e9cnico, know-how e pronto atendimento em qualquer hor\u00e1rio. Nossa cren\u00e7a enxerga o crescimento e o avan\u00e7o como consequ\u00eancia de um ambiente integrado, acess\u00edvel e open-source, visando transformar isso em realidade para todos.</p>\r\n<p><strong>Responsabilidades:</strong></p>\r\n<ul>\r\n<li>Desenvolver e implantar aplica\u00e7\u00f5es;</li>\r\n<li>Apoiar o desenvolvimento na implanta\u00e7\u00e3o de processos e ferramentas de CI/CD;</li>\r\n<li>Administrar e dar suporte em ambientes cloud, on premise e de desenvolvimento;</li>\r\n<li>Implementar, gerenciar e aprimorar ferramentas de testes automatizados;</li>\r\n<li>Analisar, diagnosticar e solucionar problemas e incidentes em sistemas em produ\u00e7\u00e3o;</li>\r\n<li>Monitorar o desempenho das aplica\u00e7\u00f5es;</li>\r\n<li>Manter e evoluir ferramentas de monitoramento de alertas;</li>\r\n<li>Manter e disseminar a cultura DevOps na empresa.</li>\r\n</ul>\r\n<p></p>\r\n\r\n## OZ Technology: \r\n <p>A OZ Technology garante efici\u00eancia, controle da informa\u00e7\u00e3o e aumento da lucratividade, facilitando a vida de empresas em diversos setores com profissionalismo t\u00e9cnico, know-how e pronto atendimento em qualquer hor\u00e1rio. Desde sua concep\u00e7\u00e3o, a empresa cresceu de forma constante, baseando-se em decis\u00f5es voltadas \u00e0 sua miss\u00e3o central: a satisfa\u00e7\u00e3o total dos nossos clientes, apresentando sempre solu\u00e7\u00f5es de alta tecnologia, \u00faltima gera\u00e7\u00e3o, baixo custo e que colaborem para o desenvolvimento tecnol\u00f3gico em \u00e2mbito nacional e mundial. Nossa cren\u00e7a enxerga o crescimento e o avan\u00e7o como consequ\u00eancia de um ambiente integrado, acess\u00edvel e open-source, visando transformar isso em realidade para todos.</p>\r\n</p>\r\n\r\n ## Habilidades: \r\n - GCP \r\n- Docker \r\n- GIT \r\n- Linux\r\n## Local: \r\n 100% Remoto\r\n## Requisitos: \r\n - Conhecimento em servidores Linux e seus servi\u00e7os; \r\n- Conhecimento em CI/CD pipelines; \r\n- Conhecimento em Docker, Kubernetes e conteineriza\u00e7\u00e3o; \r\n- Conhecimento em Git; \r\n- Experi\u00eancia em servidores on premise; \r\n- Ambientes de cloud p\u00fablica (GCP); \r\n- Ciclo de desenvolvimento de Software; \r\n- Protocolos de rede, TCP/IP, DNS e firewall; \r\n- Conhecimento em alguma ferramenta agile/kanban.\r\n## Diferenciais: \r\n - Conhecimento em Saltstack ou alguma ferramenta de configura\u00e7\u00e3o; \r\n- Conhecimento em Python; \r\n- Conhecimento em SQL.\r\n## Benef\u00edcios: \r\n - Welcome Kit + Homeoffice Kit; \r\n- Gympass (academia); \r\n- Wellness Coach (mente, corpo e sono); \r\n- C\u00edngulo (sa\u00fade mental); \r\n- Assist\u00eancia M\u00e9dica; \r\n- Assist\u00eancia Odontol\u00f3gica; \r\n- Seguro de Vida; \r\n- Custeio de capacita\u00e7\u00f5es e certifica\u00e7\u00f5es (conforme pol\u00edtica interna).\r\n## Como se candidatar:\r\nCandidatar-se exclusivamente atrav\u00e9s da plataforma Coodesh no link a seguir: [DevOps na OZ Technology](https://coodesh.com/vagas/devops-210225527?utm_source=github&utm_medium=devfsa-vagas&modal=open)\r\n\r\n\r\nAp\u00f3s candidatar-se via plataforma Coodesh e validar o seu login, voc\u00ea poder\u00e1 acompanhar e receber todas as intera\u00e7\u00f5es do processo por l\u00e1. Utilize a op\u00e7\u00e3o **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso far\u00e1 com que a pessoa **Recruiter** respons\u00e1vel pelo processo na empresa receba a notifica\u00e7\u00e3o.\r\n## Labels\r\n#### Aloca\u00e7\u00e3o\r\nRemoto\r\n#### Categoria\r\nDevOps",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-10T14:39:24Z"
+    },
+    {
+        "issues": "https://github.com/nocodb/nocodb/issues/3527",
+        "title": "DevOps issues",
+        "body": "- [x] incorrect tag (now it tags one of the combined tags of target one)\r\n- [ ] local sdk path\r\n- [ ] contributor PR release \r\n  - npm ERR! need auth You need to authorize this machine using `npm adduser` \r\n  - Findings: \r\n    - we may use `pull_request_target` but it needs a way to check if it's a draft or not\r\n    - security concerns ",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-07T07:15:30Z"
+    },
+    {
+        "issues": "https://github.com/Bulvinkoln/GU_3089/issues/46",
+        "title": "Devops",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-27T13:43:50Z"
+    },
+    {
+        "issues": "https://github.com/programadores-br/geral/issues/1798",
+        "title": "[Remoto] DevOps na Coodesh",
+        "body": "## Descri\u00e7\u00e3o da vaga: \r\nEsta \u00e9 uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se voc\u00ea ter\u00e1 acesso as informa\u00e7\u00f5es completas sobre a empresa e benef\u00edcios.\r\n\r\n\r\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/vagas/devops-210225527?utm_source=github&utm_medium=programadores-br-geral&modal=open) com o pop-up personalizado de candidatura. \ud83d\udc4b\r\n<p>A <strong>OZ Technology</strong> est\u00e1 em busca de <strong><ins>DevOps Engineer</ins></strong> para compor seu time!</p>\r\n<p>A OZ Technology garante efici\u00eancia, controle da informa\u00e7\u00e3o e aumento da lucratividade, facilitando a vida de empresas em diversos setores com profissionalismo t\u00e9cnico, know-how e pronto atendimento em qualquer hor\u00e1rio. Nossa cren\u00e7a enxerga o crescimento e o avan\u00e7o como consequ\u00eancia de um ambiente integrado, acess\u00edvel e open-source, visando transformar isso em realidade para todos.</p>\r\n<p><strong>Responsabilidades:</strong></p>\r\n<ul>\r\n<li>Desenvolver e implantar aplica\u00e7\u00f5es;</li>\r\n<li>Apoiar o desenvolvimento na implanta\u00e7\u00e3o de processos e ferramentas de CI/CD;</li>\r\n<li>Administrar e dar suporte em ambientes cloud, on premise e de desenvolvimento;</li>\r\n<li>Implementar, gerenciar e aprimorar ferramentas de testes automatizados;</li>\r\n<li>Analisar, diagnosticar e solucionar problemas e incidentes em sistemas em produ\u00e7\u00e3o;</li>\r\n<li>Monitorar o desempenho das aplica\u00e7\u00f5es;</li>\r\n<li>Manter e evoluir ferramentas de monitoramento de alertas;</li>\r\n<li>Manter e disseminar a cultura DevOps na empresa.</li>\r\n</ul>\r\n<p></p>\r\n\r\n## OZ Technology: \r\n <p>A OZ Technology garante efici\u00eancia, controle da informa\u00e7\u00e3o e aumento da lucratividade, facilitando a vida de empresas em diversos setores com profissionalismo t\u00e9cnico, know-how e pronto atendimento em qualquer hor\u00e1rio. Desde sua concep\u00e7\u00e3o, a empresa cresceu de forma constante, baseando-se em decis\u00f5es voltadas \u00e0 sua miss\u00e3o central: a satisfa\u00e7\u00e3o total dos nossos clientes, apresentando sempre solu\u00e7\u00f5es de alta tecnologia, \u00faltima gera\u00e7\u00e3o, baixo custo e que colaborem para o desenvolvimento tecnol\u00f3gico em \u00e2mbito nacional e mundial. Nossa cren\u00e7a enxerga o crescimento e o avan\u00e7o como consequ\u00eancia de um ambiente integrado, acess\u00edvel e open-source, visando transformar isso em realidade para todos.</p>\r\n</p>\r\n\r\n ## Habilidades: \r\n - GCP \r\n- Docker \r\n- GIT \r\n- Linux\r\n## Local: \r\n 100% Remoto\r\n## Requisitos: \r\n - Conhecimento em servidores Linux e seus servi\u00e7os; \r\n- Conhecimento em CI/CD pipelines; \r\n- Conhecimento em Docker, Kubernetes e conteineriza\u00e7\u00e3o; \r\n- Conhecimento em Git; \r\n- Experi\u00eancia em servidores on premise; \r\n- Ambientes de cloud p\u00fablica (GCP); \r\n- Ciclo de desenvolvimento de Software; \r\n- Protocolos de rede, TCP/IP, DNS e firewall; \r\n- Conhecimento em alguma ferramenta agile/kanban.\r\n## Diferenciais: \r\n - Conhecimento em Saltstack ou alguma ferramenta de configura\u00e7\u00e3o; \r\n- Conhecimento em Python; \r\n- Conhecimento em SQL.\r\n## Benef\u00edcios: \r\n - Welcome Kit + Homeoffice Kit; \r\n- Gympass (academia); \r\n- Wellness Coach (mente, corpo e sono); \r\n- C\u00edngulo (sa\u00fade mental); \r\n- Assist\u00eancia M\u00e9dica; \r\n- Assist\u00eancia Odontol\u00f3gica; \r\n- Seguro de Vida; \r\n- Custeio de capacita\u00e7\u00f5es e certifica\u00e7\u00f5es (conforme pol\u00edtica interna).\r\n## Como se candidatar:\r\nCandidatar-se exclusivamente atrav\u00e9s da plataforma Coodesh no link a seguir: [DevOps na OZ Technology](https://coodesh.com/vagas/devops-210225527?utm_source=github&utm_medium=programadores-br-geral&modal=open)\r\n\r\n\r\nAp\u00f3s candidatar-se via plataforma Coodesh e validar o seu login, voc\u00ea poder\u00e1 acompanhar e receber todas as intera\u00e7\u00f5es do processo por l\u00e1. Utilize a op\u00e7\u00e3o **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso far\u00e1 com que a pessoa **Recruiter** respons\u00e1vel pelo processo na empresa receba a notifica\u00e7\u00e3o.\r\n## Labels\r\n#### Aloca\u00e7\u00e3o\r\nRemoto\r\n#### Categoria\r\nDevOps",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-10T14:39:14Z"
+    },
+    {
+        "issues": "https://github.com/devssa/onde-codar-em-salvador/issues/3167",
+        "title": "[Remoto] DevOps na Coodesh",
+        "body": "## Descri\u00e7\u00e3o da vaga: \r\nEsta \u00e9 uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se voc\u00ea ter\u00e1 acesso as informa\u00e7\u00f5es completas sobre a empresa e benef\u00edcios.\r\n\r\n\r\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/vagas/devops-142901455?utm_source=github&utm_medium=devssa-onde-codar-em-salvador&modal=open) com o pop-up personalizado de candidatura. \ud83d\udc4b\r\n<p>A <strong>Samba</strong> est\u00e1 buscando <strong><ins>DevOps</ins></strong> para compor seu time!</p>\r\n<p>Procuramos algu\u00e9m com prop\u00f3sito forte e que esteja disposta a trabalhar em ambiente colaborativo e din\u00e2mico, pronto para crescer profissionalmente junto com a nossa equipe fora da curva! A Samba gosta de fazer a diferen\u00e7a sempre e nosso time \u00e9 o respons\u00e1vel para que isto aconte\u00e7a! Por isso, a gente espera que voc\u00ea seja uma pessoa apaixonada por tecnologia, assim com a gente! Todas as nossas vagas tamb\u00e9m se aplicam a pessoas com defici\u00eancia, ent\u00e3o fique \u00e0 vontade para se candidatar!</p>\r\n<p><strong>Responsabilidades:</strong></p>\r\n<ul>\r\n<li>Criar, implantar e manter a infraestrutura de aplica\u00e7\u00f5es utilizando infraestrutura como c\u00f3digo (IaC);</li>\r\n<li>Monitoramento e manuten\u00e7\u00e3o de aplica\u00e7\u00f5es de alta disponibilidade e escalabilidade;</li>\r\n<li>Configura\u00e7\u00e3o de servidores Linux;</li>\r\n<li>Configura\u00e7\u00e3o de web servers (Nginx, apache);</li>\r\n<li>Estimar o custo de infraestrutura de aplica\u00e7\u00f5es;</li>\r\n<li>Propor solu\u00e7\u00f5es e melhorias de infraestrutura;</li>\r\n<li>Otimizar a utiliza\u00e7\u00e3o de recursos Cloud;</li>\r\n<li>Automatiza\u00e7\u00e3o de processos.</li>\r\n</ul>\r\n<p></p>\r\n\r\n## Samba Tech: \r\n <p>A Sambatech \u00e9 uma das empresas mais inovadoras do mundo, segundo a Fast Company, e \u00e9 refer\u00eancia no mercado de v\u00eddeos online. Nossa empresa garante infraestrutura de alta qualidade para venda, distribui\u00e7\u00e3o, gerenciamento e armazenamento de v\u00eddeos e ajuda pessoas e empresas a terem mais sucesso, independentemente do seu objetivo.</p>\r\n<p>Com suas solu\u00e7\u00f5es, a Samba atende diferentes tipos de necessidades relacionadas aos conte\u00fados audiovisuais e possui uma equipe totalmente focada em assegurar que nossos clientes tenham acesso ao que h\u00e1 de melhor em tecnologia para v\u00eddeos online.&nbsp;&nbsp;&nbsp;</p><a href='https://coodesh.com/empresas/samba-tech'>Veja mais no site</a>\r\n\r\n ## Habilidades: \r\n - AWS \r\n- Terraform \r\n- Docker\r\n## Local: \r\n 100% Remoto\r\n## Requisitos: \r\n - Conhecimento em AWS; \r\n- Conhecimento em infraestrutura como c\u00f3digo, preferencialmente Terraform; \r\n- Gerenciamento de pipeline CI/CD; \r\n- Container de aplica\u00e7\u00e3o (Docker); \r\n- Scripts bash ou alguma linguagem de programa\u00e7\u00e3o (Python/Java/Node); \r\n- Controle de vers\u00e3o (Git).\r\n## Diferenciais: \r\n - Kubernetes Engine; \r\n- Arquitetura Serverless; \r\n- Protocolo de Streaming.\r\n\r\n## Como se candidatar:\r\nCandidatar-se exclusivamente atrav\u00e9s da plataforma Coodesh no link a seguir: [DevOps na Samba Tech](https://coodesh.com/vagas/devops-142901455?utm_source=github&utm_medium=devssa-onde-codar-em-salvador&modal=open)\r\n\r\n\r\nAp\u00f3s candidatar-se via plataforma Coodesh e validar o seu login, voc\u00ea poder\u00e1 acompanhar e receber todas as intera\u00e7\u00f5es do processo por l\u00e1. Utilize a op\u00e7\u00e3o **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso far\u00e1 com que a pessoa **Recruiter** respons\u00e1vel pelo processo na empresa receba a notifica\u00e7\u00e3o.\r\n## Labels\r\n#### Aloca\u00e7\u00e3o\r\nRemoto\r\n#### Regime\r\nCLT\r\n#### Categoria\r\nDevOps",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-06T14:56:47Z"
+    },
+    {
+        "issues": "https://github.com/DevOps-Brazil/Vagas/issues/338",
+        "title": "[Remoto] DevOps na Coodesh",
+        "body": "## Descri\u00e7\u00e3o da vaga: \r\nEsta \u00e9 uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se voc\u00ea ter\u00e1 acesso as informa\u00e7\u00f5es completas sobre a empresa e benef\u00edcios.\r\n\r\n\r\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/vagas/devops-142901455?utm_source=github&utm_medium=DevOps-Brazil-Vagas&modal=open) com o pop-up personalizado de candidatura. \ud83d\udc4b\r\n<p>A <strong>Samba</strong> est\u00e1 buscando <strong><ins>DevOps</ins></strong> para compor seu time!</p>\r\n<p>Procuramos algu\u00e9m com prop\u00f3sito forte e que esteja disposta a trabalhar em ambiente colaborativo e din\u00e2mico, pronto para crescer profissionalmente junto com a nossa equipe fora da curva! A Samba gosta de fazer a diferen\u00e7a sempre e nosso time \u00e9 o respons\u00e1vel para que isto aconte\u00e7a! Por isso, a gente espera que voc\u00ea seja uma pessoa apaixonada por tecnologia, assim com a gente! Todas as nossas vagas tamb\u00e9m se aplicam a pessoas com defici\u00eancia, ent\u00e3o fique \u00e0 vontade para se candidatar!</p>\r\n<p><strong>Responsabilidades:</strong></p>\r\n<ul>\r\n<li>Criar, implantar e manter a infraestrutura de aplica\u00e7\u00f5es utilizando infraestrutura como c\u00f3digo (IaC);</li>\r\n<li>Monitoramento e manuten\u00e7\u00e3o de aplica\u00e7\u00f5es de alta disponibilidade e escalabilidade;</li>\r\n<li>Configura\u00e7\u00e3o de servidores Linux;</li>\r\n<li>Configura\u00e7\u00e3o de web servers (Nginx, apache);</li>\r\n<li>Estimar o custo de infraestrutura de aplica\u00e7\u00f5es;</li>\r\n<li>Propor solu\u00e7\u00f5es e melhorias de infraestrutura;</li>\r\n<li>Otimizar a utiliza\u00e7\u00e3o de recursos Cloud;</li>\r\n<li>Automatiza\u00e7\u00e3o de processos.</li>\r\n</ul>\r\n<p></p>\r\n\r\n## Samba Tech: \r\n <p>A Sambatech \u00e9 uma das empresas mais inovadoras do mundo, segundo a Fast Company, e \u00e9 refer\u00eancia no mercado de v\u00eddeos online. Nossa empresa garante infraestrutura de alta qualidade para venda, distribui\u00e7\u00e3o, gerenciamento e armazenamento de v\u00eddeos e ajuda pessoas e empresas a terem mais sucesso, independentemente do seu objetivo.</p>\r\n<p>Com suas solu\u00e7\u00f5es, a Samba atende diferentes tipos de necessidades relacionadas aos conte\u00fados audiovisuais e possui uma equipe totalmente focada em assegurar que nossos clientes tenham acesso ao que h\u00e1 de melhor em tecnologia para v\u00eddeos online.&nbsp;&nbsp;&nbsp;</p><a href='https://coodesh.com/empresas/samba-tech'>Veja mais no site</a>\r\n\r\n ## Habilidades: \r\n - AWS \r\n- Terraform \r\n- Docker\r\n## Local: \r\n 100% Remoto\r\n## Requisitos: \r\n - Conhecimento em AWS; \r\n- Conhecimento em infraestrutura como c\u00f3digo, preferencialmente Terraform; \r\n- Gerenciamento de pipeline CI/CD; \r\n- Container de aplica\u00e7\u00e3o (Docker); \r\n- Scripts bash ou alguma linguagem de programa\u00e7\u00e3o (Python/Java/Node); \r\n- Controle de vers\u00e3o (Git).\r\n## Diferenciais: \r\n - Kubernetes Engine; \r\n- Arquitetura Serverless; \r\n- Protocolo de Streaming.\r\n\r\n## Como se candidatar:\r\nCandidatar-se exclusivamente atrav\u00e9s da plataforma Coodesh no link a seguir: [DevOps na Samba Tech](https://coodesh.com/vagas/devops-142901455?utm_source=github&utm_medium=DevOps-Brazil-Vagas&modal=open)\r\n\r\n\r\nAp\u00f3s candidatar-se via plataforma Coodesh e validar o seu login, voc\u00ea poder\u00e1 acompanhar e receber todas as intera\u00e7\u00f5es do processo por l\u00e1. Utilize a op\u00e7\u00e3o **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso far\u00e1 com que a pessoa **Recruiter** respons\u00e1vel pelo processo na empresa receba a notifica\u00e7\u00e3o.\r\n## Labels\r\n#### Aloca\u00e7\u00e3o\r\nRemoto\r\n#### Regime\r\nCLT\r\n#### Categoria\r\nDevOps",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-06T14:56:26Z"
+    },
+    {
+        "issues": "https://github.com/CangaceirosDevels/vagas_de_emprego/issues/1989",
+        "title": "[Remoto] DevOps na Coodesh",
+        "body": "## Descri\u00e7\u00e3o da vaga: \r\nEsta \u00e9 uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se voc\u00ea ter\u00e1 acesso as informa\u00e7\u00f5es completas sobre a empresa e benef\u00edcios.\r\n\r\n\r\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/vagas/devops-142901455?utm_source=github&utm_medium=CangaceirosDevels-vagas_de_emprego&modal=open) com o pop-up personalizado de candidatura. \ud83d\udc4b\r\n<p>A <strong>Samba</strong> est\u00e1 buscando <strong><ins>DevOps</ins></strong> para compor seu time!</p>\r\n<p>Procuramos algu\u00e9m com prop\u00f3sito forte e que esteja disposta a trabalhar em ambiente colaborativo e din\u00e2mico, pronto para crescer profissionalmente junto com a nossa equipe fora da curva! A Samba gosta de fazer a diferen\u00e7a sempre e nosso time \u00e9 o respons\u00e1vel para que isto aconte\u00e7a! Por isso, a gente espera que voc\u00ea seja uma pessoa apaixonada por tecnologia, assim com a gente! Todas as nossas vagas tamb\u00e9m se aplicam a pessoas com defici\u00eancia, ent\u00e3o fique \u00e0 vontade para se candidatar!</p>\r\n<p><strong>Responsabilidades:</strong></p>\r\n<ul>\r\n<li>Criar, implantar e manter a infraestrutura de aplica\u00e7\u00f5es utilizando infraestrutura como c\u00f3digo (IaC);</li>\r\n<li>Monitoramento e manuten\u00e7\u00e3o de aplica\u00e7\u00f5es de alta disponibilidade e escalabilidade;</li>\r\n<li>Configura\u00e7\u00e3o de servidores Linux;</li>\r\n<li>Configura\u00e7\u00e3o de web servers (Nginx, apache);</li>\r\n<li>Estimar o custo de infraestrutura de aplica\u00e7\u00f5es;</li>\r\n<li>Propor solu\u00e7\u00f5es e melhorias de infraestrutura;</li>\r\n<li>Otimizar a utiliza\u00e7\u00e3o de recursos Cloud;</li>\r\n<li>Automatiza\u00e7\u00e3o de processos.</li>\r\n</ul>\r\n<p></p>\r\n\r\n## Samba Tech: \r\n <p>A Sambatech \u00e9 uma das empresas mais inovadoras do mundo, segundo a Fast Company, e \u00e9 refer\u00eancia no mercado de v\u00eddeos online. Nossa empresa garante infraestrutura de alta qualidade para venda, distribui\u00e7\u00e3o, gerenciamento e armazenamento de v\u00eddeos e ajuda pessoas e empresas a terem mais sucesso, independentemente do seu objetivo.</p>\r\n<p>Com suas solu\u00e7\u00f5es, a Samba atende diferentes tipos de necessidades relacionadas aos conte\u00fados audiovisuais e possui uma equipe totalmente focada em assegurar que nossos clientes tenham acesso ao que h\u00e1 de melhor em tecnologia para v\u00eddeos online.&nbsp;&nbsp;&nbsp;</p><a href='https://coodesh.com/empresas/samba-tech'>Veja mais no site</a>\r\n\r\n ## Habilidades: \r\n - AWS \r\n- Terraform \r\n- Docker\r\n## Local: \r\n 100% Remoto\r\n## Requisitos: \r\n - Conhecimento em AWS; \r\n- Conhecimento em infraestrutura como c\u00f3digo, preferencialmente Terraform; \r\n- Gerenciamento de pipeline CI/CD; \r\n- Container de aplica\u00e7\u00e3o (Docker); \r\n- Scripts bash ou alguma linguagem de programa\u00e7\u00e3o (Python/Java/Node); \r\n- Controle de vers\u00e3o (Git).\r\n## Diferenciais: \r\n - Kubernetes Engine; \r\n- Arquitetura Serverless; \r\n- Protocolo de Streaming.\r\n\r\n## Como se candidatar:\r\nCandidatar-se exclusivamente atrav\u00e9s da plataforma Coodesh no link a seguir: [DevOps na Samba Tech](https://coodesh.com/vagas/devops-142901455?utm_source=github&utm_medium=CangaceirosDevels-vagas_de_emprego&modal=open)\r\n\r\n\r\nAp\u00f3s candidatar-se via plataforma Coodesh e validar o seu login, voc\u00ea poder\u00e1 acompanhar e receber todas as intera\u00e7\u00f5es do processo por l\u00e1. Utilize a op\u00e7\u00e3o **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso far\u00e1 com que a pessoa **Recruiter** respons\u00e1vel pelo processo na empresa receba a notifica\u00e7\u00e3o.\r\n## Labels\r\n#### Aloca\u00e7\u00e3o\r\nRemoto\r\n#### Regime\r\nCLT\r\n#### Categoria\r\nDevOps",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-06T14:56:15Z"
+    },
+    {
+        "issues": "https://github.com/nagapravarthan/EmployeeWage-using-OOPS/issues/3",
+        "title": "devops",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-08-12T07:41:06Z"
+    },
+    {
+        "issues": "https://github.com/DerekJi/ngtetris/issues/24",
+        "title": "DevOps & Github Actions",
+        "body": "* Able to run test & lint upon each push/pull request in the pipeline(s)\r\n* Locally, prevent push if any test case failed or any linting errors\r\n* Locally, prevent push if the code coverage is under the expected",
+        "labels": [
+            {
+                "id": 4581400614,
+                "node_id": "LA_kwDOIE0h_s8AAAABERKgJg",
+                "url": "https://api.github.com/repos/DerekJi/ngtetris/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-06T05:34:42Z"
+    },
+    {
+        "issues": "https://github.com/devssa/onde-codar-em-salvador/issues/3232",
+        "title": "[Remoto] DEVOPS Engineer na Coodesh",
+        "body": "## Descri\u00e7\u00e3o da vaga: \r\nEsta \u00e9 uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se voc\u00ea ter\u00e1 acesso as informa\u00e7\u00f5es completas sobre a empresa e benef\u00edcios.\r\n\r\n\r\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/vagas/devops-engineer-124423536?utm_source=github&utm_medium=devssa-onde-codar-em-salvador&modal=open) com o pop-up personalizado de candidatura. \ud83d\udc4b\r\n<p>A <strong>KLB GROUP BRASIL</strong> est\u00e1 buscando <strong><ins>DEVOPS Engineer</ins></strong> para compor sua equipe!<br><br></p>\r\n<p><strong>Responsabilidades:</strong></p>\r\n<ul>\r\n<li>&nbsp;Implementar ferramentas de desenvolvimento, testes, automa\u00e7\u00e3o e infraestrutura de TI;</li>\r\n<li>Monitorar o processo durante o ciclo de vida e sua ader\u00eancia, atualizar ou criar novos processos para melhoria.</li>\r\n</ul>\r\n<p></p>\r\n\r\n## KLB GROUP BRASIL : \r\n <p>A KLB Group \u00e9 especializada na implementa\u00e7\u00e3o de projetos em empresas p\u00fablicas e privadas. Seja em projetos de desenvolvimento, produ\u00e7\u00e3o ou transforma\u00e7\u00e3o, a KLB Group assegura a implementa\u00e7\u00e3o eficaz, mobilizando rapidamente uma equipe de especialistas de v\u00e1rias fun\u00e7\u00f5es (compras, cadeia de suprimentos, qualidade, engenharia, TI, finan\u00e7as, etc.), com uma combina\u00e7\u00e3o \u00fanica de experi\u00eancia em design, implementa\u00e7\u00e3o e opera\u00e7\u00e3o. A KLB Group tem mais de 500 funcion\u00e1rios na Europa, Am\u00e9rica e \u00c1sia.</p>\r\n</p>\r\n\r\n ## Habilidades: \r\n - DevOps \r\n- Cloud Functions \r\n- Terraform\r\n## Local: \r\n 100% Remoto\r\n## Requisitos: \r\n - Experi\u00eancia com ferramentas de Infra as a Code, como TerraForm, Ansible, CloudFormation; \r\n- Experi\u00eancia com ferramentas de Pipeline CI/CD, como Jenkins, Bamboo, SonarQube, Selenium, Cucumber; \r\n- Ter conhecimento t\u00e9cnico para revisar, verificar, e validar os c\u00f3digos gerados no desenvolvimento do projeto; \r\n- Conhecimento em troubleshooting para identificar problemas e corrigir os bugs nos c\u00f3digos.\r\n\r\n## Benef\u00edcios: \r\n - Seguro Sa\u00fade Bradesco; \r\n- Assist\u00eancia Odontol\u00f3gica Amil 200; \r\n- Seguro de Vida e Acidentes Pessoais Tokio Marine; \r\n- Assist\u00eancia Funeral para agregados; \r\n- Vale-refei\u00e7\u00e3o ou vale alimenta\u00e7\u00e3o (voc\u00ea escolhe o que \u00e9 melhor!): no valor de R$ 600,00 por m\u00eas, com desconto mensal de R$ 1,00 em folha de pagamento; \r\n- Pontos extras para reembolsos: Valor de R$ 120,00 pode ser usado em Pet, internet, cursos, etc; \r\n- Previd\u00eancia Privada: \r\n- PAE (Programa de Apoio ao Empregado); \r\n- Aux\u00edlio creche/bab\u00e1; \r\n- Empr\u00e9stimo consignado; \r\n- Universidade corporativa; \r\n- Parcerias/Conv\u00eanios.\r\n## Como se candidatar:\r\nCandidatar-se exclusivamente atrav\u00e9s da plataforma Coodesh no link a seguir: [DEVOPS Engineer na KLB GROUP BRASIL ](https://coodesh.com/vagas/devops-engineer-124423536?utm_source=github&utm_medium=devssa-onde-codar-em-salvador&modal=open)\r\n\r\n\r\nAp\u00f3s candidatar-se via plataforma Coodesh e validar o seu login, voc\u00ea poder\u00e1 acompanhar e receber todas as intera\u00e7\u00f5es do processo por l\u00e1. Utilize a op\u00e7\u00e3o **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso far\u00e1 com que a pessoa **Recruiter** respons\u00e1vel pelo processo na empresa receba a notifica\u00e7\u00e3o.\r\n## Labels\r\n#### Aloca\u00e7\u00e3o\r\nRemoto\r\n#### Regime\r\nCLT\r\n#### Categoria\r\nDevOps",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T16:35:07Z"
+    },
+    {
+        "issues": "https://github.com/CangaceirosDevels/vagas_de_emprego/issues/2057",
+        "title": "[Remoto] DEVOPS Engineer na Coodesh",
+        "body": "## Descri\u00e7\u00e3o da vaga: \r\nEsta \u00e9 uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se voc\u00ea ter\u00e1 acesso as informa\u00e7\u00f5es completas sobre a empresa e benef\u00edcios.\r\n\r\n\r\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/vagas/devops-engineer-124423536?utm_source=github&utm_medium=CangaceirosDevels-vagas_de_emprego&modal=open) com o pop-up personalizado de candidatura. \ud83d\udc4b\r\n<p>A <strong>KLB GROUP BRASIL</strong> est\u00e1 buscando <strong><ins>DEVOPS Engineer</ins></strong> para compor sua equipe!<br><br></p>\r\n<p><strong>Responsabilidades:</strong></p>\r\n<ul>\r\n<li>&nbsp;Implementar ferramentas de desenvolvimento, testes, automa\u00e7\u00e3o e infraestrutura de TI;</li>\r\n<li>Monitorar o processo durante o ciclo de vida e sua ader\u00eancia, atualizar ou criar novos processos para melhoria.</li>\r\n</ul>\r\n<p></p>\r\n\r\n## KLB GROUP BRASIL : \r\n <p>A KLB Group \u00e9 especializada na implementa\u00e7\u00e3o de projetos em empresas p\u00fablicas e privadas. Seja em projetos de desenvolvimento, produ\u00e7\u00e3o ou transforma\u00e7\u00e3o, a KLB Group assegura a implementa\u00e7\u00e3o eficaz, mobilizando rapidamente uma equipe de especialistas de v\u00e1rias fun\u00e7\u00f5es (compras, cadeia de suprimentos, qualidade, engenharia, TI, finan\u00e7as, etc.), com uma combina\u00e7\u00e3o \u00fanica de experi\u00eancia em design, implementa\u00e7\u00e3o e opera\u00e7\u00e3o. A KLB Group tem mais de 500 funcion\u00e1rios na Europa, Am\u00e9rica e \u00c1sia.</p>\r\n</p>\r\n\r\n ## Habilidades: \r\n - DevOps \r\n- Cloud Functions \r\n- Terraform\r\n## Local: \r\n 100% Remoto\r\n## Requisitos: \r\n - Experi\u00eancia com ferramentas de Infra as a Code, como TerraForm, Ansible, CloudFormation; \r\n- Experi\u00eancia com ferramentas de Pipeline CI/CD, como Jenkins, Bamboo, SonarQube, Selenium, Cucumber; \r\n- Ter conhecimento t\u00e9cnico para revisar, verificar, e validar os c\u00f3digos gerados no desenvolvimento do projeto; \r\n- Conhecimento em troubleshooting para identificar problemas e corrigir os bugs nos c\u00f3digos.\r\n\r\n## Benef\u00edcios: \r\n - Seguro Sa\u00fade Bradesco; \r\n- Assist\u00eancia Odontol\u00f3gica Amil 200; \r\n- Seguro de Vida e Acidentes Pessoais Tokio Marine; \r\n- Assist\u00eancia Funeral para agregados; \r\n- Vale-refei\u00e7\u00e3o ou vale alimenta\u00e7\u00e3o (voc\u00ea escolhe o que \u00e9 melhor!): no valor de R$ 600,00 por m\u00eas, com desconto mensal de R$ 1,00 em folha de pagamento; \r\n- Pontos extras para reembolsos: Valor de R$ 120,00 pode ser usado em Pet, internet, cursos, etc; \r\n- Previd\u00eancia Privada: \r\n- PAE (Programa de Apoio ao Empregado); \r\n- Aux\u00edlio creche/bab\u00e1; \r\n- Empr\u00e9stimo consignado; \r\n- Universidade corporativa; \r\n- Parcerias/Conv\u00eanios.\r\n## Como se candidatar:\r\nCandidatar-se exclusivamente atrav\u00e9s da plataforma Coodesh no link a seguir: [DEVOPS Engineer na KLB GROUP BRASIL ](https://coodesh.com/vagas/devops-engineer-124423536?utm_source=github&utm_medium=CangaceirosDevels-vagas_de_emprego&modal=open)\r\n\r\n\r\nAp\u00f3s candidatar-se via plataforma Coodesh e validar o seu login, voc\u00ea poder\u00e1 acompanhar e receber todas as intera\u00e7\u00f5es do processo por l\u00e1. Utilize a op\u00e7\u00e3o **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso far\u00e1 com que a pessoa **Recruiter** respons\u00e1vel pelo processo na empresa receba a notifica\u00e7\u00e3o.\r\n## Labels\r\n#### Aloca\u00e7\u00e3o\r\nRemoto\r\n#### Regime\r\nCLT\r\n#### Categoria\r\nDevOps",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T16:34:36Z"
+    },
+    {
+        "issues": "https://github.com/DevOps-Brazil/Vagas/issues/343",
+        "title": "[Remoto] DEVOPS Engineer na Coodesh",
+        "body": "## Descri\u00e7\u00e3o da vaga: \r\nEsta \u00e9 uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se voc\u00ea ter\u00e1 acesso as informa\u00e7\u00f5es completas sobre a empresa e benef\u00edcios.\r\n\r\n\r\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/vagas/devops-engineer-124423536?utm_source=github&utm_medium=DevOps-Brazil-Vagas&modal=open) com o pop-up personalizado de candidatura. \ud83d\udc4b\r\n<p>A <strong>KLB GROUP BRASIL</strong> est\u00e1 buscando <strong><ins>DEVOPS Engineer</ins></strong> para compor sua equipe!<br><br></p>\r\n<p><strong>Responsabilidades:</strong></p>\r\n<ul>\r\n<li>&nbsp;Implementar ferramentas de desenvolvimento, testes, automa\u00e7\u00e3o e infraestrutura de TI;</li>\r\n<li>Monitorar o processo durante o ciclo de vida e sua ader\u00eancia, atualizar ou criar novos processos para melhoria.</li>\r\n</ul>\r\n<p></p>\r\n\r\n## KLB GROUP BRASIL : \r\n <p>A KLB Group \u00e9 especializada na implementa\u00e7\u00e3o de projetos em empresas p\u00fablicas e privadas. Seja em projetos de desenvolvimento, produ\u00e7\u00e3o ou transforma\u00e7\u00e3o, a KLB Group assegura a implementa\u00e7\u00e3o eficaz, mobilizando rapidamente uma equipe de especialistas de v\u00e1rias fun\u00e7\u00f5es (compras, cadeia de suprimentos, qualidade, engenharia, TI, finan\u00e7as, etc.), com uma combina\u00e7\u00e3o \u00fanica de experi\u00eancia em design, implementa\u00e7\u00e3o e opera\u00e7\u00e3o. A KLB Group tem mais de 500 funcion\u00e1rios na Europa, Am\u00e9rica e \u00c1sia.</p>\r\n</p>\r\n\r\n ## Habilidades: \r\n - DevOps \r\n- Cloud Functions \r\n- Terraform\r\n## Local: \r\n 100% Remoto\r\n## Requisitos: \r\n - Experi\u00eancia com ferramentas de Infra as a Code, como TerraForm, Ansible, CloudFormation; \r\n- Experi\u00eancia com ferramentas de Pipeline CI/CD, como Jenkins, Bamboo, SonarQube, Selenium, Cucumber; \r\n- Ter conhecimento t\u00e9cnico para revisar, verificar, e validar os c\u00f3digos gerados no desenvolvimento do projeto; \r\n- Conhecimento em troubleshooting para identificar problemas e corrigir os bugs nos c\u00f3digos.\r\n\r\n## Benef\u00edcios: \r\n - Seguro Sa\u00fade Bradesco; \r\n- Assist\u00eancia Odontol\u00f3gica Amil 200; \r\n- Seguro de Vida e Acidentes Pessoais Tokio Marine; \r\n- Assist\u00eancia Funeral para agregados; \r\n- Vale-refei\u00e7\u00e3o ou vale alimenta\u00e7\u00e3o (voc\u00ea escolhe o que \u00e9 melhor!): no valor de R$ 600,00 por m\u00eas, com desconto mensal de R$ 1,00 em folha de pagamento; \r\n- Pontos extras para reembolsos: Valor de R$ 120,00 pode ser usado em Pet, internet, cursos, etc; \r\n- Previd\u00eancia Privada: \r\n- PAE (Programa de Apoio ao Empregado); \r\n- Aux\u00edlio creche/bab\u00e1; \r\n- Empr\u00e9stimo consignado; \r\n- Universidade corporativa; \r\n- Parcerias/Conv\u00eanios.\r\n## Como se candidatar:\r\nCandidatar-se exclusivamente atrav\u00e9s da plataforma Coodesh no link a seguir: [DEVOPS Engineer na KLB GROUP BRASIL ](https://coodesh.com/vagas/devops-engineer-124423536?utm_source=github&utm_medium=DevOps-Brazil-Vagas&modal=open)\r\n\r\n\r\nAp\u00f3s candidatar-se via plataforma Coodesh e validar o seu login, voc\u00ea poder\u00e1 acompanhar e receber todas as intera\u00e7\u00f5es do processo por l\u00e1. Utilize a op\u00e7\u00e3o **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso far\u00e1 com que a pessoa **Recruiter** respons\u00e1vel pelo processo na empresa receba a notifica\u00e7\u00e3o.\r\n## Labels\r\n#### Aloca\u00e7\u00e3o\r\nRemoto\r\n#### Regime\r\nCLT\r\n#### Categoria\r\nDevOps",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T16:34:28Z"
+    },
+    {
+        "issues": "https://github.com/jimmygr4dos/prueba-devops/issues/1",
+        "title": "issue # 1 - prueba Azure DevOps",
+        "body": "esta es una descripci\u00f3n de prueba para una issue de prueba ",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T14:31:39Z"
+    },
+    {
+        "issues": "https://github.com/waleolajumoke/tech365devopsclass/issues/3",
+        "title": "Devops",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-21T22:45:00Z"
+    },
+    {
+        "issues": "https://github.com/devfsa/vagas/issues/1860",
+        "title": "[Remoto] DevOps na Coodesh",
+        "body": "## Descri\u00e7\u00e3o da vaga: \r\nEsta \u00e9 uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se voc\u00ea ter\u00e1 acesso as informa\u00e7\u00f5es completas sobre a empresa e benef\u00edcios.\r\n\r\n\r\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/vagas/devops-142901455?utm_source=github&utm_medium=devfsa-vagas&modal=open) com o pop-up personalizado de candidatura. \ud83d\udc4b\r\n<p>A <strong>Samba</strong> est\u00e1 buscando <strong><ins>DevOps</ins></strong> para compor seu time!</p>\r\n<p>Procuramos algu\u00e9m com prop\u00f3sito forte e que esteja disposta a trabalhar em ambiente colaborativo e din\u00e2mico, pronto para crescer profissionalmente junto com a nossa equipe fora da curva! A Samba gosta de fazer a diferen\u00e7a sempre e nosso time \u00e9 o respons\u00e1vel para que isto aconte\u00e7a! Por isso, a gente espera que voc\u00ea seja uma pessoa apaixonada por tecnologia, assim com a gente! Todas as nossas vagas tamb\u00e9m se aplicam a pessoas com defici\u00eancia, ent\u00e3o fique \u00e0 vontade para se candidatar!</p>\r\n<p><strong>Responsabilidades:</strong></p>\r\n<ul>\r\n<li>Criar, implantar e manter a infraestrutura de aplica\u00e7\u00f5es utilizando infraestrutura como c\u00f3digo (IaC);</li>\r\n<li>Monitoramento e manuten\u00e7\u00e3o de aplica\u00e7\u00f5es de alta disponibilidade e escalabilidade;</li>\r\n<li>Configura\u00e7\u00e3o de servidores Linux;</li>\r\n<li>Configura\u00e7\u00e3o de web servers (Nginx, apache);</li>\r\n<li>Estimar o custo de infraestrutura de aplica\u00e7\u00f5es;</li>\r\n<li>Propor solu\u00e7\u00f5es e melhorias de infraestrutura;</li>\r\n<li>Otimizar a utiliza\u00e7\u00e3o de recursos Cloud;</li>\r\n<li>Automatiza\u00e7\u00e3o de processos.</li>\r\n</ul>\r\n<p></p>\r\n\r\n## Samba Tech: \r\n <p>A Sambatech \u00e9 uma das empresas mais inovadoras do mundo, segundo a Fast Company, e \u00e9 refer\u00eancia no mercado de v\u00eddeos online. Nossa empresa garante infraestrutura de alta qualidade para venda, distribui\u00e7\u00e3o, gerenciamento e armazenamento de v\u00eddeos e ajuda pessoas e empresas a terem mais sucesso, independentemente do seu objetivo.</p>\r\n<p>Com suas solu\u00e7\u00f5es, a Samba atende diferentes tipos de necessidades relacionadas aos conte\u00fados audiovisuais e possui uma equipe totalmente focada em assegurar que nossos clientes tenham acesso ao que h\u00e1 de melhor em tecnologia para v\u00eddeos online.&nbsp;&nbsp;&nbsp;</p><a href='https://coodesh.com/empresas/samba-tech'>Veja mais no site</a>\r\n\r\n ## Habilidades: \r\n - AWS \r\n- Terraform \r\n- Docker\r\n## Local: \r\n 100% Remoto\r\n## Requisitos: \r\n - Conhecimento em AWS; \r\n- Conhecimento em infraestrutura como c\u00f3digo, preferencialmente Terraform; \r\n- Gerenciamento de pipeline CI/CD; \r\n- Container de aplica\u00e7\u00e3o (Docker); \r\n- Scripts bash ou alguma linguagem de programa\u00e7\u00e3o (Python/Java/Node); \r\n- Controle de vers\u00e3o (Git).\r\n## Diferenciais: \r\n - Kubernetes Engine; \r\n- Arquitetura Serverless; \r\n- Protocolo de Streaming.\r\n\r\n## Como se candidatar:\r\nCandidatar-se exclusivamente atrav\u00e9s da plataforma Coodesh no link a seguir: [DevOps na Samba Tech](https://coodesh.com/vagas/devops-142901455?utm_source=github&utm_medium=devfsa-vagas&modal=open)\r\n\r\n\r\nAp\u00f3s candidatar-se via plataforma Coodesh e validar o seu login, voc\u00ea poder\u00e1 acompanhar e receber todas as intera\u00e7\u00f5es do processo por l\u00e1. Utilize a op\u00e7\u00e3o **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso far\u00e1 com que a pessoa **Recruiter** respons\u00e1vel pelo processo na empresa receba a notifica\u00e7\u00e3o.\r\n## Labels\r\n#### Aloca\u00e7\u00e3o\r\nRemoto\r\n#### Regime\r\nCLT\r\n#### Categoria\r\nDevOps",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-06T14:56:40Z"
+    },
+    {
+        "issues": "https://github.com/Bulvinkoln/GU_3089/issues/1",
+        "title": "DevOps",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-23T18:15:41Z"
+    },
+    {
+        "issues": "https://github.com/devfsa/vagas/issues/1929",
+        "title": "[Remoto] DEVOPS Engineer na Coodesh",
+        "body": "## Descri\u00e7\u00e3o da vaga: \r\nEsta \u00e9 uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se voc\u00ea ter\u00e1 acesso as informa\u00e7\u00f5es completas sobre a empresa e benef\u00edcios.\r\n\r\n\r\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/vagas/devops-engineer-124423536?utm_source=github&utm_medium=devfsa-vagas&modal=open) com o pop-up personalizado de candidatura. \ud83d\udc4b\r\n<p>A <strong>KLB GROUP BRASIL</strong> est\u00e1 buscando <strong><ins>DEVOPS Engineer</ins></strong> para compor sua equipe!<br><br></p>\r\n<p><strong>Responsabilidades:</strong></p>\r\n<ul>\r\n<li>&nbsp;Implementar ferramentas de desenvolvimento, testes, automa\u00e7\u00e3o e infraestrutura de TI;</li>\r\n<li>Monitorar o processo durante o ciclo de vida e sua ader\u00eancia, atualizar ou criar novos processos para melhoria.</li>\r\n</ul>\r\n<p></p>\r\n\r\n## KLB GROUP BRASIL : \r\n <p>A KLB Group \u00e9 especializada na implementa\u00e7\u00e3o de projetos em empresas p\u00fablicas e privadas. Seja em projetos de desenvolvimento, produ\u00e7\u00e3o ou transforma\u00e7\u00e3o, a KLB Group assegura a implementa\u00e7\u00e3o eficaz, mobilizando rapidamente uma equipe de especialistas de v\u00e1rias fun\u00e7\u00f5es (compras, cadeia de suprimentos, qualidade, engenharia, TI, finan\u00e7as, etc.), com uma combina\u00e7\u00e3o \u00fanica de experi\u00eancia em design, implementa\u00e7\u00e3o e opera\u00e7\u00e3o. A KLB Group tem mais de 500 funcion\u00e1rios na Europa, Am\u00e9rica e \u00c1sia.</p>\r\n</p>\r\n\r\n ## Habilidades: \r\n - DevOps \r\n- Cloud Functions \r\n- Terraform\r\n## Local: \r\n 100% Remoto\r\n## Requisitos: \r\n - Experi\u00eancia com ferramentas de Infra as a Code, como TerraForm, Ansible, CloudFormation; \r\n- Experi\u00eancia com ferramentas de Pipeline CI/CD, como Jenkins, Bamboo, SonarQube, Selenium, Cucumber; \r\n- Ter conhecimento t\u00e9cnico para revisar, verificar, e validar os c\u00f3digos gerados no desenvolvimento do projeto; \r\n- Conhecimento em troubleshooting para identificar problemas e corrigir os bugs nos c\u00f3digos.\r\n\r\n## Benef\u00edcios: \r\n - Seguro Sa\u00fade Bradesco; \r\n- Assist\u00eancia Odontol\u00f3gica Amil 200; \r\n- Seguro de Vida e Acidentes Pessoais Tokio Marine; \r\n- Assist\u00eancia Funeral para agregados; \r\n- Vale-refei\u00e7\u00e3o ou vale alimenta\u00e7\u00e3o (voc\u00ea escolhe o que \u00e9 melhor!): no valor de R$ 600,00 por m\u00eas, com desconto mensal de R$ 1,00 em folha de pagamento; \r\n- Pontos extras para reembolsos: Valor de R$ 120,00 pode ser usado em Pet, internet, cursos, etc; \r\n- Previd\u00eancia Privada: \r\n- PAE (Programa de Apoio ao Empregado); \r\n- Aux\u00edlio creche/bab\u00e1; \r\n- Empr\u00e9stimo consignado; \r\n- Universidade corporativa; \r\n- Parcerias/Conv\u00eanios.\r\n## Como se candidatar:\r\nCandidatar-se exclusivamente atrav\u00e9s da plataforma Coodesh no link a seguir: [DEVOPS Engineer na KLB GROUP BRASIL ](https://coodesh.com/vagas/devops-engineer-124423536?utm_source=github&utm_medium=devfsa-vagas&modal=open)\r\n\r\n\r\nAp\u00f3s candidatar-se via plataforma Coodesh e validar o seu login, voc\u00ea poder\u00e1 acompanhar e receber todas as intera\u00e7\u00f5es do processo por l\u00e1. Utilize a op\u00e7\u00e3o **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso far\u00e1 com que a pessoa **Recruiter** respons\u00e1vel pelo processo na empresa receba a notifica\u00e7\u00e3o.\r\n## Labels\r\n#### Aloca\u00e7\u00e3o\r\nRemoto\r\n#### Regime\r\nCLT\r\n#### Categoria\r\nDevOps",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T16:34:56Z"
+    },
+    {
+        "issues": "https://github.com/cqfn/0capa/issues/34",
+        "title": "rultor DevOps",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-09-16T13:36:13Z"
+    },
+    {
+        "issues": "https://github.com/programadores-br/geral/issues/1777",
+        "title": "[Remoto] DevOps na Coodesh",
+        "body": "## Descri\u00e7\u00e3o da vaga: \r\nEsta \u00e9 uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se voc\u00ea ter\u00e1 acesso as informa\u00e7\u00f5es completas sobre a empresa e benef\u00edcios.\r\n\r\n\r\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/vagas/devops-142901455?utm_source=github&utm_medium=programadores-br-geral&modal=open) com o pop-up personalizado de candidatura. \ud83d\udc4b\r\n<p>A <strong>Samba</strong> est\u00e1 buscando <strong><ins>DevOps</ins></strong> para compor seu time!</p>\r\n<p>Procuramos algu\u00e9m com prop\u00f3sito forte e que esteja disposta a trabalhar em ambiente colaborativo e din\u00e2mico, pronto para crescer profissionalmente junto com a nossa equipe fora da curva! A Samba gosta de fazer a diferen\u00e7a sempre e nosso time \u00e9 o respons\u00e1vel para que isto aconte\u00e7a! Por isso, a gente espera que voc\u00ea seja uma pessoa apaixonada por tecnologia, assim com a gente! Todas as nossas vagas tamb\u00e9m se aplicam a pessoas com defici\u00eancia, ent\u00e3o fique \u00e0 vontade para se candidatar!</p>\r\n<p><strong>Responsabilidades:</strong></p>\r\n<ul>\r\n<li>Criar, implantar e manter a infraestrutura de aplica\u00e7\u00f5es utilizando infraestrutura como c\u00f3digo (IaC);</li>\r\n<li>Monitoramento e manuten\u00e7\u00e3o de aplica\u00e7\u00f5es de alta disponibilidade e escalabilidade;</li>\r\n<li>Configura\u00e7\u00e3o de servidores Linux;</li>\r\n<li>Configura\u00e7\u00e3o de web servers (Nginx, apache);</li>\r\n<li>Estimar o custo de infraestrutura de aplica\u00e7\u00f5es;</li>\r\n<li>Propor solu\u00e7\u00f5es e melhorias de infraestrutura;</li>\r\n<li>Otimizar a utiliza\u00e7\u00e3o de recursos Cloud;</li>\r\n<li>Automatiza\u00e7\u00e3o de processos.</li>\r\n</ul>\r\n<p></p>\r\n\r\n## Samba Tech: \r\n <p>A Sambatech \u00e9 uma das empresas mais inovadoras do mundo, segundo a Fast Company, e \u00e9 refer\u00eancia no mercado de v\u00eddeos online. Nossa empresa garante infraestrutura de alta qualidade para venda, distribui\u00e7\u00e3o, gerenciamento e armazenamento de v\u00eddeos e ajuda pessoas e empresas a terem mais sucesso, independentemente do seu objetivo.</p>\r\n<p>Com suas solu\u00e7\u00f5es, a Samba atende diferentes tipos de necessidades relacionadas aos conte\u00fados audiovisuais e possui uma equipe totalmente focada em assegurar que nossos clientes tenham acesso ao que h\u00e1 de melhor em tecnologia para v\u00eddeos online.&nbsp;&nbsp;&nbsp;</p><a href='https://coodesh.com/empresas/samba-tech'>Veja mais no site</a>\r\n\r\n ## Habilidades: \r\n - AWS \r\n- Terraform \r\n- Docker\r\n## Local: \r\n 100% Remoto\r\n## Requisitos: \r\n - Conhecimento em AWS; \r\n- Conhecimento em infraestrutura como c\u00f3digo, preferencialmente Terraform; \r\n- Gerenciamento de pipeline CI/CD; \r\n- Container de aplica\u00e7\u00e3o (Docker); \r\n- Scripts bash ou alguma linguagem de programa\u00e7\u00e3o (Python/Java/Node); \r\n- Controle de vers\u00e3o (Git).\r\n## Diferenciais: \r\n - Kubernetes Engine; \r\n- Arquitetura Serverless; \r\n- Protocolo de Streaming.\r\n\r\n## Como se candidatar:\r\nCandidatar-se exclusivamente atrav\u00e9s da plataforma Coodesh no link a seguir: [DevOps na Samba Tech](https://coodesh.com/vagas/devops-142901455?utm_source=github&utm_medium=programadores-br-geral&modal=open)\r\n\r\n\r\nAp\u00f3s candidatar-se via plataforma Coodesh e validar o seu login, voc\u00ea poder\u00e1 acompanhar e receber todas as intera\u00e7\u00f5es do processo por l\u00e1. Utilize a op\u00e7\u00e3o **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso far\u00e1 com que a pessoa **Recruiter** respons\u00e1vel pelo processo na empresa receba a notifica\u00e7\u00e3o.\r\n## Labels\r\n#### Aloca\u00e7\u00e3o\r\nRemoto\r\n#### Regime\r\nCLT\r\n#### Categoria\r\nDevOps",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-06T14:56:33Z"
+    },
+    {
+        "issues": "https://github.com/programadores-br/geral/issues/1834",
+        "title": "[Remoto] DEVOPS Engineer na Coodesh",
+        "body": "## Descri\u00e7\u00e3o da vaga: \r\nEsta \u00e9 uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se voc\u00ea ter\u00e1 acesso as informa\u00e7\u00f5es completas sobre a empresa e benef\u00edcios.\r\n\r\n\r\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/vagas/devops-engineer-124423536?utm_source=github&utm_medium=programadores-br-geral&modal=open) com o pop-up personalizado de candidatura. \ud83d\udc4b\r\n<p>A <strong>KLB GROUP BRASIL</strong> est\u00e1 buscando <strong><ins>DEVOPS Engineer</ins></strong> para compor sua equipe!<br><br></p>\r\n<p><strong>Responsabilidades:</strong></p>\r\n<ul>\r\n<li>&nbsp;Implementar ferramentas de desenvolvimento, testes, automa\u00e7\u00e3o e infraestrutura de TI;</li>\r\n<li>Monitorar o processo durante o ciclo de vida e sua ader\u00eancia, atualizar ou criar novos processos para melhoria.</li>\r\n</ul>\r\n<p></p>\r\n\r\n## KLB GROUP BRASIL : \r\n <p>A KLB Group \u00e9 especializada na implementa\u00e7\u00e3o de projetos em empresas p\u00fablicas e privadas. Seja em projetos de desenvolvimento, produ\u00e7\u00e3o ou transforma\u00e7\u00e3o, a KLB Group assegura a implementa\u00e7\u00e3o eficaz, mobilizando rapidamente uma equipe de especialistas de v\u00e1rias fun\u00e7\u00f5es (compras, cadeia de suprimentos, qualidade, engenharia, TI, finan\u00e7as, etc.), com uma combina\u00e7\u00e3o \u00fanica de experi\u00eancia em design, implementa\u00e7\u00e3o e opera\u00e7\u00e3o. A KLB Group tem mais de 500 funcion\u00e1rios na Europa, Am\u00e9rica e \u00c1sia.</p>\r\n</p>\r\n\r\n ## Habilidades: \r\n - DevOps \r\n- Cloud Functions \r\n- Terraform\r\n## Local: \r\n 100% Remoto\r\n## Requisitos: \r\n - Experi\u00eancia com ferramentas de Infra as a Code, como TerraForm, Ansible, CloudFormation; \r\n- Experi\u00eancia com ferramentas de Pipeline CI/CD, como Jenkins, Bamboo, SonarQube, Selenium, Cucumber; \r\n- Ter conhecimento t\u00e9cnico para revisar, verificar, e validar os c\u00f3digos gerados no desenvolvimento do projeto; \r\n- Conhecimento em troubleshooting para identificar problemas e corrigir os bugs nos c\u00f3digos.\r\n\r\n## Benef\u00edcios: \r\n - Seguro Sa\u00fade Bradesco; \r\n- Assist\u00eancia Odontol\u00f3gica Amil 200; \r\n- Seguro de Vida e Acidentes Pessoais Tokio Marine; \r\n- Assist\u00eancia Funeral para agregados; \r\n- Vale-refei\u00e7\u00e3o ou vale alimenta\u00e7\u00e3o (voc\u00ea escolhe o que \u00e9 melhor!): no valor de R$ 600,00 por m\u00eas, com desconto mensal de R$ 1,00 em folha de pagamento; \r\n- Pontos extras para reembolsos: Valor de R$ 120,00 pode ser usado em Pet, internet, cursos, etc; \r\n- Previd\u00eancia Privada: \r\n- PAE (Programa de Apoio ao Empregado); \r\n- Aux\u00edlio creche/bab\u00e1; \r\n- Empr\u00e9stimo consignado; \r\n- Universidade corporativa; \r\n- Parcerias/Conv\u00eanios.\r\n## Como se candidatar:\r\nCandidatar-se exclusivamente atrav\u00e9s da plataforma Coodesh no link a seguir: [DEVOPS Engineer na KLB GROUP BRASIL ](https://coodesh.com/vagas/devops-engineer-124423536?utm_source=github&utm_medium=programadores-br-geral&modal=open)\r\n\r\n\r\nAp\u00f3s candidatar-se via plataforma Coodesh e validar o seu login, voc\u00ea poder\u00e1 acompanhar e receber todas as intera\u00e7\u00f5es do processo por l\u00e1. Utilize a op\u00e7\u00e3o **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso far\u00e1 com que a pessoa **Recruiter** respons\u00e1vel pelo processo na empresa receba a notifica\u00e7\u00e3o.\r\n## Labels\r\n#### Aloca\u00e7\u00e3o\r\nRemoto\r\n#### Regime\r\nCLT\r\n#### Categoria\r\nDevOps",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-18T16:34:43Z"
+    },
+    {
+        "issues": "https://github.com/swellaby/vsts-mirror-git-repository/issues/121",
+        "title": "Azure DevOps - Heroku",
+        "body": "**Question**\r\nCould someone provide an example of how to use it with integration with Azure DevOps and Heroku?\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 4,
+        "created_at": "2022-10-01T03:20:20Z"
+    },
+    {
+        "issues": "https://github.com/renovatebot/renovate/issues/18324",
+        "title": "Support changelogs from Azure DevOps",
+        "body": "### What would you like Renovate to be able to do?\n\nFetch changelogs from Azure DevOps and add the changelog to the PR.\n\n### If you have any ideas on how this should be implemented, please tell us here.\n\nChangelog fetching is already implemented for [GitHub](https://github.com/renovatebot/renovate/tree/main/lib/workers/repository/update/pr/changelog/github) and [GitLab](https://github.com/renovatebot/renovate/tree/main/lib/workers/repository/update/pr/changelog/gitlab). So we could implement something analog for Azure DevOps using the [Azure DevOps Services REST API](https://learn.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-7.1).\r\n\r\nImplementing this could be blocked by #14138 though.\n\n### Is this a feature you are interested in implementing yourself?\n\nYes",
+        "labels": [
+            {
+                "id": 502599336,
+                "node_id": "MDU6TGFiZWw1MDI1OTkzMzY=",
+                "url": "https://api.github.com/repos/renovatebot/renovate/labels/type:feature",
+                "name": "type:feature",
+                "color": "006b75",
+                "default": false,
+                "description": "Feature (new functionality)"
+            },
+            {
+                "id": 619253225,
+                "node_id": "MDU6TGFiZWw2MTkyNTMyMjU=",
+                "url": "https://api.github.com/repos/renovatebot/renovate/labels/priority-3-medium",
+                "name": "priority-3-medium",
+                "color": "c2e0c6",
+                "default": false,
+                "description": "Default priority, \"should be done\" but isn't prioritised ahead of others"
+            },
+            {
+                "id": 1364063648,
+                "node_id": "MDU6TGFiZWwxMzY0MDYzNjQ4",
+                "url": "https://api.github.com/repos/renovatebot/renovate/labels/platform:azure",
+                "name": "platform:azure",
+                "color": "C5DEF5",
+                "default": false,
+                "description": "Azure DevOps platform"
+            },
+            {
+                "id": 2651267269,
+                "node_id": "MDU6TGFiZWwyNjUxMjY3MjY5",
+                "url": "https://api.github.com/repos/renovatebot/renovate/labels/status:ready",
+                "name": "status:ready",
+                "color": "1D76DB",
+                "default": false,
+                "description": "Ready to start implementation"
+            },
+            {
+                "id": 3202659078,
+                "node_id": "MDU6TGFiZWwzMjAyNjU5MDc4",
+                "url": "https://api.github.com/repos/renovatebot/renovate/labels/core:changelogs",
+                "name": "core:changelogs",
+                "color": "C5DEF5",
+                "default": false,
+                "description": "Related to changelogs/release notes fetching"
+            }
+        ],
+        "assignees": 1,
+        "comments": 2,
+        "created_at": "2022-10-13T17:56:34Z"
+    },
+    {
+        "issues": "https://github.com/WomenWhoCode/WWCode-London/issues/18",
+        "title": "DevOps Mock Interviews Program",
+        "body": "Develop DevOps Mock Interviews Program ",
+        "labels": [
+            {
+                "id": 4409441894,
+                "node_id": "LA_kwDOHyuPlc8AAAABBtK-Zg",
+                "url": "https://api.github.com/repos/WomenWhoCode/WWCode-London/labels/help%20wanted",
+                "name": "help wanted",
+                "color": "008672",
+                "default": true,
+                "description": "Looking for volunteers"
+            },
+            {
+                "id": 4589337023,
+                "node_id": "LA_kwDOHyuPlc8AAAABEYu5vw",
+                "url": "https://api.github.com/repos/WomenWhoCode/WWCode-London/labels/sig/devops",
+                "name": "sig/devops",
+                "color": "844A10",
+                "default": false,
+                "description": "Track issues related to the devops special interest group"
+            },
+            {
+                "id": 4598024287,
+                "node_id": "LA_kwDOHyuPlc8AAAABEhBIXw",
+                "url": "https://api.github.com/repos/WomenWhoCode/WWCode-London/labels/area/sig",
+                "name": "area/sig",
+                "color": "E70C8D",
+                "default": false,
+                "description": "Track issues related to any sig (special interest group)"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-29T20:36:50Z"
+    },
+    {
+        "issues": "https://github.com/ssc-sp/datahub-portal/issues/68",
+        "title": "DevOps Pipelines",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-12T13:03:50Z"
+    },
+    {
+        "issues": "https://github.com/Rennatera/AWS/issues/2",
+        "title": "DevOps",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-08-15T19:53:18Z"
+    },
+    {
+        "issues": "https://github.com/Ocelot-Social-Community/Ocelot-Social/issues/5462",
+        "title": "\ud83d\udca5 [DevOps] Check Resolvers For Savetyness",
+        "body": "## \ud83d\udca5 DevOps Ticket\r\n<!-- Describe your issue in detail. Include screenshots if needed. Give us as much information as possible. Use a clear and concise description of what the problem is.-->\r\n\r\nCheck resolvers for savetyness.\r\n\r\n### Todo\r\n\r\n- [ ] check `makeAugmentedSchema`\r\n  - [ ] change `Notfication` \u2192 `Notification`\r\n- [ ]  check permission middleware\r\n- [ ] comment on hidden post(group) possible via API ?",
+        "labels": [
+            {
+                "id": 2409931966,
+                "node_id": "MDU6TGFiZWwyNDA5OTMxOTY2",
+                "url": "https://api.github.com/repos/Ocelot-Social-Community/Ocelot-Social/labels/backend",
+                "name": "backend",
+                "color": "FBCA04",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 2409933076,
+                "node_id": "MDU6TGFiZWwyNDA5OTMzMDc2",
+                "url": "https://api.github.com/repos/Ocelot-Social-Community/Ocelot-Social/labels/devops",
+                "name": "devops",
+                "color": "a2eeef",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 2409964595,
+                "node_id": "MDU6TGFiZWwyNDA5OTY0NTk1",
+                "url": "https://api.github.com/repos/Ocelot-Social-Community/Ocelot-Social/labels/security",
+                "name": "security",
+                "color": "B60205",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4362186859,
+                "node_id": "LA_kwDOEfMzcc8AAAABBAGwaw",
+                "url": "https://api.github.com/repos/Ocelot-Social-Community/Ocelot-Social/labels/Yunite",
+                "name": "Yunite",
+                "color": "CC69C2",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-04T15:40:18Z"
+    },
+    {
+        "issues": "https://github.com/oracle/terraform-provider-oci/issues/1681",
+        "title": "GitLab Secret for DevOps Triggers",
+        "body": "Hey\r\n\r\nIs there any way to return Trigger Webhook Secret for GitLab?\r\nThe current resource \"oci_devops_trigger\" return only the trigger_url while you can't use it alone with GitLab.",
+        "labels": [
+            {
+                "id": 475001214,
+                "node_id": "MDU6TGFiZWw0NzUwMDEyMTQ=",
+                "url": "https://api.github.com/repos/oracle/terraform-provider-oci/labels/enhancement",
+                "name": "enhancement",
+                "color": "d4c5f9",
+                "default": true,
+                "description": ""
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-13T14:51:35Z"
+    },
+    {
+        "issues": "https://github.com/julioarruda/demo-devops-heroes/issues/1",
+        "title": "Demo DevOps Heroes",
+        "body": "Teste",
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-09-29T14:30:36Z"
+    },
+    {
+        "issues": "https://github.com/bcgov/nr-forests-access-management/issues/213",
+        "title": "FAM DEVOPS/Technical Tasks ",
+        "body": null,
+        "labels": [
+            {
+                "id": 4232751167,
+                "node_id": "LA_kwDOHP2LK878Sqg_",
+                "url": "https://api.github.com/repos/bcgov/nr-forests-access-management/labels/Epic",
+                "name": "Epic",
+                "color": "4660F9",
+                "default": false,
+                "description": null
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-28T21:27:42Z"
+    },
+    {
+        "issues": "https://github.com/thipokch/method-ci/issues/2",
+        "title": "\u2699\ufe0f DevOps",
+        "body": "### CI - Continuous Integration\r\n- [x] #8 \r\n- [x] #9\r\n- [ ] #10\r\n\r\n### CD - Continuous Delivery\r\n- [x] #4\r\n- [x] #5\r\n- [x] #6\r\n- [ ] #7",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-08-10T12:10:04Z"
+    },
+    {
+        "issues": "https://github.com/globaldothealth/monkeypox/issues/214",
+        "title": "Review DevOps checklist",
+        "body": "As a team we should audit our system for adherence to the \"three ways\".\r\n\r\nhttps://learn.microsoft.com/en-us/azure/architecture/checklist/dev-ops\r\nhttps://itrevolution.com/the-three-ways-principles-underpinning-devops/",
+        "labels": [
+            {
+                "id": 4147755437,
+                "node_id": "LA_kwDOHXNMtc73Obmt",
+                "url": "https://api.github.com/repos/globaldothealth/monkeypox/labels/documentation",
+                "name": "documentation",
+                "color": "0075ca",
+                "default": true,
+                "description": "Improvements or additions to documentation"
+            },
+            {
+                "id": 4147755447,
+                "node_id": "LA_kwDOHXNMtc73Obm3",
+                "url": "https://api.github.com/repos/globaldothealth/monkeypox/labels/help%20wanted",
+                "name": "help wanted",
+                "color": "008672",
+                "default": true,
+                "description": "Extra attention is needed"
+            },
+            {
+                "id": 4215766799,
+                "node_id": "LA_kwDOHXNMtc77R38P",
+                "url": "https://api.github.com/repos/globaldothealth/monkeypox/labels/priority",
+                "name": "priority",
+                "color": "E13B12",
+                "default": false,
+                "description": "Engineering priority"
+            },
+            {
+                "id": 4308322567,
+                "node_id": "LA_kwDOHXNMtc8AAAABAMvJBw",
+                "url": "https://api.github.com/repos/globaldothealth/monkeypox/labels/MPX",
+                "name": "MPX",
+                "color": "5AE483",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4384131967,
+                "node_id": "MDU6TGFiZWw0Mzg0MTMxOTY3",
+                "url": "https://api.github.com/repos/globaldothealth/monkeypox/labels/P0:%20Critical%20path%20blocker",
+                "name": "P0: Critical path blocker",
+                "color": "dd373f",
+                "default": false,
+                "description": null
+            },
+            {
+                "id": 4555054290,
+                "node_id": "LA_kwDOHXNMtc8AAAABD4Cc0g",
+                "url": "https://api.github.com/repos/globaldothealth/monkeypox/labels/tech%20debt",
+                "name": "tech debt",
+                "color": "7C6BD8",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-09-27T13:19:50Z"
+    },
+    {
+        "issues": "https://github.com/kamranahmedse/developer-roadmap/issues/1893",
+        "title": "[Suggestion] DevOps Roadmap",
+        "body": "In Cloud Providers, I believe Azure has become a big player, such as AWS. It would be nice to set this option as a recommended (purple).\r\n\r\nAlso, Spinnaker is a great tool that could be in the list too.",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-27T15:11:44Z"
+    },
+    {
+        "issues": "https://github.com/reviewpad/community/issues/7",
+        "title": "Meetups: DevOps Porto + Reviewpad",
+        "body": "Notion page: https://www.notion.so/reviewpad/Devtools-Porto-54d39d8a4b9943ecb90ae65e6d584f8a",
+        "labels": [
+            {
+                "id": 4628785219,
+                "node_id": "LA_kwDOH8ICK88AAAABE-WoQw",
+                "url": "https://api.github.com/repos/reviewpad/community/labels/events",
+                "name": "events",
+                "color": "4771C1",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 2,
+        "created_at": "2022-09-12T08:30:42Z"
+    },
+    {
+        "issues": "https://github.com/chrishantha/sample-java-programs/issues/20",
+        "title": "Create devops",
+        "body": "check this",
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-04T15:28:16Z"
+    },
+    {
+        "issues": "https://github.com/thisdot/tech-conferences/issues/19",
+        "title": "Add more DevOps conferences ",
+        "body": "We already have a few conferences listed but there are many more out there that are not in the current list. If you see a conference that should be included on the list, then please read through the [CONTRIBUTING.md](https://github.com/thisdot/tech-conferences/blob/main/CONTRIBUTING.md) file first before making a pull request. \r\n\r\n**Please note: this issue will remain open and not assigned to anyone. We encourage multiple contributors to add their conferences to the list.**",
+        "labels": [
+            {
+                "id": 3431934712,
+                "node_id": "LA_kwDOGL3cL87Mjyr4",
+                "url": "https://api.github.com/repos/thisdot/tech-conferences/labels/good%20first%20issue",
+                "name": "good first issue",
+                "color": "7057ff",
+                "default": true,
+                "description": "Good for newcomers"
+            },
+            {
+                "id": 4580880786,
+                "node_id": "LA_kwDOGL3cL88AAAABEQqxkg",
+                "url": "https://api.github.com/repos/thisdot/tech-conferences/labels/hacktoberfest",
+                "name": "hacktoberfest",
+                "color": "D93F0B",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-27T02:28:07Z"
+    },
+    {
+        "issues": "https://github.com/GDSC-CEC/HacktoberFest-2022-Blog-Writing/issues/24",
+        "title": "Create DevOps.md",
+        "body": "Blog explaining about DevOps",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-25T08:33:05Z"
+    },
+    {
+        "issues": "https://github.com/denctl/devops-handbook/issues/9",
+        "title": "Chapter Content: DevOps 205: DevOps in the Enterprise",
+        "body": "### Issue Summary\r\n\r\nNeed content for:\r\nDevOps 205: DevOps in the Enterprise",
+        "labels": [
+            {
+                "id": 4524817331,
+                "node_id": "LA_kwDOH-3P8M8AAAABDbM7sw",
+                "url": "https://api.github.com/repos/denctl/devops-handbook/labels/help%20wanted",
+                "name": "help wanted",
+                "color": "008672",
+                "default": true,
+                "description": "Extra attention is needed"
+            },
+            {
+                "id": 4609815005,
+                "node_id": "LA_kwDOH-3P8M8AAAABEsQx3Q",
+                "url": "https://api.github.com/repos/denctl/devops-handbook/labels/hacktoberfest",
+                "name": "hacktoberfest",
+                "color": "5319E7",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4615517213,
+                "node_id": "LA_kwDOH-3P8M8AAAABExs0HQ",
+                "url": "https://api.github.com/repos/denctl/devops-handbook/labels/lowcode",
+                "name": "lowcode",
+                "color": "C5DEF5",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 4615517590,
+                "node_id": "LA_kwDOH-3P8M8AAAABExs1lg",
+                "url": "https://api.github.com/repos/denctl/devops-handbook/labels/nocode",
+                "name": "nocode",
+                "color": "BFD4F2",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-03T16:24:27Z"
+    },
+    {
+        "issues": "https://github.com/outsoar-ph/outsoar/issues/93",
+        "title": "DevOps and Support",
+        "body": "https://sugary-wrist-05c.notion.site/Flow-54e33ec174de40cc96e015cf02a66a3b",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-29T05:10:32Z"
+    },
+    {
+        "issues": "https://github.com/AlgoMessiahs/BlogOnNewTechnology/issues/12",
+        "title": "Create DevOps.md",
+        "body": "Blog on Devops",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-25T08:58:31Z"
+    }
+][
+    {
+        "issues": "https://github.com/KoM-Kind-of-Magic/KoM-Website/issues/21",
+        "title": "[DEVOPS] Cron up/destroy infra",
+        "body": "Setup deux workflows, un cron le matin pour `terraform apply` et le soir pour `terraform destroy`",
+        "labels": [
+            {
+                "id": 3870067351,
+                "node_id": "LA_kwDOG5_0vM7mrIqX",
+                "url": "https://api.github.com/repos/KoM-Kind-of-Magic/KoM-Website/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-13T12:00:05Z"
+    },
+    {
+        "issues": "https://github.com/kubesphere/kubesphere/issues/5306",
+        "title": "Cluster upgrade devops component error",
+        "body": "**Describe the Bug**\r\n1\u3001devops component error after cluster upgrade\r\n![image](https://user-images.githubusercontent.com/88183150/196647852-ea525c1d-feb9-4aec-82e0-5a248e3ea49b.png)\r\n\r\n\r\n**Versions Used**\r\n3node+ubuntu18.04+ubuntu18.04.4+ubuntu20.04+ks3.3.0+k8s1.22.10(\u5168\u7ec4\u4ef6) -\u300bks3.3.1+k8s1.22.10\r\n\r\n/king bug\r\n/priority medium",
+        "labels": [
+            {
+                "id": 908983885,
+                "node_id": "MDU6TGFiZWw5MDg5ODM4ODU=",
+                "url": "https://api.github.com/repos/kubesphere/kubesphere/labels/kind/bug",
+                "name": "kind/bug",
+                "color": "e11d21",
+                "default": false,
+                "description": "Categorizes issue or PR as related to a bug."
+            },
+            {
+                "id": 1619727342,
+                "node_id": "MDU6TGFiZWwxNjE5NzI3MzQy",
+                "url": "https://api.github.com/repos/kubesphere/kubesphere/labels/priority/medium",
+                "name": "priority/medium",
+                "color": "fbca04",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 0,
+        "comments": 3,
+        "created_at": "2022-10-19T09:10:37Z"
+    },
+    {
+        "issues": "https://github.com/outsoar-ph/outsoar/issues/93",
+        "title": "DevOps and Support",
+        "body": "https://sugary-wrist-05c.notion.site/Flow-54e33ec174de40cc96e015cf02a66a3b",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-29T05:10:32Z"
+    },
+    {
+        "issues": "https://github.com/clockify/browser-extension/issues/211",
+        "title": "Azure Devops integration failed",
+        "body": "Start timer button dissapeared for tasks within Azure Devops.\r\nAdding dev.azure.com to custom domains fixed the issue.\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 2,
+        "created_at": "2022-09-19T12:04:04Z"
+    },
+    {
+        "issues": "https://github.com/sjwall/mdx-mermaid/issues/70",
+        "title": "Integration with Azure Devops wiki",
+        "body": "Azure Devops (ADO) wiki supports mermaid but with syntax to identify the block using  ::: instead of \u2018\u2019\u2019.\r\n\r\nI can\u2019t find a way to make this replacement when the system is compiling the site. \r\n\r\nI would ask if there is the possibility to add support also to this block description. \r\n\r\nThis is the description of ADO Wiki usage of mermaid: [Link](https://learn.microsoft.com/en-us/azure/devops/project/wiki/wiki-markdown-guidance?view=azure-devops#add-mermaid-diagrams-to-a-wiki-page) ",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-13T02:51:24Z"
+    },
+    {
+        "issues": "https://github.com/umgc/fall2022/issues/529",
+        "title": "DevOps - Software Installation",
+        "body": null,
+        "labels": [
+            {
+                "id": 4423167959,
+                "node_id": "LA_kwDOH0Kn6c8AAAABB6Qv1w",
+                "url": "https://api.github.com/repos/umgc/fall2022/labels/documentation",
+                "name": "documentation",
+                "color": "0075ca",
+                "default": true,
+                "description": "Improvements or additions to documentation"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-03T18:09:30Z"
+    },
+    {
+        "issues": "https://github.com/apptension/developer-handbook/issues/21",
+        "title": "Update DevOps Developer.md",
+        "body": "Added IaC to the list",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-24T12:19:26Z"
+    },
+    {
+        "issues": "https://github.com/DevOps-Brazil/Vagas/issues/339",
+        "title": "[REMOTO] Pessoa DevOps  | DEAL TECHNOLOGIES",
+        "body": "**Sobre N\u00f3s**\r\nSomos a Deal, estamos no mercado desde 2004 e somos refer\u00eancia em Intelig\u00eancia de Dados e Transforma\u00e7\u00e3o Digital, desde a estrat\u00e9gia at\u00e9 a execu\u00e7\u00e3o (end-to-end).\r\nAqui, cada Dealmaker tem liberdade para:\r\n\u2022 Ser quem \u00e9, numa cultura que valoriza as pessoas pela sua ess\u00eancia;\r\n\u2022 Trabalhar de onde quiser, porque o Anywhere Office \u00e9 uma realidade por aqui;\r\n\u2022 Ser protagonista da sua carreira e escolher aonde quer chegar profissionalmente!\r\n \r\n**Experi\u00eancia e Conhecimentos em:**\r\n\u2022\tAdministra\u00e7\u00e3o de rede na AWS (VPC, Security Group, Route 53, e outros) \r\n\u2022\tPython, Shell Scripting, Java e Nodejs\r\n\u2022\tProvisionamento de container (Docker \r\n\u2022\tKubernetes)\r\n\u2022\tProvisionamento de infraestrutura como c\u00f3digo (Serverless Framework Chef)\r\n\u2022\tMobile (automa\u00e7\u00e3o via Fastlane) \r\n\u2022\tAWS \r\n\u2022\tDynamoDB \r\n\u2022\tSQS \r\n\u2022\tSNS \r\n\u2022\tAPI Gateway \r\n\u2022\tS3, ECS,EKS, EC2, Aurora, RDS Lambda \r\n\r\n**Local**\r\nRemoto, trabalhe de qualquer lugar da gal\u00e1xia. \r\n\r\n**O que oferecemos: **\r\n\u2022 Benef\u00edcios personalizados\r\n\u2022 Parceria com o SESC\r\n\u2022 Capacita\u00e7\u00e3o e desenvolvimento pelo nosso N\u00facleo de Inova\u00e7\u00e3o Deal\r\n\u2022 Programa de mobilidade interna (Deal Moving)\r\n\u2022 E muito mais!\r\n\r\n**Como se candidatar**\r\nPor favor, envie um e-mail para [vemser@deal.com.br](mailto:vemser@deal.com.br)\r\nCom seu CV anexado \u2013 enviar no assunto: Pessoa DevOps \r\n\r\n\r\n**Labels**\r\n\r\nAloca\u00e7\u00e3o\r\n\u2022\tRemoto\r\n\r\nRegime\r\n\u2022\tCLT\r\n \r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-06T17:11:40Z"
+    },
+    {
+        "issues": "https://github.com/chriszeymar/CMPG-323-Project-4---34946039/issues/2",
+        "title": "Pull devOps branch to Main",
+        "body": null,
+        "labels": [
+            {
+                "id": 4656473356,
+                "node_id": "LA_kwDOIMuRHc8AAAABFYwlDA",
+                "url": "https://api.github.com/repos/chriszeymar/CMPG-323-Project-4---34946039/labels/Project%204",
+                "name": "Project 4",
+                "color": "c5def5",
+                "default": false,
+                "description": "RPA testing"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-10-12T11:55:42Z"
+    },
+    {
+        "issues": "https://github.com/artur094/nik-morandi-photo-gallery/issues/1",
+        "title": "DEVOPS: Add workflows",
+        "body": null,
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-21T22:12:46Z"
+    },
+    {
+        "issues": "https://github.com/Bipronum/Research/issues/4",
+        "title": "[Devops] create infrastructure documentation",
+        "body": null,
+        "labels": [],
+        "assignees": 1,
+        "comments": 2,
+        "created_at": "2022-09-20T14:16:24Z"
+    },
+    {
+        "issues": "https://github.com/frontendbr/vagas/issues/7438",
+        "title": "[REMOTO] Pessoa DevOps  | DEAL TECHNOLOGIES",
+        "body": "**Sobre N\u00f3s**\r\nSomos a Deal, estamos no mercado desde 2004 e somos refer\u00eancia em Intelig\u00eancia de Dados e Transforma\u00e7\u00e3o Digital, desde a estrat\u00e9gia at\u00e9 a execu\u00e7\u00e3o (end-to-end).\r\nAqui, cada Dealmaker tem liberdade para:\r\n\u2022 Ser quem \u00e9, numa cultura que valoriza as pessoas pela sua ess\u00eancia;\r\n\u2022 Trabalhar de onde quiser, porque o Anywhere Office \u00e9 uma realidade por aqui;\r\n\u2022 Ser protagonista da sua carreira e escolher aonde quer chegar profissionalmente!\r\n \r\n**Experi\u00eancia e Conhecimentos em:**\r\n\u2022\tAdministra\u00e7\u00e3o de rede na AWS (VPC, Security Group, Route 53, e outros) \r\n\u2022\tPython, Shell Scripting, Java e Nodejs\r\n\u2022\tProvisionamento de container (Docker \r\n\u2022\tKubernetes)\r\n\u2022\tProvisionamento de infraestrutura como c\u00f3digo (Serverless Framework Chef)\r\n\u2022\tMobile (automa\u00e7\u00e3o via Fastlane) \r\n\u2022\tAWS \r\n\u2022\tDynamoDB \r\n\u2022\tSQS \r\n\u2022\tSNS \r\n\u2022\tAPI Gateway \r\n\u2022\tS3, ECS,EKS, EC2, Aurora, RDS Lambda \r\n\r\n**Local**\r\nRemoto, trabalhe de qualquer lugar da gal\u00e1xia. \r\n\r\n**O que oferecemos: **\r\n\u2022 Benef\u00edcios personalizados\r\n\u2022 Parceria com o SESC\r\n\u2022 Capacita\u00e7\u00e3o e desenvolvimento pelo nosso N\u00facleo de Inova\u00e7\u00e3o Deal\r\n\u2022 Programa de mobilidade interna (Deal Moving)\r\n\u2022 E muito mais!\r\n\r\n**Como se candidatar**\r\nPor favor, envie um e-mail para [vemser@deal.com.br](mailto:vemser@deal.com.br)\r\nCom seu CV anexado \u2013 enviar no assunto: Pessoa DevOps \r\n\r\n\r\n**Labels**\r\n\r\nAloca\u00e7\u00e3o\r\n\u2022\tRemoto\r\n\r\nRegime\r\n\u2022\tCLT\r\n ",
+        "labels": [
+            {
+                "id": 321622600,
+                "node_id": "MDU6TGFiZWwzMjE2MjI2MDA=",
+                "url": "https://api.github.com/repos/frontendbr/vagas/labels/S%C3%AAnior",
+                "name": "S\u00eanior",
+                "color": "6c46ea",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 321622629,
+                "node_id": "MDU6TGFiZWwzMjE2MjI2Mjk=",
+                "url": "https://api.github.com/repos/frontendbr/vagas/labels/CLT",
+                "name": "CLT",
+                "color": "7fe266",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 324086912,
+                "node_id": "MDU6TGFiZWwzMjQwODY5MTI=",
+                "url": "https://api.github.com/repos/frontendbr/vagas/labels/Remoto",
+                "name": "Remoto",
+                "color": "6befe6",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-06T17:07:04Z"
+    },
+    {
+        "issues": "https://github.com/kamranahmedse/developer-roadmap/issues/1765",
+        "title": "[Suggestion] DevOps Roadmap",
+        "body": "The database section is missing.",
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-09-15T13:30:45Z"
+    },
+    {
+        "issues": "https://github.com/euanwm/OpenWeightlifting/issues/38",
+        "title": "Improve DevOps",
+        "body": "Currently, there's no overview on linting, pre-merge checks, or anything else that improves the codebase in general.",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-05T08:50:33Z"
+    },
+    {
+        "issues": "https://github.com/devoption/helio/issues/24",
+        "title": "DevOps Engineer Role exists",
+        "body": null,
+        "labels": [
+            {
+                "id": 4552963526,
+                "node_id": "LA_kwDOIB1GEc8AAAABD2C1xg",
+                "url": "https://api.github.com/repos/devoption/helio/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            }
+        ],
+        "assignees": 1,
+        "comments": 0,
+        "created_at": "2022-09-23T09:42:21Z"
+    },
+    {
+        "issues": "https://github.com/DevOps-Brazil/Vagas/issues/327",
+        "title": "DevOps Engineer na @Trustly",
+        "body": "## Voc\u00ea conhece a Trustly?\r\n\r\nFundada em 2008, a Trustly \u00e9 l\u00edder global em Open Banking Payments, e estamos em r\u00e1pida expans\u00e3o no mercado dos EUA! Hoje atendemos 10.000 comerciantes, conectando-os com mais de 650 milh\u00f5es de consumidores e 7.600 bancos em mais de 30 pa\u00edses. Em 2021, processamos mais de US$ 20 bilh\u00f5es em volume de transa\u00e7\u00f5es em nossa rede global.\r\n\r\nNossa plataforma digital conta a conta redefine a velocidade, simplicidade e seguran\u00e7a dos pagamentos. Os consumidores pagam pelas compras simplesmente entrando em suas contas banc\u00e1rias, ignorando as redes de cart\u00f5es e nunca saindo do site ou aplicativo de um comerciante - sem necessidade de n\u00fameros de cart\u00e3o de cr\u00e9dito ou configura\u00e7\u00e3o de conta separada.\r\n\r\nCom escrit\u00f3rios em Vit\u00f3ria, Brasil, Vale do Sil\u00edcio nos EUA e sede global em Estocolmo, Su\u00e9cia, somos uma equipe culturalmente diversificada. Em todo o Brasil, adotamos a pol\u00edtica de trabalho remoto em casa.\r\n\r\n\u00c9 um \u00f3timo momento para ingressar na Trustly, pois a equipe das Am\u00e9ricas est\u00e1 crescendo rapidamente. Se voc\u00ea prospera em um ambiente de trabalho com esp\u00edrito empreendedor, ritmo acelerado, casual, profissional, positivo e gratificante, esse \u00e9 o seu lugar!\r\n\r\n## Sobre o time que voc\u00ea trabalhar\u00e1:\r\n\r\nDo c\u00f3digo \u00e0 produ\u00e7\u00e3o, a equipe de DevOps trabalha para capacitar as equipes de desenvolvedores a construir solu\u00e7\u00f5es com estabilidade e desempenho para atender \u00e0s necessidades da empresa. A equipe atua como um protetor da produ\u00e7\u00e3o, sempre certificando-se de que tudo est\u00e1 funcionando como deveria com self-healing, observabilidade e automa\u00e7\u00e3o sempre que poss\u00edvel.\r\n\r\n## No seu dia a dia, voc\u00ea ir\u00e1:\r\n\r\n- Trabalhar com pipeline de CI/CD para nossa pilha de aplicativos baseada em Java;\r\n- Implantar atualiza\u00e7\u00f5es e corre\u00e7\u00f5es na plataforma ao vivo;\r\n- Automatizar tarefas para minimizar o tempo de inatividade e melhorar a consist\u00eancia;\r\n- Identificar e documentar formas de melhorar o monitoramento e a utiliza\u00e7\u00e3o de recursos do sistema;\r\n- Gerenciar seguran\u00e7a, configura\u00e7\u00e3o de capacidade do sistema e atualiza\u00e7\u00f5es;\r\n- Projetar, implantar, proteger e atualizar pods no Kubernetes;\r\n- Manuten\u00e7\u00e3o em banco de dados de produ\u00e7\u00e3o;\r\n- Arquiteturas de Design;\r\n- Gerenciar novos m\u00f3dulos;\r\n- Ajustar e garantir as regras do Nginx.\r\n\r\n## O que esperamos de voc\u00ea:\r\n\r\n- Experi\u00eancia como DevOps ou Desenvolvedor, com s\u00f3lida forma\u00e7\u00e3o em t\u00e9cnicas de arquitetura de software e linguagens de script como shell script e/ou phyton;\r\n- Experi\u00eancia em administra\u00e7\u00e3o Linux/Unix;\r\n- Experi\u00eancia com AWS;\r\n- Conhecimento de Versioning, Integra\u00e7\u00e3o Cont\u00ednua, ferramentas de monitoramento de tr\u00e1fego;\r\n- Experi\u00eancia em Kubernetes, Docker;\r\n- Ingl\u00eas avan\u00e7ado.\r\n\r\n## Local:\r\nRemoto\r\n\r\n## Nossos benef\u00edcios e mimos s\u00e3o:\r\n\r\n- Plano de sa\u00fade e odontol\u00f3gico Bradesco - pra voc\u00ea e seus dependentes, sem custo de coparticipa\u00e7\u00e3o;\r\n- Seguro de vida Sulam\u00e9rica com coberturas diferenciadas;\r\n- Vale refei\u00e7\u00e3o e Vale alimenta\u00e7\u00e3o;\r\n- Gympass - Plataforma que d\u00e1 acesso a espa\u00e7os de atividades f\u00edsicas e aulas on-line;\r\n- Gin\u00e1stica laboral online;\r\n- Trustly Club - Desconto em institui\u00e7\u00f5es de ensino e lojas parceiras;\r\n- Happy hours mensais com cupom iFood - A gente contrata uma banda pra fazer um show s\u00f3 pra gente, viu?\r\n- Programa de ingl\u00eas - Aqui voc\u00ea tem espa\u00e7o pra desenvolver o seu ingl\u00eas, e al\u00e9m das li\u00e7\u00f5es, pode fazer aulas quinzenais de conversa\u00e7\u00e3o;\r\n- Licen\u00e7a maternidade e paternidade estendidas;\r\n- Flexibilidade de hor\u00e1rio;\r\n- Welcome Kit - Trabalhamos com equipamentos Apple (Macbook Pro, Iphone) e enviamos mais v\u00e1rios mimos! Alerta de spoiler: Os equipamentos podem ser adquiridos por voc\u00ea de acordo com os crit\u00e9rios internos!\r\n- Pr\u00eamio anual - Como integrante do nosso time, voc\u00ea se qualifica para o recebimento de um b\u00f4nus anual, a crit\u00e9rio da empresa, baseado no atingimento dos nossos KPI's;\r\n- Programa de Indica\u00e7\u00e3o - Se voc\u00ea indicar um candidato e n\u00f3s contratarmos a pessoa, voc\u00ea receber\u00e1 uma recompensa por isso!\r\n- Birthday Off: no dia do seu anivers\u00e1rio, voc\u00ea tira uma folga para celebrar esse momento especial!\r\n\r\n## Contrata\u00e7\u00e3o:\r\nCLT\r\n\r\n## Como se candidatar:\r\n\r\nhttps://app.careerpuck.com/job-board/trustly/job/fc162e73-13d7-48b9-8a83-a5a3f2cdcd57\r\n\r\n## Labels: \r\n#### Aloca\u00e7\u00e3o\r\nRemoto\r\n#### Regime\r\nCLT\r\n#### N\u00edvel\r\n\r\n- Pleno\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-22T17:09:58Z"
+    },
+    {
+        "issues": "https://github.com/thisdot/tech-newsletters/issues/27",
+        "title": "Add more DevOps newsletters",
+        "body": "We have a few newsletters but we could always use some more. \r\nPlease read through the [contributing documentation](https://github.com/thisdot/tech-newsletters/blob/main/CONTRIBUTING.md) before making a pull request. \r\n\r\n**Please note: This issue will remain open and not be assigned to anyone because we encourage multiple people to work on this**",
+        "labels": [
+            {
+                "id": 3431977388,
+                "node_id": "LA_kwDOGL3uiM7Mj9Gs",
+                "url": "https://api.github.com/repos/thisdot/tech-newsletters/labels/good%20first%20issue",
+                "name": "good first issue",
+                "color": "7057ff",
+                "default": true,
+                "description": "Good for newcomers"
+            },
+            {
+                "id": 4577822226,
+                "node_id": "LA_kwDOGL3uiM8AAAABENwGEg",
+                "url": "https://api.github.com/repos/thisdot/tech-newsletters/labels/hacktoberfest",
+                "name": "hacktoberfest",
+                "color": "D93F0B",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-26T16:01:21Z"
+    },
+    {
+        "issues": "https://github.com/kamranahmedse/developer-roadmap/issues/1848",
+        "title": "[Suggestion] DevOps Roadmap",
+        "body": "Hi I would have add APM (Elasticsearch) on Application monitoring.",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-22T15:12:15Z"
+    },
+    {
+        "issues": "https://github.com/vegaprotocol/vega-market-sim/issues/217",
+        "title": "feat: add devops dir",
+        "body": "### Description\r\nAdds a `devops` directory added to `vega_sim` containing the following:\r\n\r\n- `run.py` - runs a specified configured scenario on a specified network\r\n- `registry.py` - contains a dict with various scenario configurations which can be run\r\n- `scenario.py` - contains the scenario which can be run\r\n- `wallet.py` - contains information about the wallet and keys to use when running a scenario\r\n- `readme.md` - a WIP readme file\r\n\r\nThe directory will allow devops to run `vega-market-sim` bots on various markets and networks.\r\n\r\n### Testing\r\nNone yet.\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-21T18:32:46Z"
+    },
+    {
+        "issues": "https://github.com/tahitidevops/map.tahiti.dev/issues/18",
+        "title": "devops.pf -> tahiti.dev",
+        "body": "The old domain is gone:\n\n```sh-session\nromain@desktop-fln40kq ~ % whois devops.pf\nThis is the PF top level domain whois server.\nInformations about 'devops.pf' :\n\nDomain unknown\n```\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-20T01:30:46Z"
+    },
+    {
+        "issues": "https://github.com/kamranahmedse/developer-roadmap/issues/1885",
+        "title": "Add content to DevOps roadmap",
+        "body": "[DevOps Roadmap](https://roadmap.sh/devops) has been made interactive, but it is missing content in some roadmap nodes. We need to fill the [markdown files given here](https://github.com/kamranahmedse/developer-roadmap/tree/master/content/roadmaps/102-devops/content) with a short introduction to the topic mentioned in the markdown file and add some resources as [per the guidelines here](https://github.com/kamranahmedse/developer-roadmap/blob/master/contributing.md#adding-content).\r\n\r\n**Note** \u2014 You don't have to fill all the markdown files simultaneously. Feel free to create separate pull requests with batches of changes (e.g. fill up 10 content files in each PR).",
+        "labels": [
+            {
+                "id": 561371924,
+                "node_id": "MDU6TGFiZWw1NjEzNzE5MjQ=",
+                "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/labels/help%20wanted",
+                "name": "help wanted",
+                "color": "128A0C",
+                "default": true,
+                "description": null
+            },
+            {
+                "id": 4422506159,
+                "node_id": "LA_kwDOBRIuNs8AAAABB5oWrw",
+                "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/labels/good%20first%20issue",
+                "name": "good first issue",
+                "color": "77B4F8",
+                "default": true,
+                "description": ""
+            },
+            {
+                "id": 4537789253,
+                "node_id": "LA_kwDOBRIuNs8AAAABDnkrRQ",
+                "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/labels/hacktoberfest",
+                "name": "hacktoberfest",
+                "color": "33A488",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 0,
+        "comments": 23,
+        "created_at": "2022-09-27T11:12:10Z"
+    },
+    {
+        "issues": "https://github.com/genildovsm/kube-news/issues/1",
+        "title": "monitoramento kube-news devops de elite",
+        "body": "Poderia por favor postar os prints do monitoramento kube-news devops de elite?\r\n-  targets no Prometheus \r\n- dashboard no Grafana\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 1,
+        "created_at": "2022-10-23T21:54:57Z"
+    },
+    {
+        "issues": "https://github.com/rlongo-office/rpg-client-gm/issues/19",
+        "title": "DevOps Workflows",
+        "body": "Setup a script for ci.yml, deploy.yml and an optional publish.yml The goal of ci.yml is to build and run the tests. If these fail then that prevents the deploy.yml from running. ci.yml runs anytime code is checked into a branch. deploy.yml runs anytime code is merged into main and this triggers a redeployment of the app to Vercel.\r\n\r\nNote: this task is dependent on the app already being setup with Vercel (deployable).",
+        "labels": [
+            {
+                "id": 4489358381,
+                "node_id": "LA_kwDOGr9d488AAAABC5YsLQ",
+                "url": "https://api.github.com/repos/rlongo-office/rpg-client-gm/labels/2",
+                "name": "2",
+                "color": "0E8A16",
+                "default": false,
+                "description": "2 point task"
+            }
+        ],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-09-02T03:40:33Z"
+    },
+    {
+        "issues": "https://github.com/DevOps-Brazil/Vagas/issues/337",
+        "title": "[Remoto] Devops Engineer na Coodesh",
+        "body": "## Descri\u00e7\u00e3o da vaga: \r\nEsta \u00e9 uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se voc\u00ea ter\u00e1 acesso as informa\u00e7\u00f5es completas sobre a empresa e benef\u00edcios.\r\n\r\n\r\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/vagas/vaga-devops-engineer-153856923?utm_source=github&utm_medium=DevOps-Brazil-Vagas&modal=open) com o pop-up personalizado de candidatura. \ud83d\udc4b\r\n<p>A <strong>KLB Group</strong> est\u00e1 buscando <strong><ins>Devops Engineer</ins></strong> para compor seu time!</p>\r\n<p></p>\r\n<p><strong>Responsabilidades:</strong></p>\r\n<ul>\r\n<li>Implementar ferramentas de desenvolvimento, testes, automa\u00e7\u00e3o e infraestrutura de TI;</li>\r\n<li>Monitorar o processo durante o ciclo de vida e sua ader\u00eancia, atualizar ou criar novos processos para melhoria.</li>\r\n</ul>\r\n\r\n## KLB GROUP BRASIL : \r\n <p>A KLB Group \u00e9 especializada na implementa\u00e7\u00e3o de projetos em empresas p\u00fablicas e privadas. Seja em projetos de desenvolvimento, produ\u00e7\u00e3o ou transforma\u00e7\u00e3o, a KLB Group assegura a implementa\u00e7\u00e3o eficaz, mobilizando rapidamente uma equipe de especialistas de v\u00e1rias fun\u00e7\u00f5es (compras, cadeia de suprimentos, qualidade, engenharia, TI, finan\u00e7as, etc.), com uma combina\u00e7\u00e3o \u00fanica de experi\u00eancia em design, implementa\u00e7\u00e3o e opera\u00e7\u00e3o. A KLB Group tem mais de 500 funcion\u00e1rios na Europa, Am\u00e9rica e \u00c1sia.</p>\r\n</p>\r\n\r\n ## Habilidades: \r\n - DevOps \r\n- Azure DevOps \r\n- Infraestruturas/Arquitetura de redes\r\n## Local: \r\n 100% Remoto\r\n## Requisitos: \r\n - Experi\u00eancia com ferramentas de Infra as Code, como TerraForm, Ansible, CloudFormation; \r\n- Experi\u00eancia com ferramentas de Pipeline CI/CD, como Jenkins, Bamboo, SonarQube, Selenium, Cucumber; \r\n- Ter conhecimento t\u00e9cnico para revisar, verificar, e validar os c\u00f3digos gerados no desenvolvimento do projeto; \r\n- Conhecimento em troubleshooting para identificar problemas e corrigir os bugs nos c\u00f3digos.\r\n\r\n## Benef\u00edcios: \r\n - Seguro Sa\u00fade Bradesco; \r\n- Assist\u00eancia Odontol\u00f3gica Amil 200; \r\n- Seguro de Vida e Acidentes Pessoais Tokio Marine; \r\n- Assist\u00eancia Funeral para agregados; \r\n- Vale-refei\u00e7\u00e3o ou vale alimenta\u00e7\u00e3o (voc\u00ea escolhe o que \u00e9 melhor!): no valor de R$ 600,00 por m\u00eas, com desconto mensal de R$ 1,00 em folha de pagamento; \r\n- Pontos extras para reembolsos: Valor de R$ 120,00 pode ser usado em Pet, internet, cursos, etc; \r\n- Previd\u00eancia Privada; \r\n- PAE (Programa de Apoio ao Empregado); \r\n- Aux\u00edlio creche/bab\u00e1; \r\n- Empr\u00e9stimo consignado; \r\n- Universidade corporativa; \r\n- Parcerias/Conv\u00eanios.\r\n## Como se candidatar:\r\nCandidatar-se exclusivamente atrav\u00e9s da plataforma Coodesh no link a seguir: [Devops Engineer na KLB GROUP BRASIL ](https://coodesh.com/vagas/vaga-devops-engineer-153856923?utm_source=github&utm_medium=DevOps-Brazil-Vagas&modal=open)\r\n\r\n\r\nAp\u00f3s candidatar-se via plataforma Coodesh e validar o seu login, voc\u00ea poder\u00e1 acompanhar e receber todas as intera\u00e7\u00f5es do processo por l\u00e1. Utilize a op\u00e7\u00e3o **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso far\u00e1 com que a pessoa **Recruiter** respons\u00e1vel pelo processo na empresa receba a notifica\u00e7\u00e3o.\r\n## Labels\r\n#### Aloca\u00e7\u00e3o\r\nRemoto\r\n#### Regime\r\nCLT\r\n#### Categoria\r\nDevOps",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-05T14:21:48Z"
+    },
+    {
+        "issues": "https://github.com/devssa/onde-codar-em-salvador/issues/3162",
+        "title": "[Remoto] Devops Engineer na Coodesh",
+        "body": "## Descri\u00e7\u00e3o da vaga: \r\nEsta \u00e9 uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se voc\u00ea ter\u00e1 acesso as informa\u00e7\u00f5es completas sobre a empresa e benef\u00edcios.\r\n\r\n\r\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/vagas/vaga-devops-engineer-153856923?utm_source=github&utm_medium=devssa-onde-codar-em-salvador&modal=open) com o pop-up personalizado de candidatura. \ud83d\udc4b\r\n<p>A <strong>KLB Group</strong> est\u00e1 buscando <strong><ins>Devops Engineer</ins></strong> para compor seu time!</p>\r\n<p></p>\r\n<p><strong>Responsabilidades:</strong></p>\r\n<ul>\r\n<li>Implementar ferramentas de desenvolvimento, testes, automa\u00e7\u00e3o e infraestrutura de TI;</li>\r\n<li>Monitorar o processo durante o ciclo de vida e sua ader\u00eancia, atualizar ou criar novos processos para melhoria.</li>\r\n</ul>\r\n\r\n## KLB GROUP BRASIL : \r\n <p>A KLB Group \u00e9 especializada na implementa\u00e7\u00e3o de projetos em empresas p\u00fablicas e privadas. Seja em projetos de desenvolvimento, produ\u00e7\u00e3o ou transforma\u00e7\u00e3o, a KLB Group assegura a implementa\u00e7\u00e3o eficaz, mobilizando rapidamente uma equipe de especialistas de v\u00e1rias fun\u00e7\u00f5es (compras, cadeia de suprimentos, qualidade, engenharia, TI, finan\u00e7as, etc.), com uma combina\u00e7\u00e3o \u00fanica de experi\u00eancia em design, implementa\u00e7\u00e3o e opera\u00e7\u00e3o. A KLB Group tem mais de 500 funcion\u00e1rios na Europa, Am\u00e9rica e \u00c1sia.</p>\r\n</p>\r\n\r\n ## Habilidades: \r\n - DevOps \r\n- Azure DevOps \r\n- Infraestruturas/Arquitetura de redes\r\n## Local: \r\n 100% Remoto\r\n## Requisitos: \r\n - Experi\u00eancia com ferramentas de Infra as Code, como TerraForm, Ansible, CloudFormation; \r\n- Experi\u00eancia com ferramentas de Pipeline CI/CD, como Jenkins, Bamboo, SonarQube, Selenium, Cucumber; \r\n- Ter conhecimento t\u00e9cnico para revisar, verificar, e validar os c\u00f3digos gerados no desenvolvimento do projeto; \r\n- Conhecimento em troubleshooting para identificar problemas e corrigir os bugs nos c\u00f3digos.\r\n\r\n## Benef\u00edcios: \r\n - Seguro Sa\u00fade Bradesco; \r\n- Assist\u00eancia Odontol\u00f3gica Amil 200; \r\n- Seguro de Vida e Acidentes Pessoais Tokio Marine; \r\n- Assist\u00eancia Funeral para agregados; \r\n- Vale-refei\u00e7\u00e3o ou vale alimenta\u00e7\u00e3o (voc\u00ea escolhe o que \u00e9 melhor!): no valor de R$ 600,00 por m\u00eas, com desconto mensal de R$ 1,00 em folha de pagamento; \r\n- Pontos extras para reembolsos: Valor de R$ 120,00 pode ser usado em Pet, internet, cursos, etc; \r\n- Previd\u00eancia Privada; \r\n- PAE (Programa de Apoio ao Empregado); \r\n- Aux\u00edlio creche/bab\u00e1; \r\n- Empr\u00e9stimo consignado; \r\n- Universidade corporativa; \r\n- Parcerias/Conv\u00eanios.\r\n## Como se candidatar:\r\nCandidatar-se exclusivamente atrav\u00e9s da plataforma Coodesh no link a seguir: [Devops Engineer na KLB GROUP BRASIL ](https://coodesh.com/vagas/vaga-devops-engineer-153856923?utm_source=github&utm_medium=devssa-onde-codar-em-salvador&modal=open)\r\n\r\n\r\nAp\u00f3s candidatar-se via plataforma Coodesh e validar o seu login, voc\u00ea poder\u00e1 acompanhar e receber todas as intera\u00e7\u00f5es do processo por l\u00e1. Utilize a op\u00e7\u00e3o **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso far\u00e1 com que a pessoa **Recruiter** respons\u00e1vel pelo processo na empresa receba a notifica\u00e7\u00e3o.\r\n## Labels\r\n#### Aloca\u00e7\u00e3o\r\nRemoto\r\n#### Regime\r\nCLT\r\n#### Categoria\r\nDevOps",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-05T14:21:33Z"
+    },
+    {
+        "issues": "https://github.com/CangaceirosDevels/vagas_de_emprego/issues/1984",
+        "title": "[Remoto] Devops Engineer na Coodesh",
+        "body": "## Descri\u00e7\u00e3o da vaga: \r\nEsta \u00e9 uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se voc\u00ea ter\u00e1 acesso as informa\u00e7\u00f5es completas sobre a empresa e benef\u00edcios.\r\n\r\n\r\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/vagas/vaga-devops-engineer-153856923?utm_source=github&utm_medium=CangaceirosDevels-vagas_de_emprego&modal=open) com o pop-up personalizado de candidatura. \ud83d\udc4b\r\n<p>A <strong>KLB Group</strong> est\u00e1 buscando <strong><ins>Devops Engineer</ins></strong> para compor seu time!</p>\r\n<p></p>\r\n<p><strong>Responsabilidades:</strong></p>\r\n<ul>\r\n<li>Implementar ferramentas de desenvolvimento, testes, automa\u00e7\u00e3o e infraestrutura de TI;</li>\r\n<li>Monitorar o processo durante o ciclo de vida e sua ader\u00eancia, atualizar ou criar novos processos para melhoria.</li>\r\n</ul>\r\n\r\n## KLB GROUP BRASIL : \r\n <p>A KLB Group \u00e9 especializada na implementa\u00e7\u00e3o de projetos em empresas p\u00fablicas e privadas. Seja em projetos de desenvolvimento, produ\u00e7\u00e3o ou transforma\u00e7\u00e3o, a KLB Group assegura a implementa\u00e7\u00e3o eficaz, mobilizando rapidamente uma equipe de especialistas de v\u00e1rias fun\u00e7\u00f5es (compras, cadeia de suprimentos, qualidade, engenharia, TI, finan\u00e7as, etc.), com uma combina\u00e7\u00e3o \u00fanica de experi\u00eancia em design, implementa\u00e7\u00e3o e opera\u00e7\u00e3o. A KLB Group tem mais de 500 funcion\u00e1rios na Europa, Am\u00e9rica e \u00c1sia.</p>\r\n</p>\r\n\r\n ## Habilidades: \r\n - DevOps \r\n- Azure DevOps \r\n- Infraestruturas/Arquitetura de redes\r\n## Local: \r\n 100% Remoto\r\n## Requisitos: \r\n - Experi\u00eancia com ferramentas de Infra as Code, como TerraForm, Ansible, CloudFormation; \r\n- Experi\u00eancia com ferramentas de Pipeline CI/CD, como Jenkins, Bamboo, SonarQube, Selenium, Cucumber; \r\n- Ter conhecimento t\u00e9cnico para revisar, verificar, e validar os c\u00f3digos gerados no desenvolvimento do projeto; \r\n- Conhecimento em troubleshooting para identificar problemas e corrigir os bugs nos c\u00f3digos.\r\n\r\n## Benef\u00edcios: \r\n - Seguro Sa\u00fade Bradesco; \r\n- Assist\u00eancia Odontol\u00f3gica Amil 200; \r\n- Seguro de Vida e Acidentes Pessoais Tokio Marine; \r\n- Assist\u00eancia Funeral para agregados; \r\n- Vale-refei\u00e7\u00e3o ou vale alimenta\u00e7\u00e3o (voc\u00ea escolhe o que \u00e9 melhor!): no valor de R$ 600,00 por m\u00eas, com desconto mensal de R$ 1,00 em folha de pagamento; \r\n- Pontos extras para reembolsos: Valor de R$ 120,00 pode ser usado em Pet, internet, cursos, etc; \r\n- Previd\u00eancia Privada; \r\n- PAE (Programa de Apoio ao Empregado); \r\n- Aux\u00edlio creche/bab\u00e1; \r\n- Empr\u00e9stimo consignado; \r\n- Universidade corporativa; \r\n- Parcerias/Conv\u00eanios.\r\n## Como se candidatar:\r\nCandidatar-se exclusivamente atrav\u00e9s da plataforma Coodesh no link a seguir: [Devops Engineer na KLB GROUP BRASIL ](https://coodesh.com/vagas/vaga-devops-engineer-153856923?utm_source=github&utm_medium=CangaceirosDevels-vagas_de_emprego&modal=open)\r\n\r\n\r\nAp\u00f3s candidatar-se via plataforma Coodesh e validar o seu login, voc\u00ea poder\u00e1 acompanhar e receber todas as intera\u00e7\u00f5es do processo por l\u00e1. Utilize a op\u00e7\u00e3o **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso far\u00e1 com que a pessoa **Recruiter** respons\u00e1vel pelo processo na empresa receba a notifica\u00e7\u00e3o.\r\n## Labels\r\n#### Aloca\u00e7\u00e3o\r\nRemoto\r\n#### Regime\r\nCLT\r\n#### Categoria\r\nDevOps",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-05T14:21:11Z"
+    },
+    {
+        "issues": "https://github.com/cernanalysispreservation/analysispreservation.cern.ch/issues/2663",
+        "title": "devops: request and create Opensearch within CERN",
+        "body": null,
+        "labels": [],
+        "assignees": 2,
+        "comments": 0,
+        "created_at": "2022-10-24T13:09:07Z"
+    },
+    {
+        "issues": "https://github.com/Worldremit/terraform-provider-postgresql/issues/1",
+        "title": "DEVOPS-4696: Temporary fix",
+        "body": "Proosition of fix,\r\n\r\nProblem during run application throws an Error\r\n\r\n```\r\nError: could not execute revoke query: pq: tuple concurrently updated\r\nbased on investigation problem occur during revoking permission on schema/database/...\r\n```\r\n\r\nbelow an example of failed query\r\n\r\n`REVOKE ALL PRIVILEGES ON SCHEMA \"public\" FROM \"test_multi_aaaa5\"`\r\n\r\nThis operation revoking permissions needs to be thread safe \r\nhttps://www.postgresql.org/message-id/967138.1634322291@sss.pgh.pa.us\r\n\r\nIn the current design thread safe is guranteed on the transcation lock\r\n\r\nhttps://github.com/Worldremit/terraform-provider-postgresql/blob/d03ab426840b5a4169afed7a3d42c9680e330d0e/postgresql/resource_postgresql_grant.go#L149\r\n\r\n\r\nbut it transaction lock is really based on uniq id (bigint) taken from the role, so if you have one role with multiple grants it will fail\r\nhttps://github.com/Worldremit/terraform-provider-postgresql/blob/d03ab426840b5a4169afed7a3d42c9680e330d0e/postgresql/helpers.go#L466\r\n\r\nits just dummy fix for tests, after discussion with DB's we consider removing transaction and move synchronization entire to code\r\n\r\nAdded only test which shows problem. It doesn't work properly because of\r\n\r\nhttps://github.com/hashicorp/terraform-plugin-sdk/issues/536\r\n\r\nit should be rewritten",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-21T11:42:04Z"
+    },
+    {
+        "issues": "https://github.com/cherryontech/website/issues/208",
+        "title": "Add Definition of DevOps",
+        "body": "## This PR fixes...\r\n\r\nThe lack of definition and perspective for DevOps\r\n\r\n## What I did...\r\n\r\n- Add dictionary definition for DevOps\r\n- Add software developer perspective for DevOps\r\n\r\n## How to test...\r\n\r\n1. Navigate to /dictionary\r\n1. Search 'DevOps'\r\n1. See if the definition and perspective show up under  the term 'DevOps'\r\n2. Check grammar and typos\r\n\r\n## I learned...\r\n\r\nnothing new really.\r\n",
+        "labels": [],
+        "assignees": 0,
+        "comments": 0,
+        "created_at": "2022-10-20T11:24:47Z"
+    },
+    {
+        "issues": "https://github.com/capsule-corp-ternoa/ternoa-node/issues/281",
+        "title": "DevOps: Redeploy Alphanet",
+        "body": "Tasks todo:\n- Generate new Chain Specification for Alphanet\n- Configure VMs\n- Release a new version of Ternoa Node\n\nWe need to make sure that what ever we do here that we record and/or live stream it. Currently there is no documentation on how to fully deploy a chain and we need to fix that.\n\nPeople who are responsible for this task: @soufiane-bouchaara @Leouarz @markopoloparadox ",
+        "labels": [
+            {
+                "id": 2593536390,
+                "node_id": "MDU6TGFiZWwyNTkzNTM2Mzkw",
+                "url": "https://api.github.com/repos/capsule-corp-ternoa/ternoa-node/labels/documentation",
+                "name": "documentation",
+                "color": "0075ca",
+                "default": true,
+                "description": "Improvements or additions to documentation"
+            },
+            {
+                "id": 4581185668,
+                "node_id": "LA_kwDOEzncGM8AAAABEQ9YhA",
+                "url": "https://api.github.com/repos/capsule-corp-ternoa/ternoa-node/labels/deployment",
+                "name": "deployment",
+                "color": "2E752E",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "assignees": 1,
+        "comments": 1,
+        "created_at": "2022-09-27T04:12:37Z"
+    }
+]
