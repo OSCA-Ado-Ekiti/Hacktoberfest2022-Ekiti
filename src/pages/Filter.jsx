@@ -115,6 +115,7 @@ const Filter = () => {
 export default Filter;
 
 const StyledFilter = styled.div`
+    padding: 1rem 5%;
     .filter {
         display: flex;
         justify-content: space-between;
