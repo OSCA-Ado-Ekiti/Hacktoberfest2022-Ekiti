@@ -1,5 +1,5 @@
 import Header from './components/Header';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './components/Home';
 import About from './components/About';
 
@@ -9,14 +9,10 @@ function App() {
             <div className="App">
                 <Header />
                 <div className="content">
-                    <Switch>
-                        <Route exact path="/">
-                            <Home />
-                        </Route>
-                        <Route path="/about">
-                            <About />
-                        </Route>
-                    </Switch>
+                    <Routes>
+                        <Route exact path="/" element={<Home />} />
+                        <Route path="/about" element={<About />} />
+                    </Routes>
                 </div>
             </div>
         </Router>
