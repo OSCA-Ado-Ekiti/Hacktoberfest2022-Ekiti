@@ -76,8 +76,8 @@ const label = [
     {
         value: 'Bug',
         label: 'Bug',
-    }
-]
+    },
+];
 
 const Filter = () => {
     return (
