@@ -1,0 +1,24 @@
+
+#light{
+    background-color: #fff;
+}
+#dark{
+    background-color: #000;
+}
+#light .switch label{
+    color: #000;
+}
+.switch{
+    width: 10rem;
+    background-color:#8080806c;
+
+}
+#dark .switch label{
+    color: #fff;
+}
+.changeBackground {
+    background-color: green;
+    border: none;
+    padding: 0.4rem 2rem;
+    border-radius: 0.2rem;
+}
