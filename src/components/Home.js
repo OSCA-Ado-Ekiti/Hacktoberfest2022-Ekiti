@@ -2,7 +2,6 @@ import React from 'react';
 import Select from 'react-select';
 import styled from 'styled-components';
 
-
 const stacks = [
     {
         value: 'Design',
@@ -77,9 +76,8 @@ const label = [
     {
         value: 'Bug',
         label: 'Bug',
-    }
-]
-
+    },
+];
 
 const Home = () => {
     <StyledFilter>
@@ -109,11 +107,10 @@ const Home = () => {
                 </div>
             </div>
         </div>
-    </StyledFilter>
+    </StyledFilter>;
 };
 
 export default Home;
-
 
 const StyledFilter = styled.div`
     padding: 1rem 5%;
