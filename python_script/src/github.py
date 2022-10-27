@@ -12,10 +12,12 @@ def fetch_issues(query=None, labels=None, page=1):
             return None
     except:
         return None 
+    
+if __name__ == '__main__':
+    data_fetch = fetch_issues('','',1)
 
-def clean_issues():
 
-    data_fetch_iss = fetch_issues('', 'hacktoberfest, hacktoberfest-accepted')
+def clean_issues(data_fetch_iss):
 
     if isinstance(data_fetch_iss, dict):
         data = {}
@@ -34,15 +36,19 @@ def clean_issues():
 
         return clean_data
     return None
+    
+if __name__ == '__main__':
+    clean_issue = clean_issues(data_fetch)
 
-def write_to_file(filename):
 
-    if (clean_issue := clean_issues()):  
+def write_to_file(filename, issue_data):
+
+    if issue_data:  
         with open(filename, 'a') as file:
-            json.dump(clean_issue, file, indent=4)
-            print('File saved successfully.')
+            json.dump(issue_data, file, indent=4)
+            return 'File saved successfully.'
     else:
-        print('Opps! who should we blame, network?')
+        return 'Opps! who should we blame, network?'
 
 if '__main__' == __name__:
-    write_to_file('files/.json')
+    write_to_file('', clean_issue)
