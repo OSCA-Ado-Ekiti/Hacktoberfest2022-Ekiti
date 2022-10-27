@@ -12,3 +12,5 @@ node_modules
 
 npm-debug.log*
 package-lock.json
+__pycache__/
+test.json
