@@ -4,6 +4,7 @@ import chat from '../constants/icons/akar-icons_chat-dots.png';
 import bulb from '../constants/icons/bulb.png';
 import clock from '../constants/icons/clock.png';
 import star from '../constants/icons/star.png';
+import PropTypes from 'prop-types';
 
 /* To make use of this card:
    1. map through with firstIssues array
@@ -11,19 +12,19 @@ import star from '../constants/icons/star.png';
    3. uncomment the divs below the static divs to fetch your values or modify to your taste.
 */
 
-const Card = () => {
+const Card = ({ title, commentNumber,  assigneeNumber, time }) => {
     return (
         <>
             <StyledCard>
                 <div className="card">
                     <div className="stack-one">
-                        <h6>Issue title here</h6>
-                        <div className="chat">
-                            <img src={chat} alt="chat" /> 7
-                        </div>
+                        <h6>{title}</h6>
                         {/* <div className="chat">
-                            <img src={chat} alt="chat" /> {chatNumber}
+                            <img src={chat} alt="chat" /> 7
                         </div> */}
+                        <div className="chat">
+                            <img src={chat} alt="chat" /> {commentNumber}
+                        </div>
                     </div>
 
                     <div className="stack-two">
@@ -34,20 +35,21 @@ const Card = () => {
                             <img src={star} alt="star" /> {starNumber}
                         </div> */}
 
-                        <div>
-                            <img src={bulb} alt="assignee" /> 3 assignees
-                        </div>
                         {/* <div>
-                            <img src={bulb} alt="assignee" /> {assignee}
+                            <img src={bulb} alt="assignee" /> 3 assignees
                         </div> */}
-
                         <div>
+                            <img src={bulb} alt="assignee" /> {assigneeNumber}{' '}
+                            assignees
+                        </div>
+
+                        {/* <div>
                             <img src={clock} alt="clock" /> October 13, 2022 - 3
                             hours ago
-                        </div>
-                        {/* <div>
-                            <img src={clock} alt="clock" /> {time}
                         </div> */}
+                        <div>
+                            <img src={clock} alt="clock" /> {time}
+                        </div>
                     </div>
                 </div>
             </StyledCard>
@@ -56,6 +58,13 @@ const Card = () => {
 };
 
 export default Card;
+
+Card.propTypes = {
+    title: PropTypes.string,
+    commentNumber: PropTypes.string,
+    assigneeNumber: PropTypes.string,
+    time: PropTypes.string,
+};
 
 const StyledCard = styled.div`
     padding: 1rem 8%;
