@@ -6,15 +6,17 @@ const About = () => {
         <StyledAbout>
             <div className="about-content">
                 <h1>
-                    Good First Issues empowers first-time contributors of
+                    Good First Issues inspire first-time contributors of
                     open-source software
                 </h1>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. A
-                    nibh cursus feugiat non neque libero. Sit dictum quis et in
-                    suspendisse pulvinar. Risus sed sit a sed ac, venenatis
-                    etiam. Massa tincidunt commodo molestie cras placerat tellus
-                    adipiscing mollis nunc.
+                    Developers that wish to contribute to open source software
+                    but are unsure of where or how to begin are the main
+                    audience for this website. This website gives developers
+                    filters so they may search and choose issues and
+                    repositories based on the programming languages they are
+                    most familiar with. Additionally, they have a choice in the
+                    issues they choose to address.
                 </p>
             </div>
         </StyledAbout>
