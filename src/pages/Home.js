@@ -1,7 +1,7 @@
 import React from 'react';
-import Filter from './Filter';
-import Card from './Card';
-import DevOps  from '../files/devops';
+import Filter from '../components/Filter';
+import Card from '../components/Card';
+import DevOps from '../files/devops';
 import Backend from '../files/backend';
 import Frontend from '../files/frontend';
 import Design from '../files/design';
@@ -16,7 +16,6 @@ const Home = () => {
 
     const handleStack = selectedValue => {
         setStack(selectedValue.value);
-        console.log(selectedValue.value);
     };
     const handleLabel = selectedValue => {
         setLabel(selectedValue.value);
@@ -25,6 +24,7 @@ const Home = () => {
     //     setLevel(selectedValue.value);
     // };
 
+    //filter function
     const filter = (stack, label) => {
         let filtered = [];
         if (stack === 'Backend') {
