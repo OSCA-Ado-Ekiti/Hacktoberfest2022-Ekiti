@@ -1863,4 +1863,4 @@ const DevOps = [
     },
 ];
 
-export default DevOps
+export default DevOps;

@@ -47,23 +47,23 @@ const stacks = [
     {
         value: 'React',
         label: 'React',
-    }
+    },
 ];
 
-// const level = [
-//     {
-//         value: 'Beginner',
-//         label: 'Beginner',
-//     },
-//     {
-//         value: 'Intermediate',
-//         label: 'Intermediate',
-//     },
-//     {
-//         value: 'Expert',
-//         label: 'Expert',
-//     },
-// ];
+const level = [
+    {
+        value: 'Beginner',
+        label: 'Beginner',
+    },
+    {
+        value: 'Intermediate',
+        label: 'Intermediate',
+    },
+    {
+        value: 'Expert',
+        label: 'Expert',
+    },
+];
 
 const label = [
     {
@@ -84,14 +84,12 @@ const label = [
     },
 ];
 
-
-
 const Filter = ({
     stackValue,
     // levelValue,
     labelValue,
     changeStack,
-//    changeLevel,
+    //    changeLevel,
     changeLabel,
 }) => {
     return (
@@ -110,19 +108,19 @@ const Filter = ({
                         />
                     </div>
                 </div>
-                {/* <div className="dropdown-container">
+                <div className="dropdown-container">
                     <div className="label">
                         <label>Filter by Level</label>
                     </div>
                     <div className="dropdown">
                         <Select
                             options={level}
-                            onChange={changeLevel}
-                            value={levelValue}
+                            // onChange={changeLevel}
+                            // value={levelValue}
                             placeholder="Select a level"
                         />
                     </div>
-                </div> */}
+                </div>
                 <div className="dropdown-container">
                     <div className="label">
                         <label>Filter by Label</label>
@@ -157,6 +155,10 @@ const StyledFilter = styled.div`
     .filter {
         display: flex;
         justify-content: space-between;
+        @media (max-width: 768px) {
+            flex-wrap: wrap;
+            gap: 2rem;
+        }
         .dropdown-container {
             .label {
                 label {
