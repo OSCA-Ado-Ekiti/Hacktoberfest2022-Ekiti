@@ -1,13 +1,13 @@
 import React from 'react';
 import Filter from '../components/Filter';
 import Card from '../components/Card';
-import DevOps from '../files/devops';
-import Backend from '../files/backend';
-import Frontend from '../files/frontend';
-import Design from '../files/design';
-import ReactJson from '../files/react';
-import Security from '../files/security';
-import TechnicalWriting from '../files/technical-writing';
+import { devOpsIssues } from '../issues/devOps';
+import { backendIssues } from '../issues/backend';
+import { frontendIssues } from '../issues/frontend';
+import { designIssues } from '../issues/design';
+import { reactIssues } from '../issues/react';
+import { securityIssues } from '../issues/security';
+import { technicalWritingIssues } from '../issues/technicalWriting';
 
 const Home = () => {
     const [stack, setStack] = React.useState(' ');
@@ -28,19 +28,19 @@ const Home = () => {
     const filter = (stack, label) => {
         let filtered = [];
         if (stack === 'Backend') {
-            filtered = Backend;
+            filtered = backendIssues;
         } else if (stack === 'Frontend') {
-            filtered = Frontend;
+            filtered = frontendIssues;
         } else if (stack === 'Design') {
-            filtered = Design;
+            filtered = designIssues;
         } else if (stack === 'DevOps') {
-            filtered = DevOps;
+            filtered = devOpsIssues;
         } else if (stack === 'React') {
-            filtered = ReactJson;
+            filtered = reactIssues;
         } else if (stack === 'Security') {
-            filtered = Security;
+            filtered = securityIssues;
         } else if (stack === 'TechnicalWriting') {
-            filtered = TechnicalWriting;
+            filtered = technicalWritingIssues;
         }
         if (label !== ' ') {
             filtered = filtered.filter(issue =>
